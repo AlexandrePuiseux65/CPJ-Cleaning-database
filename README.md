@@ -1,20 +1,18 @@
 # 📰 CPJ Database Cleanning
 ![Status](https://img.shields.io/badge/Status-Completed-green)
 
-This small project was a *" happy "* mistate that I didn't for a project in the module "Information Visualisation - CS5044" where I didn't a intgral cleanning of the CPJ database that was given to us.
+Comprehensive data cleaning and exploratory analysis of the CPJ (Committee to Protect Journalists) global database on journalist deaths.
 
 ## Description
 
+This project was born out of a gap identified during the module **"Information Visualisation - CS5044"**, where the CPJ database was provided without a thorough cleaning phase. This repo addresses that by performing a rigorous preprocessing pipeline based on the official CPJ methodology.
 
-# Getting Started
-## Dependencies
+The work focuses on:
+- Data familiarization and structure exploration
+- Integrity checks (missing values, duplicates, inconsistencies)
+- Preprocessing and standardization for future analysis
 
-
-## Installation
-
-
-## Running the program
-
+---
 
 ## Authors
 * [@Alexandre Puiseux](https://github.com/AlexandrePuiseux65)
@@ -22,5 +20,6 @@ This small project was a *" happy "* mistate that I didn't for a project in the 
 # Acknowledgments
 
 ## Dataset
-> CPJ Doc - Link: https://cpj.org/data/methodology/.
+> CPJ — *Committee to Protect Journalists Database & Methodology*  
+> https://cpj.org/data/methodology/
 
