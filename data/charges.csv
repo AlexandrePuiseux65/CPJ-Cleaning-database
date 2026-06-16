@@ -1,0 +1,1795 @@
+J_Id,charge
+1,Anti-State
+5,No Charge
+7,Anti-State
+8,Anti-State
+10,Anti-State
+12,No Charge
+13,Defamation
+15,Defamation
+15,Ethnic or Religious Insult
+16,Anti-State
+16,False News
+16,Retaliatory
+20,Anti-State
+20,False News
+20,Retaliatory
+21,Retaliatory
+23,Anti-State
+23,False News
+24,Retaliatory
+27,Anti-State
+28,Anti-State
+30,Anti-State
+32,Anti-State
+32,Retaliatory
+33,Anti-State
+34,Anti-State
+38,No Charge
+40,No charge disclosed
+43,False News
+43,Retaliatory
+50,Anti-State
+53,Defamation
+54,No Charge
+56,Ethnic or Religious Insult
+76,Anti-State
+77,Anti-State
+78,Anti-State
+82,Anti-State
+83,Anti-State
+86,Ethnic or Religious Insult
+88,Retaliatory
+89,Anti-State
+89,Retaliatory
+91,Anti-State
+91,Defamation
+91,Retaliatory
+92,No charge disclosed
+93,Anti-State
+96,No Charge
+97,Anti-State
+98,Anti-State
+103,Retaliatory
+104,No charge disclosed
+106,Retaliatory
+107,Anti-State
+108,Anti-State
+109,Anti-State
+109,Retaliatory
+110,No Charge
+112,Anti-State
+113,Defamation
+113,False News
+114,Anti-State
+114,False News
+115,Anti-State
+115,False News
+116,No charge disclosed
+117,No charge disclosed
+118,Anti-State
+119,Defamation
+120,Anti-State
+120,False News
+121,False News
+122,Defamation
+124,Anti-State
+124,False News
+130,Anti-State
+132,Censorship Violation
+133,No charge disclosed
+134,Ethnic or Religious Insult
+136,Anti-State
+136,False News
+138,No Charge
+140,Anti-State
+141,No Charge
+143,No Charge
+145,No Charge
+148,Defamation
+149,Anti-State
+150,Retaliatory
+151,Anti-State
+159,Anti-State
+160,Retaliatory
+161,Retaliatory
+162,Anti-State
+163,Anti-State
+163,Defamation
+163,False News
+164,Anti-State
+165,Anti-State
+165,Ethnic or Religious Insult
+165,Defamation
+167,Anti-State
+168,Ethnic or Religious Insult
+176,Anti-State
+177,Retaliatory
+177,Anti-State
+178,No Charge
+178,Anti-State
+179,Anti-State
+179,No Charge
+181,Anti-State
+183,Anti-State
+193,Defamation
+194,Anti-State
+195,Anti-State
+195,Defamation
+195,Retaliatory
+197,No Charge
+198,Retaliatory
+199,No Charge
+204,Anti-State
+207,No Charge
+212,Anti-State
+212,False News
+214,No Charge
+220,Anti-State
+222,Anti-State
+222,False News
+223,No Charge
+227,Anti-State
+227,False News
+229,No charge disclosed
+230,Anti-State
+232,Anti-State
+234,Anti-State
+235,Anti-State
+236,Anti-State
+238,Anti-State
+238,False News
+239,Anti-State
+241,Anti-State
+242,Retaliatory
+243,Anti-State
+246,No Charge
+247,Anti-State
+248,Anti-State
+250,Anti-State
+253,No Charge
+255,Anti-State
+256,Anti-State
+257,No Charge
+259,Anti-State
+259,False News
+260,Anti-State
+264,Anti-State
+264,False News
+272,No Charge
+273,Anti-State
+274,Anti-State
+275,Anti-State
+275,Retaliatory
+285,Anti-State
+290,Anti-State
+294,Anti-State
+295,Retaliatory
+299,Defamation
+300,Defamation
+304,Defamation
+306,Retaliatory
+308,Anti-State
+308,False News
+312,Anti-State
+313,Anti-State
+318,Anti-State
+320,Ethnic or Religious Insult
+321,Anti-State
+322,No Charge
+325,Anti-State
+325,False News
+326,No Charge
+327,False News
+328,Defamation
+333,Anti-State
+335,Anti-State
+336,Anti-State
+336,Defamation
+337,No Charge
+339,Anti-State
+340,Anti-State
+341,Anti-State
+343,Ethnic or Religious Insult
+345,No Charge
+354,Anti-State
+356,Anti-State
+358,No Charge
+359,Anti-State
+360,No charge disclosed
+361,Anti-State
+362,No Charge
+363,Anti-State
+364,Anti-State
+365,Anti-State
+376,Retaliatory
+380,Retaliatory
+381,Anti-State
+382,Defamation
+383,No charge disclosed
+385,No Charge
+387,No Charge
+389,No Charge
+391,No Charge
+392,Anti-State
+396,Anti-State
+397,Retaliatory
+402,Defamation
+403,Anti-State
+406,No Charge
+408,Retaliatory
+409,Defamation
+409,Retaliatory
+416,Retaliatory
+418,Defamation
+420,Anti-State
+430,Defamation
+433,Defamation
+434,No Charge
+442,Anti-State
+446,Anti-State
+447,Anti-State
+447,Defamation
+448,No Charge
+449,Anti-State
+449,Ethnic or Religious Insult
+449,Retaliatory
+455,Ethnic or Religious Insult
+456,Anti-State
+456,Defamation
+459,Retaliatory
+460,No Charge
+466,Ethnic or Religious Insult
+473,Anti-State
+474,Retaliatory
+477,Anti-State
+477,False News
+481,Retaliatory
+482,Anti-State
+483,Anti-State
+484,Anti-State
+485,False News
+485,Retaliatory
+489,Anti-State
+491,Anti-State
+493,Anti-State
+494,Anti-State
+495,Retaliatory
+496,Anti-State
+498,No Charge
+500,Anti-State
+501,Censorship Violation
+503,Retaliatory
+504,Anti-State
+505,Anti-State
+506,Anti-State
+510,Retaliatory
+514,Anti-State
+516,Anti-State
+517,No Charge
+518,Retaliatory
+520,Anti-State
+521,Anti-State
+522,Anti-State
+524,Anti-State
+526,Ethnic or Religious Insult
+527,Anti-State
+528,Anti-State
+529,Anti-State
+532,Retaliatory
+534,No Charge
+535,Retaliatory
+539,Retaliatory
+540,No Charge
+541,No charge disclosed
+542,Anti-State
+544,Anti-State
+546,Anti-State
+547,Anti-State
+548,Anti-State
+549,No Charge
+550,No Charge
+551,Anti-State
+552,No Charge
+557,Retaliatory
+561,Anti-State
+563,Anti-State
+570,No Charge
+571,Anti-State
+576,Anti-State
+577,Anti-State
+578,Anti-State
+579,Anti-State
+579,No Charge
+582,Anti-State
+583,Anti-State
+583,Defamation
+584,Anti-State
+588,No Charge
+589,Anti-State
+594,Anti-State
+596,No Charge
+597,Anti-State
+598,Retaliatory
+599,Anti-State
+603,Retaliatory
+604,No Charge
+605,No Charge
+607,Anti-State
+608,Anti-State
+609,No Charge
+610,No Charge
+614,Retaliatory
+615,Anti-State
+615,False News
+618,Anti-State
+619,Retaliatory
+623,Anti-State
+625,Anti-State
+629,Retaliatory
+635,Anti-State
+637,Anti-State
+638,Anti-State
+639,Anti-State
+640,Anti-State
+641,Anti-State
+645,Anti-State
+646,Anti-State
+647,Anti-State
+648,Anti-State
+649,Anti-State
+650,Defamation
+654,Anti-State
+670,Anti-State
+674,Anti-State
+675,Anti-State
+678,Anti-State
+681,Anti-State
+685,Retaliatory
+687,No Charge
+692,Retaliatory
+694,Retaliatory
+695,Anti-State
+696,Retaliatory
+697,Anti-State
+698,Anti-State
+699,Anti-State
+700,Anti-State
+701,Anti-State
+702,Anti-State
+703,No Charge
+704,Anti-State
+705,Anti-State
+707,No Charge
+709,Anti-State
+712,No Charge
+713,Anti-State
+714,Anti-State
+721,Anti-State
+722,Anti-State
+728,Anti-State
+730,Anti-State
+733,Anti-State
+734,No Charge
+737,No Charge
+738,Anti-State
+738,False News
+739,Anti-State
+742,Retaliatory
+743,No Charge
+744,Anti-State
+745,Defamation
+749,Anti-State
+749,False News
+751,Anti-State
+753,Anti-State
+753,False News
+754,No Charge
+755,No Charge
+760,Anti-State
+763,Anti-State
+767,Anti-State
+769,Anti-State
+774,Defamation
+775,Anti-State
+775,Defamation
+775,False News
+777,No Charge
+778,Anti-State
+779,Anti-State
+780,No Charge
+781,Anti-State
+782,No charge disclosed
+783,No charge disclosed
+784,Anti-State
+785,No Charge
+787,No Charge
+789,Anti-State
+790,Anti-State
+793,Anti-State
+794,Anti-State
+794,False News
+795,Anti-State
+797,No Charge
+801,No Charge
+805,Anti-State
+809,Retaliatory
+811,Anti-State
+813,Retaliatory
+815,Anti-State
+818,No Charge
+820,Anti-State
+822,Anti-State
+823,No Charge
+831,No Charge
+838,Anti-State
+839,Anti-State
+840,No Charge
+841,Defamation
+842,Anti-State
+846,Anti-State
+848,Anti-State
+848,Retaliatory
+849,False News
+850,Anti-State
+851,Anti-State
+851,Retaliatory
+858,No Charge
+862,Anti-State
+863,Anti-State
+865,Anti-State
+870,Defamation
+877,Defamation
+878,Anti-State
+885,Anti-State
+890,No Charge
+891,Ethnic or Religious Insult
+892,Anti-State
+893,Anti-State
+897,Anti-State
+898,Anti-State
+899,Retaliatory
+899,Anti-State
+900,False News
+900,Retaliatory
+902,Retaliatory
+904,No Charge
+905,Defamation
+913,Anti-State
+913,False News
+914,Anti-State
+914,Ethnic or Religious Insult
+915,No Charge
+916,No Charge
+917,Anti-State
+919,Retaliatory
+921,Anti-State
+922,Anti-State
+924,Defamation
+925,No charge disclosed
+927,Anti-State
+931,Defamation
+933,No Charge
+934,Anti-State
+935,Anti-State
+936,Anti-State
+936,Retaliatory
+937,Anti-State
+938,Anti-State
+939,Anti-State
+940,Anti-State
+941,Defamation
+942,Retaliatory
+944,No charge disclosed
+945,Anti-State
+952,Anti-State
+953,Retaliatory
+954,Anti-State
+954,False News
+955,Anti-State
+955,False News
+957,Anti-State
+957,False News
+958,Anti-State
+962,Anti-State
+962,False News
+964,Anti-State
+965,Retaliatory
+966,No Charge
+967,Retaliatory
+970,Anti-State
+976,Anti-State
+977,No charge disclosed
+978,Anti-State
+979,No Charge
+980,Anti-State
+982,Ethnic or Religious Insult
+988,Anti-State
+991,Anti-State
+992,Defamation
+992,Anti-State
+994,No charge disclosed
+996,Anti-State
+996,Retaliatory
+997,Retaliatory
+999,Anti-State
+1000,Anti-State
+1002,Anti-State
+1003,Anti-State
+1004,Anti-State
+1005,No Charge
+1006,Anti-State
+1007,Anti-State
+1008,Anti-State
+1009,Anti-State
+1010,Anti-State
+1012,Anti-State
+1014,Anti-State
+1016,Anti-State
+1019,Retaliatory
+1020,Anti-State
+1027,Anti-State
+1028,No Charge
+1038,Anti-State
+1039,Anti-State
+1040,No Charge
+1041,Anti-State
+1042,Anti-State
+1045,Anti-State
+1046,Retaliatory
+1053,No Charge
+1056,Defamation
+1059,Anti-State
+1059,Defamation
+1069,Defamation
+1071,Anti-State
+1072,No Charge
+1073,Anti-State
+1074,Defamation
+1075,Defamation
+1076,Anti-State
+1078,No Charge
+1079,Anti-State
+1089,Anti-State
+1090,Retaliatory
+1091,Anti-State
+1092,Anti-State
+1094,Anti-State
+1095,False News
+1098,Anti-State
+1102,Retaliatory
+1108,Anti-State
+1109,Defamation
+1110,No Charge
+1118,No Charge
+1126,Anti-State
+1127,Defamation
+1127,False News
+1132,Anti-State
+1133,Anti-State
+1136,No charge disclosed
+1137,Anti-State
+1138,No Charge
+1144,Anti-State
+1149,Anti-State
+1149,False News
+1155,Anti-State
+1162,Anti-State
+1166,Anti-State
+1170,Anti-State
+1172,Anti-State
+1173,Anti-State
+1174,Anti-State
+1175,Retaliatory
+1176,Anti-State
+1177,Anti-State
+1178,Retaliatory
+1181,Defamation
+1185,Anti-State
+1186,Anti-State
+1187,Anti-State
+1188,Anti-State
+1191,Anti-State
+1192,Anti-State
+1195,Retaliatory
+1196,No Charge
+1197,No Charge
+1199,No Charge
+1202,Anti-State
+1207,Retaliatory
+1209,Anti-State
+1210,No Charge
+1211,Anti-State
+1215,Defamation
+1216,Anti-State
+1217,Anti-State
+1218,Anti-State
+1218,False News
+1219,Anti-State
+1221,No Charge
+1223,No charge disclosed
+1224,Anti-State
+1226,Anti-State
+1226,Retaliatory
+1229,Ethnic or Religious Insult
+1230,Anti-State
+1231,Defamation
+1232,False News
+1234,No Charge
+1235,No Charge
+1236,No Charge
+1237,Anti-State
+1240,Anti-State
+1241,Anti-State
+1246,Anti-State
+1247,Anti-State
+1248,Anti-State
+1251,False News
+1256,Anti-State
+1256,Retaliatory
+1257,Anti-State
+1258,False News
+1258,Defamation
+1259,Anti-State
+1260,No Charge
+1264,Anti-State
+1264,False News
+1265,No charge disclosed
+1266,Anti-State
+1268,Anti-State
+1270,Anti-State
+1271,Anti-State
+1272,No Charge
+1273,Anti-State
+1274,Anti-State
+1279,No Charge
+1280,Anti-State
+1281,Anti-State
+1282,Anti-State
+1285,Retaliatory
+1287,Anti-State
+1293,Anti-State
+1294,Anti-State
+1300,Retaliatory
+1301,Anti-State
+1303,Anti-State
+1304,Anti-State
+1304,Retaliatory
+1306,Anti-State
+1311,Anti-State
+1311,False News
+1312,Anti-State
+1314,Anti-State
+1314,Retaliatory
+1315,Anti-State
+1316,Anti-State
+1318,Anti-State
+1319,Anti-State
+1320,Anti-State
+1322,Anti-State
+1323,Anti-State
+1323,False News
+1324,Anti-State
+1327,Anti-State
+1328,Anti-State
+1329,Retaliatory
+1330,Anti-State
+1331,Anti-State
+1332,Anti-State
+1333,Retaliatory
+1341,Anti-State
+1346,Anti-State
+1347,Anti-State
+1348,Anti-State
+1351,Anti-State
+1352,Retaliatory
+1354,Anti-State
+1358,Anti-State
+1361,Anti-State
+1362,Anti-State
+1364,Anti-State
+1367,Anti-State
+1371,No Charge
+1372,No Charge
+1373,Anti-State
+1373,Defamation
+1373,Retaliatory
+1374,Retaliatory
+1375,No Charge
+1376,Defamation
+1376,Retaliatory
+1381,Anti-State
+1382,Anti-State
+1383,No charge disclosed
+1384,Anti-State
+1392,Retaliatory
+1398,Defamation
+1398,Retaliatory
+1401,Anti-State
+1402,No charge disclosed
+1411,No Charge
+1419,No Charge
+1421,Anti-State
+1421,False News
+1424,No Charge
+1425,Anti-State
+1425,False News
+1428,Anti-State
+1429,No Charge
+1435,Anti-State
+1435,Defamation
+1436,No Charge
+1445,Anti-State
+1447,No Charge
+1450,Anti-State
+1453,Anti-State
+1454,Retaliatory
+1459,Anti-State
+1467,Anti-State
+1471,No Charge
+1479,Anti-State
+1479,Defamation
+1483,Retaliatory
+1485,Anti-State
+1486,Anti-State
+1488,Anti-State
+1490,Anti-State
+1492,Anti-State
+1493,No Charge
+1499,Anti-State
+1503,Anti-State
+1503,False News
+1505,No Charge
+1507,Retaliatory
+1510,Anti-State
+1512,Defamation
+1512,Anti-State
+1514,Anti-State
+1515,Anti-State
+1519,No Charge
+1520,No Charge
+1522,Anti-State
+1527,Retaliatory
+1533,Anti-State
+1535,Anti-State
+1536,Retaliatory
+1539,Anti-State
+1540,Anti-State
+1541,Anti-State
+1542,Anti-State
+1543,No charge disclosed
+1544,No Charge
+1544,No charge disclosed
+1547,No charge disclosed
+1548,Anti-State
+1549,Anti-State
+1551,Anti-State
+1559,Anti-State
+1565,No Charge
+1566,Anti-State
+1566,Defamation
+1567,Anti-State
+1569,No Charge
+1572,Anti-State
+1572,Retaliatory
+1585,Anti-State
+1587,Anti-State
+1593,Retaliatory
+1611,Anti-State
+1615,Anti-State
+1626,Anti-State
+1627,Retaliatory
+1632,Anti-State
+1637,Anti-State
+1639,Anti-State
+1647,Defamation
+1652,Anti-State
+1656,Retaliatory
+1657,No charge disclosed
+1658,No charge disclosed
+1661,No Charge
+1662,No Charge
+1664,Anti-State
+1665,Anti-State
+1666,Anti-State
+1669,Anti-State
+1672,No Charge
+1673,Anti-State
+1673,Retaliatory
+1674,Anti-State
+1679,Anti-State
+1679,False News
+1680,Anti-State
+1680,False News
+1683,Anti-State
+1685,Anti-State
+1690,Anti-State
+1691,Anti-State
+1693,Anti-State
+1695,Anti-State
+1696,Anti-State
+1698,Anti-State
+1699,Anti-State
+1700,Anti-State
+1704,Anti-State
+1704,Retaliatory
+1706,Retaliatory
+1709,Anti-State
+1710,Anti-State
+1710,False News
+1720,Anti-State
+1724,Anti-State
+1726,Anti-State
+1727,Anti-State
+1728,Anti-State
+1729,Anti-State
+1734,Anti-State
+1741,Anti-State
+1742,Anti-State
+1744,Anti-State
+1745,Anti-State
+1745,Retaliatory
+1747,Anti-State
+1748,Anti-State
+1749,Anti-State
+1752,Anti-State
+1753,Anti-State
+1754,Anti-State
+1755,Censorship Violation
+1756,Anti-State
+1762,No Charge
+1769,Defamation
+1769,Ethnic or Religious Insult
+1770,Anti-State
+1774,Anti-State
+1776,No Charge
+1777,Anti-State
+1778,Anti-State
+1779,No Charge
+1781,Defamation
+1783,Retaliatory
+1784,Anti-State
+1786,Anti-State
+1792,Defamation
+1793,Retaliatory
+1795,False News
+1799,Retaliatory
+1801,Anti-State
+1802,Retaliatory
+1803,Anti-State
+1804,Anti-State
+1806,Retaliatory
+1807,Anti-State
+1808,Anti-State
+1809,Anti-State
+1813,Anti-State
+1814,Anti-State
+1816,Anti-State
+1818,No Charge
+1820,Anti-State
+1821,No Charge
+1822,Anti-State
+1823,Retaliatory
+1824,Anti-State
+1825,Defamation
+1826,Anti-State
+1827,No Charge
+1828,Retaliatory
+1829,Anti-State
+1830,Anti-State
+1831,Anti-State
+1832,Anti-State
+1834,Anti-State
+1835,Defamation
+1837,Defamation
+1838,Anti-State
+1838,False News
+1840,No Charge
+1841,Anti-State
+1842,Anti-State
+1843,Anti-State
+1844,Anti-State
+1866,Anti-State
+1867,Anti-State
+1868,Anti-State
+1872,Anti-State
+1873,Anti-State
+1874,Anti-State
+1877,Anti-State
+1878,Retaliatory
+1879,Anti-State
+1880,Anti-State
+1883,Retaliatory
+1885,Defamation
+1886,Retaliatory
+1894,Anti-State
+1895,Anti-State
+1896,Anti-State
+1897,Anti-State
+1897,Retaliatory
+1898,Anti-State
+1898,Retaliatory
+1901,Anti-State
+1901,False News
+1902,Retaliatory
+1903,Ethnic or Religious Insult
+1907,No Charge
+1908,Anti-State
+1910,Defamation
+1910,Anti-State
+1910,Retaliatory
+1911,Anti-State
+1913,Anti-State
+1914,Anti-State
+1915,No Charge
+1919,Ethnic or Religious Insult
+1922,No Charge
+1926,Defamation
+1926,False News
+1926,Anti-State
+1927,Defamation
+1928,Anti-State
+1928,Ethnic or Religious Insult
+1928,Retaliatory
+1929,No Charge
+1930,Anti-State
+1930,False News
+1932,Anti-State
+1934,Ethnic or Religious Insult
+1935,Anti-State
+1936,Defamation
+1937,No Charge
+1941,Anti-State
+1943,Anti-State
+1957,Anti-State
+1965,Anti-State
+1974,No Charge
+1978,Defamation
+1980,Defamation
+1983,Anti-State
+1985,Anti-State
+1987,No charge disclosed
+1988,Anti-State
+1988,False News
+1989,Anti-State
+1996,Anti-State
+1997,Ethnic or Religious Insult
+1999,Anti-State
+1999,False News
+2000,Anti-State
+2001,Anti-State
+2002,Defamation
+2003,No charge disclosed
+2004,Anti-State
+2005,Anti-State
+2006,Retaliatory
+2007,Anti-State
+2007,Retaliatory
+2018,No Charge
+2020,Anti-State
+2024,Anti-State
+2025,Anti-State
+2026,No Charge
+2027,Anti-State
+2028,Defamation
+2029,Defamation
+2031,No charge disclosed
+2033,Anti-State
+2034,Defamation
+2035,Anti-State
+2037,Retaliatory
+2039,Anti-State
+2040,Anti-State
+2041,Anti-State
+2043,Anti-State
+2044,Anti-State
+2045,Anti-State
+2046,Anti-State
+2047,Anti-State
+2049,Anti-State
+2050,Anti-State
+2050,False News
+2054,Anti-State
+2055,Anti-State
+2058,No Charge
+2059,False News
+2061,Anti-State
+2062,Anti-State
+2063,No charge disclosed
+2064,Anti-State
+2065,No charge disclosed
+2066,Anti-State
+2068,Anti-State
+2070,Anti-State
+2071,Anti-State
+2075,No Charge
+2076,Defamation
+2078,Defamation
+2081,Anti-State
+2081,Retaliatory
+2082,Defamation
+2083,Defamation
+2083,Retaliatory
+2084,False News
+2085,Defamation
+2090,Anti-State
+2094,Anti-State
+2097,Defamation
+2099,Anti-State
+2105,Anti-State
+2106,No charge disclosed
+2113,Anti-State
+2113,False News
+2114,No Charge
+2117,Anti-State
+2117,Defamation
+2119,Anti-State
+2122,Anti-State
+2122,False News
+2123,Defamation
+2123,False News
+2125,Anti-State
+2126,Anti-State
+2126,False News
+2126,Retaliatory
+2127,Anti-State
+2129,No Charge
+2129,Anti-State
+2129,Defamation
+2129,False News
+2131,Retaliatory
+2132,Ethnic or Religious Insult
+2134,Anti-State
+2136,Anti-State
+2136,False News
+2137,Anti-State
+2137,False News
+2146,Anti-State
+2147,Retaliatory
+2148,No Charge
+2153,Anti-State
+2153,False News
+2156,Retaliatory
+2158,Defamation
+2160,No Charge
+2161,Anti-State
+2161,Defamation
+2161,Retaliatory
+2162,Anti-State
+2162,Censorship Violation
+2163,Retaliatory
+2165,Anti-State
+2165,False News
+2168,Anti-State
+2169,No Charge
+2171,Retaliatory
+2172,Anti-State
+2174,Anti-State
+2175,Anti-State
+2179,No charge disclosed
+2181,Anti-State
+2181,Defamation
+2182,Anti-State
+2184,No Charge
+2185,Anti-State
+2185,No Charge
+2189,Anti-State
+2191,Anti-State
+2196,Defamation
+2197,No Charge
+2198,No Charge
+2199,No Charge
+2200,No Charge
+2201,No Charge
+2209,Anti-State
+2210,No Charge
+2214,Retaliatory
+2215,No Charge
+2218,Retaliatory
+2223,Anti-State
+2226,No charge disclosed
+2227,Anti-State
+2227,Defamation
+2227,False News
+2231,False News
+2235,Anti-State
+2236,No Charge
+2237,Defamation
+2237,Ethnic or Religious Insult
+2238,Anti-State
+2240,Anti-State
+2240,False News
+2241,Retaliatory
+2243,Anti-State
+2245,Anti-State
+2246,Anti-State
+2249,Anti-State
+2250,Anti-State
+2250,Retaliatory
+2251,No Charge
+2252,Anti-State
+2253,Anti-State
+2254,Anti-State
+2254,False News
+2259,Anti-State
+2260,Anti-State
+2263,Anti-State
+2265,Anti-State
+2269,Anti-State
+2273,Defamation
+2275,No Charge
+2278,Anti-State
+2282,Anti-State
+2286,Anti-State
+2287,No Charge
+2291,No Charge
+2292,No Charge
+2293,Ethnic or Religious Insult
+2298,Anti-State
+2299,Anti-State
+2301,No Charge
+2305,Anti-State
+2307,Anti-State
+2312,No Charge
+2316,Anti-State
+2317,Anti-State
+2318,Anti-State
+2319,Anti-State
+2320,Anti-State
+2322,Anti-State
+2324,Defamation
+2325,Anti-State
+2329,No Charge
+2330,Anti-State
+2332,Anti-State
+2334,Anti-State
+2335,Anti-State
+2336,Anti-State
+2336,Retaliatory
+2340,Anti-State
+2342,Anti-State
+2344,Anti-State
+2347,Anti-State
+2349,Anti-State
+2349,Defamation
+2353,No Charge
+2354,Retaliatory
+2356,Anti-State
+2358,No charge disclosed
+2359,Anti-State
+2367,Anti-State
+2367,Retaliatory
+2371,Anti-State
+2373,Anti-State
+2374,Anti-State
+2374,Ethnic or Religious Insult
+2375,No Charge
+2378,No charge disclosed
+2379,Anti-State
+2386,Anti-State
+2389,Retaliatory
+2390,Anti-State
+2392,No Charge
+2395,Anti-State
+2396,Anti-State
+2397,No Charge
+2398,No Charge
+2402,Defamation
+2404,Anti-State
+2405,No Charge
+2406,False News
+2407,Anti-State
+2408,Anti-State
+2409,Anti-State
+2410,Anti-State
+2411,Censorship Violation
+2412,No Charge
+2421,Anti-State
+2423,Anti-State
+2424,Defamation
+2425,Anti-State
+2426,Anti-State
+2427,Anti-State
+2428,Anti-State
+2429,Anti-State
+2430,Anti-State
+2431,Anti-State
+2432,Anti-State
+2433,Anti-State
+2434,No Charge
+2436,Anti-State
+2437,Anti-State
+2438,Anti-State
+2439,Retaliatory
+2440,No Charge
+2441,Anti-State
+2442,Anti-State
+2444,Anti-State
+2445,No Charge
+2446,Anti-State
+2450,Anti-State
+2451,Anti-State
+2453,Anti-State
+2453,Ethnic or Religious Insult
+2453,Retaliatory
+2454,Anti-State
+2455,Defamation
+2455,Retaliatory
+2456,Retaliatory
+2457,Anti-State
+2462,Anti-State
+2462,Retaliatory
+2464,Anti-State
+2465,Anti-State
+2465,False News
+2469,Anti-State
+2477,Anti-State
+2479,Retaliatory
+2480,Anti-State
+2481,Anti-State
+2484,Anti-State
+2486,Anti-State
+2488,False News
+2490,No Charge
+2492,Anti-State
+2494,Anti-State
+2495,Anti-State
+2497,Defamation
+2499,Anti-State
+2506,Anti-State
+2509,Anti-State
+2511,Defamation
+2514,Anti-State
+2519,Anti-State
+2523,Anti-State
+2524,Anti-State
+2524,Retaliatory
+2528,No Charge
+2531,Anti-State
+2532,Anti-State
+2533,Anti-State
+2534,Anti-State
+2535,No Charge
+2537,Anti-State
+2538,Anti-State
+2545,Retaliatory
+2546,Anti-State
+2550,Anti-State
+2550,False News
+2551,No Charge
+2553,Anti-State
+2556,No Charge
+2558,Anti-State
+2559,Anti-State
+2560,Anti-State
+2561,No charge disclosed
+2564,Anti-State
+2564,Retaliatory
+2565,False News
+2566,Anti-State
+2567,Anti-State
+2568,Anti-State
+2573,Anti-State
+2575,Defamation
+2576,No Charge
+2577,Anti-State
+2582,No Charge
+2585,Anti-State
+2589,Retaliatory
+2590,Ethnic or Religious Insult
+2592,False News
+2594,Anti-State
+2594,Defamation
+2596,Defamation
+2596,False News
+2599,Defamation
+2604,Defamation
+2607,No Charge
+2608,Anti-State
+2609,Defamation
+2614,Anti-State
+2615,Anti-State
+2616,Anti-State
+2619,Anti-State
+2622,Anti-State
+2624,Anti-State
+2626,Defamation
+2628,No Charge
+2629,Anti-State
+2630,No Charge
+2631,Anti-State
+2632,Anti-State
+2633,Anti-State
+2634,Anti-State
+2636,Anti-State
+2637,Anti-State
+2639,Anti-State
+2640,Anti-State
+2644,Anti-State
+2649,No Charge
+2651,Anti-State
+2651,Retaliatory
+2652,False News
+2655,No Charge
+2656,Ethnic or Religious Insult
+2662,Defamation
+2665,Anti-State
+2667,Anti-State
+2669,Anti-State
+2670,Retaliatory
+2671,Anti-State
+2674,No Charge
+2676,Defamation
+2677,Anti-State
+2677,Retaliatory
+2683,Anti-State
+2684,No Charge
+2691,Ethnic or Religious Insult
+2692,No Charge
+2693,Anti-State
+2694,Anti-State
+2695,Anti-State
+2696,Ethnic or Religious Insult
+2705,Anti-State
+2706,Anti-State
+2713,No Charge
+2715,No Charge
+2717,Defamation
+2719,Retaliatory
+2722,Retaliatory
+2723,Anti-State
+2724,False News
+2725,No Charge
+2728,Anti-State
+2730,No charge disclosed
+2731,Anti-State
+2734,Anti-State
+2737,Anti-State
+2738,Anti-State
+2739,No Charge
+2740,Anti-State
+2743,Anti-State
+2744,Anti-State
+2747,Anti-State
+2748,Anti-State
+2749,Anti-State
+2750,No Charge
+2754,Anti-State
+2759,Anti-State
+2759,Defamation
+2761,Anti-State
+2761,Defamation
+2764,Anti-State
+2766,Retaliatory
+2775,Retaliatory
+2788,No Charge
+2789,Censorship Violation
+2792,Anti-State
+2797,Anti-State
+2804,No charge disclosed
+2808,Defamation
+2817,Retaliatory
+2818,Anti-State
+2819,False News
+2821,No Charge
+2827,No Charge
+2830,Anti-State
+2831,No Charge
+2832,No charge disclosed
+2833,Anti-State
+2835,Anti-State
+2837,Anti-State
+2838,Anti-State
+2840,Anti-State
+2840,Retaliatory
+2841,Anti-State
+2842,Anti-State
+2843,Anti-State
+2844,Anti-State
+2845,No Charge
+2846,Anti-State
+2847,Anti-State
+2853,No Charge
+2857,No charge disclosed
+2859,No charge disclosed
+2860,Anti-State
+2861,False News
+2861,Retaliatory
+2863,Anti-State
+2866,Anti-State
+2866,Defamation
+2867,No Charge
+2875,Anti-State
+2877,Anti-State
+2879,Retaliatory
+2880,Anti-State
+2881,Anti-State
+2883,Anti-State
+2885,Anti-State
+2888,No charge disclosed
+2891,Anti-State
+2892,Anti-State
+2892,Retaliatory
+2893,Anti-State
+2895,Retaliatory
+2896,Defamation
+2897,Anti-State
+2899,Anti-State
+2907,Anti-State
+2910,Anti-State
+2913,No Charge
+2914,No charge disclosed
+2917,No Charge
+2918,Anti-State
+2918,False News
+2920,Ethnic or Religious Insult
+2921,Anti-State
+2925,Anti-State
+2929,No charge disclosed
+2933,Anti-State
+2938,Anti-State
+2938,Retaliatory
+2940,Retaliatory
+2942,Defamation
+2942,Retaliatory
+2947,No Charge
+2948,No Charge
+2951,Anti-State
+2951,False News
+2952,Anti-State
+2963,Anti-State
+2964,Anti-State
+2966,Anti-State
+2967,Anti-State
+2968,Censorship Violation
+2969,Anti-State
+2970,No Charge
+2972,Anti-State
+2973,Anti-State
+2975,No Charge
+2976,Anti-State
+2977,Anti-State
+2979,Anti-State
+2981,Retaliatory
+2985,Retaliatory
+2988,Anti-State
+2990,Anti-State
+2991,Anti-State
+2994,Anti-State
+2995,Anti-State
+2996,Anti-State
+2997,Retaliatory
+2998,No Charge
+2999,No charge disclosed
+3000,Retaliatory
+3001,No Charge
+3002,Anti-State
+3002,False News
+3003,Anti-State
+3003,False News
+3005,Retaliatory
+3011,Anti-State
+3017,Anti-State
+3022,No Charge
+3029,Retaliatory
+3030,No Charge
+3031,Anti-State
+3032,Anti-State
+3037,Anti-State
+3038,Anti-State
+3041,Defamation
+3041,Retaliatory
+3042,Anti-State
+3043,Anti-State
+3043,False News
+3048,Anti-State
+3048,False News
+3049,Anti-State
+3053,No Charge
+3055,No Charge
+3056,Anti-State
+3057,Retaliatory
+3058,Anti-State
+3060,Anti-State
+3060,False News
+3062,No Charge
+3062,Anti-State
+3063,Retaliatory
+3064,No Charge
+3065,Anti-State
+3066,Anti-State
+3066,Retaliatory
+3068,Retaliatory
+3072,Anti-State
+3072,Retaliatory
+3074,Censorship Violation
+3076,No Charge
+3078,Anti-State
+3078,False News
+3080,Anti-State
+3081,Anti-State
+3081,False News
+3082,Anti-State
+3083,False News
+3084,False News
+3085,Retaliatory
+3086,Anti-State
+3086,Defamation
+3087,Defamation
+3088,No charge disclosed
+3089,Anti-State
+3093,Anti-State
+3095,Anti-State
+3095,False News
+3098,Anti-State
+3100,Anti-State
+3110,Anti-State
+3120,No charge disclosed
+3122,Retaliatory
+3125,Anti-State
+3129,Anti-State
+3134,Anti-State
+3139,Anti-State
+3139,False News
+3145,Retaliatory
+3146,Anti-State
+3149,Anti-State
+3149,Defamation
+3149,Retaliatory
+3150,Anti-State
+3150,False News
+3151,Defamation
+3152,Anti-State
+3153,Anti-State
+3154,Retaliatory
+3155,Retaliatory
+3159,No Charge
+3163,No Charge
+3163,Anti-State
+3165,No Charge
+3167,Anti-State
+3169,Anti-State
+3169,False News
+3170,Retaliatory
+3174,No charge disclosed
+3175,No Charge
+3176,Anti-State
+3176,Defamation
+3176,False News
+3179,False News
+3182,False News
+3183,No Charge
+3184,Anti-State
+3185,Anti-State
+3186,No Charge
+3187,No charge disclosed
+3188,False News
+3190,False News
+3190,Defamation
+3191,Anti-State
+3191,Censorship Violation
+3197,Defamation
+3198,Anti-State
+3199,No Charge
+3201,Defamation
+3202,Anti-State
+3203,Anti-State
+3204,Anti-State
+3205,No Charge
+3206,Anti-State
+3206,False News
+3208,No charge disclosed
+3212,No Charge
+3213,Defamation
+3216,Anti-State
+3220,Retaliatory
+3223,Retaliatory
+3225,Anti-State
+3226,Anti-State
+3227,Anti-State
+3228,Anti-State
+3229,Anti-State
+3231,Defamation
+3232,Anti-State
+3232,Retaliatory
+3233,Anti-State
+3234,Anti-State
+3234,False News
+3236,Anti-State
+3238,Anti-State
+3241,Anti-State
+3243,Anti-State
+3244,Anti-State
+3245,No charge disclosed
+3246,No Charge
+3247,Anti-State
+3252,Anti-State
+3253,Anti-State
+3256,Anti-State
+3259,Anti-State
+3260,Anti-State
+3261,Anti-State
+3262,Anti-State
+3266,Retaliatory
+3269,Anti-State
+3277,Retaliatory
+3279,Anti-State
+3281,Anti-State
+3282,Anti-State
+3284,Anti-State
+3286,Anti-State
+3287,Anti-State
+3288,Anti-State
+3293,Retaliatory
+3294,Anti-State
+3295,Anti-State
+3307,Anti-State
+3312,Retaliatory
+3317,Anti-State
+3321,Retaliatory
+3324,Anti-State
+3331,Anti-State
+3333,Anti-State
+3336,Anti-State
+3336,False News
+3339,Anti-State
+3340,Defamation
+3342,Anti-State
+3345,No Charge
+3348,Anti-State
+3350,No Charge
+3351,No Charge
+3352,Anti-State
+3353,Anti-State
+3354,Anti-State
+3355,Retaliatory
+3356,Anti-State
+3357,Anti-State
+3358,Anti-State
+3359,Anti-State
+3360,Anti-State
+3361,Anti-State
+3362,Anti-State
+3363,False News
+3364,Anti-State
+3365,Anti-State
+3370,Anti-State
+3371,Anti-State
+3372,Anti-State
+3373,Anti-State
+3374,Anti-State
+3379,Anti-State
+3382,Retaliatory
+3383,No Charge
+3384,Anti-State
+3390,No Charge
+3392,Anti-State
+3393,Anti-State
+3394,Anti-State
+3396,Anti-State
+3397,Anti-State
+3398,Anti-State
+3399,Anti-State
+3400,Anti-State
+3401,Anti-State
+3402,Anti-State
+3404,Anti-State
+3406,No Charge
+3410,Anti-State
+3411,Anti-State
+3414,Anti-State
+3415,Anti-State
+3416,Anti-State
+3417,False News
+3418,Anti-State
+3419,Retaliatory
+3420,Anti-State
+3421,Anti-State
+3422,Anti-State
+3423,Anti-State
+3424,Retaliatory
+3428,Anti-State
+3431,Defamation
+3433,Anti-State
+3437,No charge disclosed
+3438,Anti-State
+3439,Anti-State
+3440,Retaliatory
+3441,Anti-State
+3442,Anti-State
+3443,No Charge
+3445,Anti-State
+3447,No Charge
+3448,Anti-State
+3449,No Charge
+3450,Anti-State
+3451,Anti-State
+3455,No Charge
+3457,Retaliatory
+3460,Anti-State
+3461,Retaliatory
+3463,Anti-State
+3470,Anti-State
+3471,Anti-State
+3472,No charge disclosed
+3473,Anti-State
+3474,Anti-State
+3477,Anti-State
+3480,Defamation
+3484,Retaliatory
+3485,No Charge
+3488,Anti-State
+3497,Anti-State
+3498,Anti-State
+3499,Retaliatory
+3502,Anti-State
+3504,Anti-State
+3504,False News
+3505,Anti-State
+3506,Anti-State
+3507,Anti-State
+3508,Anti-State
+3510,Retaliatory
+3510,False News
+3511,Retaliatory
+3512,Anti-State
+3513,Anti-State
+3514,Anti-State
+3515,No Charge
+3517,Retaliatory
+3518,Anti-State
+3519,Anti-State
+3520,Anti-State
+3521,Anti-State
+3522,Anti-State
+3523,Retaliatory
+3524,Defamation
+3525,Censorship Violation
+3526,Anti-State
+3527,Anti-State
+3528,Retaliatory
+3529,Anti-State
+3530,Anti-State
+3530,Defamation
+3532,Anti-State
+3534,Anti-State
+3535,Defamation
+3536,False News
+3541,Retaliatory
+3542,Anti-State
+3543,No Charge
+3544,False News
+3547,No charge disclosed
+3548,Anti-State
+3548,No Charge
+3549,Censorship Violation
+3550,Anti-State
+3556,Retaliatory
+3557,Defamation
+3558,Anti-State
+3559,Anti-State
+3561,Anti-State
+3563,Anti-State
+3564,Anti-State
+3565,Anti-State
+3566,Anti-State
+3567,Anti-State
+3570,Anti-State
+3571,Anti-State
+3572,Anti-State
+3574,Anti-State
+3574,False News
+3575,Anti-State
+3576,Anti-State
+3576,Defamation
+3577,Anti-State
+3578,Anti-State
+3579,Anti-State
+3580,Anti-State
+3581,Anti-State
+3582,Anti-State
+3585,Anti-State
+3586,Anti-State
+3586,False News
+3587,Anti-State
+3588,Anti-State

@@ -1,0 +1,3767 @@
+J_Id,job
+1,Print Reporter
+2,Producer
+3,Print Reporter
+4,Editor
+5,Editor
+6,Camera Operator
+7,Internet Reporter
+8,Print Reporter
+9,Editor
+10,Print Reporter
+11,Internet Reporter
+12,Internet Reporter
+12,Print Reporter
+13,Editor
+14,Camera Operator
+15,Columnist/Commentator
+16,Editor
+17,Camera Operator
+18,Editor
+20,Internet Reporter
+21,Internet Reporter
+22,Photographer
+23,Camera Operator
+23,Photographer
+23,Producer
+24,Columnist/Commentator
+25,Print Reporter
+26,Editor
+27,Internet Reporter
+27,Publisher/Owner
+28,Print Reporter
+29,Broadcast Reporter
+30,Broadcast Reporter
+30,Columnist/Commentator
+30,Internet Reporter
+31,Camera Operator
+31,Photographer
+32,Photographer
+33,Editor
+34,Publisher/Owner
+35,Print Reporter
+36,Broadcast Reporter
+37,Producer
+38,Publisher/Owner
+39,Broadcast Reporter
+39,Camera Operator
+40,Editor
+42,Editor
+43,Print Reporter
+43,Publisher/Owner
+44,Producer
+46,Broadcast Reporter
+47,Camera Operator
+48,Broadcast Reporter
+49,Editor
+50,Columnist/Commentator
+53,Editor
+53,Publisher/Owner
+54,Camera Operator
+55,Print Reporter
+56,Internet Reporter
+57,Print Reporter
+58,Photographer
+58,Camera Operator
+59,Broadcast Reporter
+60,Broadcast Reporter
+61,Broadcast Reporter
+62,Camera Operator
+63,Broadcast Reporter
+63,Photographer
+63,Publisher/Owner
+65,Photographer
+65,Internet Reporter
+67,Broadcast Reporter
+68,Broadcast Reporter
+69,Broadcast Reporter
+69,Print Reporter
+70,Photographer
+71,Broadcast Reporter
+71,Camera Operator
+74,Producer
+75,Editor
+76,Internet Reporter
+76,Print Reporter
+78,Internet Reporter
+79,Broadcast Reporter
+80,Broadcast Reporter
+81,Photographer
+82,Internet Reporter
+83,Columnist/Commentator
+84,Producer
+84,Columnist/Commentator
+85,Photographer
+85,Internet Reporter
+86,Publisher/Owner
+87,Broadcast Reporter
+88,Editor
+89,Broadcast Reporter
+89,Camera Operator
+89,Photographer
+91,Columnist/Commentator
+92,Columnist/Commentator
+93,Editor
+93,Internet Reporter
+94,Camera Operator
+95,Camera Operator
+95,Photographer
+96,Internet Reporter
+97,Print Reporter
+98,Print Reporter
+99,Broadcast Reporter
+101,Broadcast Reporter
+102,Editor
+103,Editor
+104,Columnist/Commentator
+105,Broadcast Reporter
+105,Editor
+106,Publisher/Owner
+107,Internet Reporter
+108,Publisher/Owner
+109,Publisher/Owner
+110,Print Reporter
+112,Internet Reporter
+113,Editor
+114,Print Reporter
+115,Print Reporter
+116,Editor
+116,Publisher/Owner
+117,Editor
+117,Publisher/Owner
+118,Print Reporter
+119,Publisher/Owner
+120,Photographer
+120,Publisher/Owner
+121,Editor
+122,Editor
+123,Editor
+124,Editor
+125,Editor
+126,Camera Operator
+127,Broadcast Reporter
+129,Camera Operator
+130,Broadcast Reporter
+132,Broadcast Reporter
+132,Internet Reporter
+132,Print Reporter
+133,Columnist/Commentator
+134,Columnist/Commentator
+135,Broadcast Reporter
+136,Editor
+137,Camera Operator
+137,Photographer
+138,Internet Reporter
+139,Print Reporter
+140,Broadcast Reporter
+141,Print Reporter
+143,Internet Reporter
+144,Camera Operator
+145,Print Reporter
+146,Print Reporter
+147,Camera Operator
+148,Editor
+149,Print Reporter
+150,Internet Reporter
+151,Editor
+152,Technician
+153,Producer
+154,Broadcast Reporter
+155,Broadcast Reporter
+157,Editor
+158,Print Reporter
+159,Columnist/Commentator
+160,Internet Reporter
+161,Editor
+161,Publisher/Owner
+162,Publisher/Owner
+163,Publisher/Owner
+164,Internet Reporter
+165,Editor
+165,Publisher/Owner
+166,Print Reporter
+167,Print Reporter
+168,Editor
+169,Photographer
+169,Internet Reporter
+171,Producer
+172,Print Reporter
+173,Broadcast Reporter
+173,Photographer
+174,Broadcast Reporter
+176,Print Reporter
+178,Print Reporter
+178,Columnist/Commentator
+179,Camera Operator
+181,Columnist/Commentator
+182,Broadcast Reporter
+183,Broadcast Reporter
+184,Editor
+184,Print Reporter
+185,Broadcast Reporter
+186,Photographer
+187,Camera Operator
+187,Photographer
+188,Print Reporter
+189,Broadcast Reporter
+189,Columnist/Commentator
+189,Producer
+190,Camera Operator
+191,Photographer
+192,Photographer
+192,Camera Operator
+193,Publisher/Owner
+194,Publisher/Owner
+195,Editor
+195,Internet Reporter
+195,Publisher/Owner
+196,Broadcast Reporter
+197,Camera Operator
+197,Producer
+198,Internet Reporter
+199,Photographer
+200,Camera Operator
+201,Camera Operator
+202,Camera Operator
+202,Photographer
+203,Broadcast Reporter
+204,Photographer
+205,Editor
+206,Broadcast Reporter
+208,Camera Operator
+209,Broadcast Reporter
+210,Print Reporter
+211,Broadcast Reporter
+212,Photographer
+212,Camera Operator
+213,Editor
+214,Broadcast Reporter
+214,Internet Reporter
+215,Camera Operator
+215,Photographer
+216,Internet Reporter
+217,Internet Reporter
+217,Print Reporter
+218,Broadcast Reporter
+218,Camera Operator
+219,Camera Operator
+220,Editor
+220,Internet Reporter
+220,Print Reporter
+221,Editor
+222,Camera Operator
+222,Editor
+222,Producer
+223,Broadcast Reporter
+224,Producer
+225,Camera Operator
+226,Editor
+227,Camera Operator
+227,Photographer
+228,Camera Operator
+228,Photographer
+228,Internet Reporter
+229,Publisher/Owner
+230,Publisher/Owner
+231,Producer
+232,Columnist/Commentator
+232,Editor
+233,Editor
+234,Editor
+235,Columnist/Commentator
+236,Print Reporter
+237,Columnist/Commentator
+238,Columnist/Commentator
+239,Print Reporter
+241,Editor
+241,Internet Reporter
+242,Columnist/Commentator
+243,Print Reporter
+244,Print Reporter
+245,Print Reporter
+246,Print Reporter
+247,Print Reporter
+248,Internet Reporter
+250,Publisher/Owner
+251,Editor
+251,Internet Reporter
+252,Print Reporter
+253,Broadcast Reporter
+254,Editor
+254,Publisher/Owner
+255,Print Reporter
+256,Columnist/Commentator
+257,Print Reporter
+259,Broadcast Reporter
+259,Internet Reporter
+259,Photographer
+259,Print Reporter
+259,Producer
+259,Publisher/Owner
+260,Publisher/Owner
+261,Internet Reporter
+261,Print Reporter
+262,Broadcast Reporter
+263,Broadcast Reporter
+264,Columnist/Commentator
+264,Internet Reporter
+264,Print Reporter
+265,Camera Operator
+266,Camera Operator
+266,Photographer
+268,Camera Operator
+268,Photographer
+268,Internet Reporter
+269,Camera Operator
+269,Photographer
+271,Camera Operator
+272,Publisher/Owner
+273,Publisher/Owner
+274,Editor
+275,Publisher/Owner
+278,Broadcast Reporter
+280,Broadcast Reporter
+280,Columnist/Commentator
+284,Editor
+284,Publisher/Owner
+285,Print Reporter
+287,Producer
+288,Print Reporter
+289,Columnist/Commentator
+290,Print Reporter
+291,Broadcast Reporter
+291,Producer
+292,Camera Operator
+293,Print Reporter
+294,Internet Reporter
+294,Print Reporter
+295,Editor
+296,Photographer
+297,Editor
+298,Broadcast Reporter
+299,Editor
+300,Broadcast Reporter
+303,Photographer
+303,Print Reporter
+304,Editor
+305,Print Reporter
+306,Publisher/Owner
+307,Broadcast Reporter
+308,Print Reporter
+310,Producer
+311,Camera Operator
+311,Editor
+312,Print Reporter
+313,Publisher/Owner
+314,Editor
+315,Editor
+316,Producer
+317,Camera Operator
+318,Internet Reporter
+319,Broadcast Reporter
+319,Columnist/Commentator
+319,Internet Reporter
+320,Publisher/Owner
+321,Editor
+322,Broadcast Reporter
+323,Print Reporter
+324,Publisher/Owner
+325,Columnist/Commentator
+326,Columnist/Commentator
+327,Columnist/Commentator
+328,Editor
+329,Camera Operator
+330,Broadcast Reporter
+331,Broadcast Reporter
+333,Editor
+335,Columnist/Commentator
+336,Editor
+336,Publisher/Owner
+337,Camera Operator
+337,Photographer
+338,Camera Operator
+339,Columnist/Commentator
+340,Internet Reporter
+341,Editor
+343,Editor
+344,Photographer
+345,Columnist/Commentator
+346,Camera Operator
+347,Editor
+348,Camera Operator
+349,Broadcast Reporter
+349,Camera Operator
+350,Camera Operator
+352,Publisher/Owner
+353,Print Reporter
+354,Print Reporter
+355,Editor
+356,Columnist/Commentator
+357,Broadcast Reporter
+358,Camera Operator
+358,Photographer
+359,Columnist/Commentator
+359,Publisher/Owner
+360,Columnist/Commentator
+360,Internet Reporter
+361,Columnist/Commentator
+362,Editor
+363,Editor
+364,Editor
+365,Print Reporter
+366,Broadcast Reporter
+366,Editor
+366,Internet Reporter
+366,Print Reporter
+367,Broadcast Reporter
+369,Photographer
+371,Print Reporter
+372,Broadcast Reporter
+372,Print Reporter
+373,Print Reporter
+374,Print Reporter
+375,Broadcast Reporter
+376,Publisher/Owner
+377,Print Reporter
+378,Camera Operator
+379,Broadcast Reporter
+380,Editor
+380,Producer
+380,Publisher/Owner
+381,Print Reporter
+382,Editor
+383,Editor
+383,Print Reporter
+383,Publisher/Owner
+385,Internet Reporter
+386,Broadcast Reporter
+386,Camera Operator
+388,Camera Operator
+389,Internet Reporter
+389,Print Reporter
+390,Editor
+391,Internet Reporter
+392,Editor
+393,Broadcast Reporter
+394,Producer
+395,Camera Operator
+395,Photographer
+396,Editor
+397,Photographer
+398,Camera Operator
+399,Photographer
+400,Broadcast Reporter
+401,Camera Operator
+401,Photographer
+402,Editor
+402,Publisher/Owner
+403,Print Reporter
+405,Print Reporter
+406,Columnist/Commentator
+407,Internet Reporter
+407,Print Reporter
+408,Broadcast Reporter
+409,Editor
+410,Camera Operator
+410,Photographer
+411,Camera Operator
+412,Print Reporter
+413,Print Reporter
+414,Camera Operator
+415,Editor
+416,Editor
+417,Print Reporter
+418,Publisher/Owner
+419,Broadcast Reporter
+419,Camera Operator
+420,Editor
+420,Print Reporter
+421,Photographer
+423,Photographer
+424,Photographer
+426,Editor
+428,Editor
+429,Editor
+430,Print Reporter
+431,Photographer
+432,Print Reporter
+433,Editor
+434,Editor
+435,Technician
+436,Print Reporter
+437,Photographer
+438,Broadcast Reporter
+440,Broadcast Reporter
+441,Technician
+442,Broadcast Reporter
+445,Columnist/Commentator
+446,Columnist/Commentator
+447,Columnist/Commentator
+448,Broadcast Reporter
+449,Editor
+451,Broadcast Reporter
+453,Print Reporter
+455,Columnist/Commentator
+456,Columnist/Commentator
+456,Publisher/Owner
+457,Publisher/Owner
+458,Camera Operator
+459,Editor
+460,Internet Reporter
+461,Columnist/Commentator
+462,Broadcast Reporter
+463,Broadcast Reporter
+463,Print Reporter
+466,Editor
+467,Technician
+468,Print Reporter
+471,Broadcast Reporter
+473,Print Reporter
+474,Editor
+475,Print Reporter
+476,Photographer
+477,Print Reporter
+478,Print Reporter
+480,Editor
+481,Editor
+482,Editor
+482,Internet Reporter
+482,Photographer
+482,Print Reporter
+483,Columnist/Commentator
+484,Internet Reporter
+485,Editor
+486,Print Reporter
+487,Camera Operator
+488,Camera Operator
+488,Internet Reporter
+489,Columnist/Commentator
+490,Broadcast Reporter
+490,Print Reporter
+491,Internet Reporter
+492,Columnist/Commentator
+493,Columnist/Commentator
+494,Print Reporter
+495,Publisher/Owner
+496,Internet Reporter
+498,Broadcast Reporter
+498,Editor
+498,Internet Reporter
+499,Broadcast Reporter
+500,Editor
+500,Broadcast Reporter
+501,Columnist/Commentator
+502,Photographer
+502,Print Reporter
+503,Editor
+504,Photographer
+505,Editor
+506,Editor
+510,Editor
+511,Internet Reporter
+511,Print Reporter
+512,Camera Operator
+512,Photographer
+513,Broadcast Reporter
+514,Editor
+515,Broadcast Reporter
+516,Publisher/Owner
+517,Editor
+518,Editor
+519,Camera Operator
+520,Print Reporter
+521,Print Reporter
+522,Internet Reporter
+523,Print Reporter
+524,Editor
+525,Print Reporter
+526,Internet Reporter
+527,Broadcast Reporter
+527,Columnist/Commentator
+528,Internet Reporter
+528,Print Reporter
+529,Internet Reporter
+529,Print Reporter
+531,Broadcast Reporter
+531,Internet Reporter
+532,Internet Reporter
+534,Publisher/Owner
+535,Internet Reporter
+535,Producer
+535,Publisher/Owner
+536,Editor
+537,Photographer
+538,Editor
+539,Broadcast Reporter
+540,Editor
+541,Columnist/Commentator
+542,Editor
+542,Publisher/Owner
+544,Internet Reporter
+544,Print Reporter
+546,Publisher/Owner
+547,Print Reporter
+548,Publisher/Owner
+549,Print Reporter
+550,Columnist/Commentator
+551,Print Reporter
+552,Broadcast Reporter
+554,Columnist/Commentator
+556,Print Reporter
+557,Broadcast Reporter
+560,Columnist/Commentator
+560,Print Reporter
+561,Print Reporter
+562,Editor
+563,Editor
+564,Broadcast Reporter
+565,Photographer
+566,Camera Operator
+566,Photographer
+567,Editor
+567,Producer
+568,Camera Operator
+569,Camera Operator
+570,Broadcast Reporter
+572,Camera Operator
+573,Camera Operator
+574,Broadcast Reporter
+575,Editor
+575,Print Reporter
+576,Internet Reporter
+576,Print Reporter
+577,Print Reporter
+578,Editor
+578,Publisher/Owner
+579,Internet Reporter
+580,Print Reporter
+583,Editor
+583,Print Reporter
+584,Editor
+586,Editor
+586,Publisher/Owner
+587,Production manager
+588,Broadcast Reporter
+589,Photographer
+589,Internet Reporter
+590,Broadcast Reporter
+591,Columnist/Commentator
+592,Columnist/Commentator
+594,Publisher/Owner
+595,Print Reporter
+596,Publisher/Owner
+597,Print Reporter
+598,Editor
+599,Editor
+599,Print Reporter
+600,Print Reporter
+601,Print Reporter
+601,Publisher/Owner
+602,Broadcast Reporter
+603,Editor
+603,Publisher/Owner
+604,Broadcast Reporter
+604,Producer
+605,Photographer
+606,Camera Operator
+607,Editor
+608,Camera Operator
+608,Internet Reporter
+608,Print Reporter
+609,Broadcast Reporter
+610,Print Reporter
+611,Broadcast Reporter
+611,Print Reporter
+613,Print Reporter
+614,Publisher/Owner
+615,Editor
+616,Print Reporter
+618,Broadcast Reporter
+618,Internet Reporter
+619,Editor
+621,Columnist/Commentator
+621,Print Reporter
+623,Editor
+624,Editor
+625,Print Reporter
+626,Camera Operator
+627,Camera Operator
+627,Internet Reporter
+627,Producer
+628,Columnist/Commentator
+629,Editor
+629,Internet Reporter
+629,Publisher/Owner
+630,Photographer
+631,Broadcast Reporter
+632,Columnist/Commentator
+632,Producer
+635,Columnist/Commentator
+637,Internet Reporter
+638,Broadcast Reporter
+638,Print Reporter
+639,Print Reporter
+640,Editor
+641,Publisher/Owner
+642,Camera Operator
+643,Photographer
+644,Editor
+645,Print Reporter
+646,Publisher/Owner
+647,Print Reporter
+648,Print Reporter
+649,Columnist/Commentator
+650,Print Reporter
+652,Broadcast Reporter
+653,Photographer
+654,Editor
+655,Columnist/Commentator
+656,Print Reporter
+658,Editor
+659,Columnist/Commentator
+660,Print Reporter
+661,Broadcast Reporter
+661,Columnist/Commentator
+663,Broadcast Reporter
+666,Broadcast Reporter
+666,Camera Operator
+667,Broadcast Reporter
+668,Columnist/Commentator
+670,Publisher/Owner
+672,Print Reporter
+673,Internet Reporter
+673,Print Reporter
+674,Internet Reporter
+674,Print Reporter
+675,Print Reporter
+676,Print Reporter
+677,Editor
+678,Print Reporter
+679,Print Reporter
+680,Editor
+681,Editor
+683,Print Reporter
+684,Print Reporter
+685,Producer
+685,Publisher/Owner
+686,Print Reporter
+687,Publisher/Owner
+689,Print Reporter
+691,Print Reporter
+692,Internet Reporter
+693,Editor
+694,Publisher/Owner
+695,Internet Reporter
+695,Print Reporter
+696,Columnist/Commentator
+696,Internet Reporter
+697,Print Reporter
+697,Publisher/Owner
+698,Internet Reporter
+699,Internet Reporter
+700,Internet Reporter
+700,Print Reporter
+700,Producer
+700,Publisher/Owner
+700,Technician
+701,Internet Reporter
+702,Publisher/Owner
+703,Print Reporter
+704,Publisher/Owner
+704,Editor
+705,Print Reporter
+706,Print Reporter
+707,Print Reporter
+709,Print Reporter
+710,Photographer
+710,Print Reporter
+711,Columnist/Commentator
+711,Photographer
+712,Editor
+713,Internet Reporter
+713,Print Reporter
+714,Print Reporter
+715,Producer
+716,Photographer
+717,Editor
+718,Producer
+718,Documentary Filmmaker
+719,Print Reporter
+720,Broadcast Reporter
+721,Editor
+721,Publisher/Owner
+722,Broadcast Reporter
+722,Internet Reporter
+724,Photographer
+724,Internet Reporter
+724,Print Reporter
+725,Internet Reporter
+725,Publisher/Owner
+726,Broadcast Reporter
+728,Editor
+729,Editor
+729,Publisher/Owner
+730,Internet Reporter
+730,Print Reporter
+731,Technician
+732,Editor
+732,Publisher/Owner
+733,Editor
+736,Columnist/Commentator
+737,Print Reporter
+738,Columnist/Commentator
+739,Editor
+740,Photographer
+742,Editor
+743,Print Reporter
+744,Editor
+745,Broadcast Reporter
+746,Print Reporter
+747,Internet Reporter
+748,Broadcast Reporter
+749,Internet Reporter
+750,Photographer
+751,Internet Reporter
+753,Print Reporter
+754,Editor
+756,Print Reporter
+757,Print Reporter
+758,Columnist/Commentator
+758,Publisher/Owner
+759,Columnist/Commentator
+759,Editor
+761,Internet Reporter
+762,Broadcast Reporter
+763,Editor
+763,Print Reporter
+764,Publisher/Owner
+765,Broadcast Reporter
+765,Producer
+766,Broadcast Reporter
+767,Editor
+768,Broadcast Reporter
+769,Print Reporter
+770,Photographer
+771,Producer
+772,Broadcast Reporter
+774,Editor
+775,Print Reporter
+777,Print Reporter
+778,Print Reporter
+779,Columnist/Commentator
+780,Columnist/Commentator
+781,Editor
+782,Editor
+782,Print Reporter
+782,Publisher/Owner
+783,Editor
+783,Print Reporter
+783,Publisher/Owner
+784,Editor
+785,Print Reporter
+787,Print Reporter
+788,Broadcast Reporter
+789,Internet Reporter
+789,Photographer
+789,Print Reporter
+790,Editor
+791,Columnist/Commentator
+792,Publisher/Owner
+792,Print Reporter
+793,Broadcast Reporter
+794,Print Reporter
+795,Publisher/Owner
+796,Columnist/Commentator
+797,Print Reporter
+799,Editor
+800,Broadcast Reporter
+803,Columnist/Commentator
+804,Camera Operator
+805,Camera Operator
+805,Producer
+809,Editor
+811,Editor
+813,Internet Reporter
+814,Broadcast Reporter
+814,Internet Reporter
+815,Editor
+816,Broadcast Reporter
+818,Print Reporter
+819,Editor
+820,Editor
+820,Internet Reporter
+822,Columnist/Commentator
+823,Editor
+826,Broadcast Reporter
+827,Photographer
+828,Print Reporter
+829,Print Reporter
+830,Photographer
+831,Publisher/Owner
+832,Photographer
+833,Print Reporter
+834,Print Reporter
+835,Editor
+835,Print Reporter
+837,Camera Operator
+838,Internet Reporter
+839,Columnist/Commentator
+840,Editor
+840,Publisher/Owner
+841,Columnist/Commentator
+842,Print Reporter
+843,Broadcast Reporter
+844,Columnist/Commentator
+845,Camera Operator
+846,Broadcast Reporter
+847,Broadcast Reporter
+847,Columnist/Commentator
+848,Internet Reporter
+849,Editor
+850,Internet Reporter
+851,Columnist/Commentator
+852,Broadcast Reporter
+853,Producer
+854,Editor
+855,Print Reporter
+856,Broadcast Reporter
+856,Camera Operator
+858,Internet Reporter
+860,Internet Reporter
+860,Print Reporter
+861,Publisher/Owner
+862,Editor
+862,Internet Reporter
+862,Producer
+863,Columnist/Commentator
+865,Publisher/Owner
+867,Columnist/Commentator
+867,Editor
+868,Photographer
+870,Publisher/Owner
+871,Columnist/Commentator
+872,Broadcast Reporter
+872,Columnist/Commentator
+874,Editor
+874,Publisher/Owner
+875,Broadcast Reporter
+877,Print Reporter
+878,Internet Reporter
+879,Editor
+879,Publisher/Owner
+880,Publisher/Owner
+881,Broadcast Reporter
+885,Producer
+886,Camera Operator
+887,Broadcast Reporter
+889,Columnist/Commentator
+890,Broadcast Reporter
+891,Columnist/Commentator
+892,Publisher/Owner
+893,Photographer
+895,Camera Operator
+896,Broadcast Reporter
+896,Technician
+897,Editor
+898,Broadcast Reporter
+898,Internet Reporter
+900,Editor
+901,Internet Reporter
+902,Editor
+903,Broadcast Reporter
+904,Internet Reporter
+905,Print Reporter
+906,Print Reporter
+907,Photographer
+907,Print Reporter
+908,Editor
+909,Columnist/Commentator
+910,Broadcast Reporter
+911,Columnist/Commentator
+913,Columnist/Commentator
+913,Internet Reporter
+914,Columnist/Commentator
+915,Internet Reporter
+916,Broadcast Reporter
+917,Publisher/Owner
+918,Print Reporter
+919,Publisher/Owner
+920,Editor
+921,Print Reporter
+922,Print Reporter
+924,Print Reporter
+925,Editor
+926,Print Reporter
+927,Internet Reporter
+927,Print Reporter
+928,Broadcast Reporter
+928,Camera Operator
+931,Columnist/Commentator
+932,Print Reporter
+933,Technician
+934,Broadcast Reporter
+934,Editor
+935,Print Reporter
+936,Publisher/Owner
+937,Publisher/Owner
+938,Internet Reporter
+938,Photographer
+939,Editor
+940,Editor
+941,Publisher/Owner
+942,Internet Reporter
+942,Print Reporter
+943,Editor
+944,Broadcast Reporter
+944,Producer
+945,Broadcast Reporter
+945,Internet Reporter
+945,Print Reporter
+946,Editor
+947,Broadcast Reporter
+948,Columnist/Commentator
+950,Editor
+951,Broadcast Reporter
+952,Editor
+953,Editor
+954,Publisher/Owner
+954,Internet Reporter
+954,Print Reporter
+954,Editor
+955,Camera Operator
+955,Photographer
+956,Print Reporter
+957,Columnist/Commentator
+957,Editor
+957,Internet Reporter
+957,Publisher/Owner
+958,Columnist/Commentator
+959,Producer
+960,Editor
+960,Publisher/Owner
+961,Internet Reporter
+962,Editor
+964,Print Reporter
+965,Editor
+966,Internet Reporter
+967,Editor
+968,Broadcast Reporter
+968,Editor
+969,Photographer
+970,Print Reporter
+971,Broadcast Reporter
+972,Camera Operator
+973,Columnist/Commentator
+973,Editor
+973,Print Reporter
+974,Broadcast Reporter
+975,Print Reporter
+976,Editor
+977,Broadcast Reporter
+977,Columnist/Commentator
+978,Broadcast Reporter
+979,Camera Operator
+980,Print Reporter
+981,Publisher/Owner
+982,Internet Reporter
+983,Editor
+983,Internet Reporter
+984,Print Reporter
+985,Photographer
+987,Editor
+988,Print Reporter
+989,Columnist/Commentator
+990,Editor
+991,Editor
+992,Columnist/Commentator
+993,Producer
+994,Camera Operator
+994,Internet Reporter
+995,Camera Operator
+996,Broadcast Reporter
+997,Print Reporter
+998,Broadcast Reporter
+998,Columnist/Commentator
+998,Producer
+999,Broadcast Reporter
+999,Internet Reporter
+1000,Columnist/Commentator
+1001,Camera Operator
+1002,Publisher/Owner
+1003,Publisher/Owner
+1004,Print Reporter
+1005,Editor
+1006,Publisher/Owner
+1007,Print Reporter
+1008,Editor
+1009,Editor
+1010,Print Reporter
+1011,Editor
+1012,Editor
+1013,Broadcast Reporter
+1014,Print Reporter
+1016,Internet Reporter
+1016,Print Reporter
+1017,Columnist/Commentator
+1017,Print Reporter
+1019,Editor
+1019,Publisher/Owner
+1020,Editor
+1022,Photographer
+1022,Print Reporter
+1024,Print Reporter
+1026,Editor
+1027,Internet Reporter
+1028,Internet Reporter
+1029,Editor
+1030,Print Reporter
+1031,Columnist/Commentator
+1033,Print Reporter
+1036,Broadcast Reporter
+1037,Camera Operator
+1038,Editor
+1039,Internet Reporter
+1039,Print Reporter
+1041,Publisher/Owner
+1042,Technician
+1043,Broadcast Reporter
+1043,Camera Operator
+1044,Print Reporter
+1045,Print Reporter
+1046,Editor
+1047,Broadcast Reporter
+1047,Print Reporter
+1048,Editor
+1049,Print Reporter
+1050,Editor
+1051,Broadcast Reporter
+1052,Producer
+1052,Technician
+1053,Editor
+1054,Print Reporter
+1055,Broadcast Reporter
+1056,Editor
+1057,Print Reporter
+1058,Print Reporter
+1059,Editor
+1059,Print Reporter
+1060,Columnist/Commentator
+1061,Publisher/Owner
+1062,Broadcast Reporter
+1062,Editor
+1062,Internet Reporter
+1063,Editor
+1065,Publisher/Owner
+1066,Print Reporter
+1066,Internet Reporter
+1068,Print Reporter
+1069,Broadcast Reporter
+1070,Photographer
+1071,Editor
+1072,Print Reporter
+1073,Broadcast Reporter
+1074,Editor
+1075,Editor
+1075,Publisher/Owner
+1076,Publisher/Owner
+1077,Print Reporter
+1078,Editor
+1079,Publisher/Owner
+1080,Technician
+1081,Broadcast Reporter
+1082,Print Reporter
+1084,Print Reporter
+1086,Broadcast Reporter
+1086,Print Reporter
+1088,Editor
+1088,Publisher/Owner
+1089,Editor
+1090,Print Reporter
+1091,Internet Reporter
+1091,Print Reporter
+1092,Print Reporter
+1092,Internet Reporter
+1093,Print Reporter
+1094,Print Reporter
+1095,Publisher/Owner
+1096,Publisher/Owner
+1096,Columnist/Commentator
+1097,Print Reporter
+1098,Columnist/Commentator
+1099,Columnist/Commentator
+1100,Camera Operator
+1101,Photographer
+1102,Editor
+1103,Editor
+1104,Editor
+1105,Print Reporter
+1106,Broadcast Reporter
+1108,Editor
+1109,Editor
+1110,Print Reporter
+1111,Broadcast Reporter
+1112,Columnist/Commentator
+1114,Print Reporter
+1115,Editor
+1116,Broadcast Reporter
+1117,Columnist/Commentator
+1117,Editor
+1118,Editor
+1119,Columnist/Commentator
+1119,Editor
+1120,Broadcast Reporter
+1122,Columnist/Commentator
+1123,Editor
+1124,Broadcast Reporter
+1126,Editor
+1127,Editor
+1129,Print Reporter
+1130,Camera Operator
+1130,Photographer
+1131,Camera Operator
+1134,Broadcast Reporter
+1136,Print Reporter
+1137,Editor
+1137,Internet Reporter
+1138,Broadcast Reporter
+1139,Broadcast Reporter
+1140,Print Reporter
+1141,Print Reporter
+1142,Print Reporter
+1143,Editor
+1144,Editor
+1145,Print Reporter
+1146,Broadcast Reporter
+1148,Print Reporter
+1149,Print Reporter
+1150,Broadcast Reporter
+1153,Editor
+1155,Editor
+1156,Print Reporter
+1157,Columnist/Commentator
+1158,Print Reporter
+1159,Photographer
+1161,Print Reporter
+1162,Print Reporter
+1163,Print Reporter
+1164,Print Reporter
+1165,Broadcast Reporter
+1166,Internet Reporter
+1169,Broadcast Reporter
+1169,Print Reporter
+1170,Internet Reporter
+1171,Print Reporter
+1172,Columnist/Commentator
+1173,Internet Reporter
+1174,Publisher/Owner
+1175,Print Reporter
+1176,Editor
+1177,Editor
+1178,Broadcast Reporter
+1178,Internet Reporter
+1179,Broadcast Reporter
+1180,Columnist/Commentator
+1181,Print Reporter
+1182,Editor
+1183,Print Reporter
+1185,Print Reporter
+1186,Columnist/Commentator
+1187,Publisher/Owner
+1188,Editor
+1189,Print Reporter
+1190,Print Reporter
+1191,Editor
+1192,Internet Reporter
+1192,Print Reporter
+1193,Broadcast Reporter
+1194,Camera Operator
+1195,Print Reporter
+1196,Camera Operator
+1197,Internet Reporter
+1199,Columnist/Commentator
+1199,Publisher/Owner
+1200,Broadcast Reporter
+1201,Print Reporter
+1202,Print Reporter
+1203,Print Reporter
+1205,Broadcast Reporter
+1206,Print Reporter
+1207,Broadcast Reporter
+1209,Publisher/Owner
+1210,Broadcast Reporter
+1211,Internet Reporter
+1211,Print Reporter
+1212,Print Reporter
+1213,Editor
+1215,Publisher/Owner
+1216,Editor
+1217,Internet Reporter
+1218,Camera Operator
+1218,Photographer
+1219,Columnist/Commentator
+1219,Print Reporter
+1220,Editor
+1220,Print Reporter
+1221,Publisher/Owner
+1222,Print Reporter
+1223,Broadcast Reporter
+1223,Editor
+1224,Publisher/Owner
+1225,Producer
+1226,Editor
+1226,Internet Reporter
+1227,Broadcast Reporter
+1227,Photographer
+1229,Columnist/Commentator
+1229,Print Reporter
+1230,Editor
+1231,Publisher/Owner
+1232,Editor
+1233,Print Reporter
+1234,Internet Reporter
+1234,Print Reporter
+1235,Columnist/Commentator
+1236,Editor
+1237,Internet Reporter
+1238,Print Reporter
+1239,Photographer
+1240,Broadcast Reporter
+1241,Columnist/Commentator
+1241,Internet Reporter
+1241,Print Reporter
+1242,Broadcast Reporter
+1243,Camera Operator
+1244,Columnist/Commentator
+1244,Editor
+1245,Print Reporter
+1246,Print Reporter
+1247,Print Reporter
+1248,Columnist/Commentator
+1248,Print Reporter
+1249,Camera Operator
+1250,Broadcast Reporter
+1251,Editor
+1252,Print Reporter
+1253,Internet Reporter
+1253,Print Reporter
+1254,Broadcast Reporter
+1255,Broadcast Reporter
+1255,Editor
+1255,Producer
+1256,Camera Operator
+1257,Broadcast Reporter
+1258,Editor
+1259,Technician
+1260,Columnist/Commentator
+1260,Editor
+1261,Broadcast Reporter
+1261,Producer
+1262,Camera Operator
+1263,Camera Operator
+1264,Print Reporter
+1265,Internet Reporter
+1267,Camera Operator
+1268,Columnist/Commentator
+1268,Internet Reporter
+1269,Camera Operator
+1270,Editor
+1270,Publisher/Owner
+1271,Print Reporter
+1272,Columnist/Commentator
+1273,Internet Reporter
+1274,Print Reporter
+1275,Broadcast Reporter
+1275,Camera Operator
+1276,Photographer
+1277,Print Reporter
+1278,Camera Operator
+1279,Internet Reporter
+1280,Print Reporter
+1281,Editor
+1281,Publisher/Owner
+1282,Columnist/Commentator
+1285,Print Reporter
+1287,Print Reporter
+1288,Broadcast Reporter
+1292,Print Reporter
+1293,Broadcast Reporter
+1294,Broadcast Reporter
+1295,Broadcast Reporter
+1295,Print Reporter
+1299,Broadcast Reporter
+1300,Internet Reporter
+1301,Editor
+1303,Publisher/Owner
+1304,Editor
+1306,Editor
+1306,Publisher/Owner
+1307,Print Reporter
+1308,Broadcast Reporter
+1308,Producer
+1309,Camera Operator
+1310,Broadcast Reporter
+1310,Camera Operator
+1311,Columnist/Commentator
+1311,Internet Reporter
+1312,Internet Reporter
+1312,Print Reporter
+1312,Publisher/Owner
+1314,Internet Reporter
+1314,Print Reporter
+1315,Internet Reporter
+1316,Internet Reporter
+1318,Columnist/Commentator
+1319,Publisher/Owner
+1320,Columnist/Commentator
+1320,Internet Reporter
+1321,Photographer
+1322,Camera Operator
+1322,Documentary Filmmaker
+1322,Internet Reporter
+1322,Producer
+1323,Internet Reporter
+1324,Columnist/Commentator
+1325,Camera Operator
+1325,Internet Reporter
+1326,Editor
+1327,Columnist/Commentator
+1328,Print Reporter
+1329,Print Reporter
+1330,Print Reporter
+1331,Columnist/Commentator
+1332,Columnist/Commentator
+1332,Publisher/Owner
+1332,Internet Reporter
+1333,Columnist/Commentator
+1335,Print Reporter
+1336,Broadcast Reporter
+1336,Internet Reporter
+1337,Editor
+1339,Print Reporter
+1340,Columnist/Commentator
+1341,Publisher/Owner
+1342,Camera Operator
+1343,Camera Operator
+1344,Camera Operator
+1345,Technician
+1346,Columnist/Commentator
+1347,Photographer
+1348,Publisher/Owner
+1351,Editor
+1352,Print Reporter
+1353,Editor
+1354,Internet Reporter
+1358,Print Reporter
+1359,Broadcast Reporter
+1360,Camera Operator
+1361,Internet Reporter
+1362,Print Reporter
+1363,Editor
+1364,Print Reporter
+1365,Publisher/Owner
+1366,Editor
+1367,Editor
+1369,Print Reporter
+1370,Print Reporter
+1371,Technician
+1372,Photographer
+1373,Editor
+1373,Internet Reporter
+1373,Publisher/Owner
+1374,Publisher/Owner
+1375,Broadcast Reporter
+1376,Editor
+1377,Camera Operator
+1378,Editor
+1378,Publisher/Owner
+1379,Editor
+1380,Internet Reporter
+1381,Editor
+1382,Print Reporter
+1383,Print Reporter
+1384,Editor
+1384,Print Reporter
+1387,Producer
+1388,Producer
+1389,Editor
+1389,Print Reporter
+1390,Print Reporter
+1391,Broadcast Reporter
+1392,Editor
+1392,Publisher/Owner
+1393,Camera Operator
+1394,Photographer
+1398,Editor
+1399,Broadcast Reporter
+1400,Broadcast Reporter
+1401,Internet Reporter
+1402,Editor
+1404,Print Reporter
+1407,Photographer
+1408,Camera Operator
+1409,Technician
+1411,Editor
+1413,Editor
+1413,Print Reporter
+1417,Broadcast Reporter
+1418,Print Reporter
+1419,Editor
+1421,Photographer
+1422,Editor
+1422,Publisher/Owner
+1424,Broadcast Reporter
+1425,Internet Reporter
+1425,Print Reporter
+1426,Columnist/Commentator
+1427,Print Reporter
+1427,Columnist/Commentator
+1428,Print Reporter
+1429,Internet Reporter
+1430,Broadcast Reporter
+1432,Print Reporter
+1435,Columnist/Commentator
+1435,Internet Reporter
+1436,Broadcast Reporter
+1437,Camera Operator
+1438,Broadcast Reporter
+1439,Producer
+1441,Print Reporter
+1443,Publisher/Owner
+1444,Print Reporter
+1445,Print Reporter
+1447,Publisher/Owner
+1448,Print Reporter
+1449,Print Reporter
+1450,Editor
+1450,Print Reporter
+1453,Print Reporter
+1454,Photographer
+1455,Producer
+1457,Internet Reporter
+1459,Broadcast Reporter
+1461,Columnist/Commentator
+1463,Broadcast Reporter
+1464,Editor
+1465,Broadcast Reporter
+1466,Camera Operator
+1466,Photographer
+1467,Editor
+1467,Publisher/Owner
+1468,Editor
+1469,Camera Operator
+1469,Photographer
+1469,Internet Reporter
+1469,Producer
+1470,Columnist/Commentator
+1471,Internet Reporter
+1472,Print Reporter
+1473,Photographer
+1474,Editor
+1475,Technician
+1477,Photographer
+1477,Internet Reporter
+1478,Camera Operator
+1479,Publisher/Owner
+1480,Print Reporter
+1481,Photographer
+1481,Print Reporter
+1483,Broadcast Reporter
+1483,Internet Reporter
+1484,Print Reporter
+1485,Editor
+1486,Columnist/Commentator
+1487,Broadcast Reporter
+1488,Editor
+1489,Print Reporter
+1490,Internet Reporter
+1490,Print Reporter
+1491,Broadcast Reporter
+1492,Photographer
+1493,Columnist/Commentator
+1494,Camera Operator
+1495,Photographer
+1496,Columnist/Commentator
+1496,Editor
+1496,Print Reporter
+1498,Camera Operator
+1499,Editor
+1500,Internet Reporter
+1500,Print Reporter
+1503,Internet Reporter
+1504,Columnist/Commentator
+1505,Broadcast Reporter
+1506,Broadcast Reporter
+1507,Print Reporter
+1508,Columnist/Commentator
+1508,Publisher/Owner
+1510,Broadcast Reporter
+1511,Technician
+1512,Publisher/Owner
+1513,Editor
+1513,Internet Reporter
+1513,Print Reporter
+1514,Photographer
+1515,Print Reporter
+1516,Photographer
+1518,Broadcast Reporter
+1519,Print Reporter
+1520,Editor
+1521,Columnist/Commentator
+1522,Photographer
+1523,Photographer
+1524,Technician
+1525,Broadcast Reporter
+1526,Photographer
+1527,Internet Reporter
+1527,Photographer
+1528,Columnist/Commentator
+1530,Editor
+1532,Editor
+1533,Broadcast Reporter
+1533,Publisher/Owner
+1534,Broadcast Reporter
+1535,Publisher/Owner
+1536,Internet Reporter
+1536,Photographer
+1538,Print Reporter
+1540,Columnist/Commentator
+1541,Print Reporter
+1542,Internet Reporter
+1543,Editor
+1543,Internet Reporter
+1543,Print Reporter
+1544,Internet Reporter
+1546,Print Reporter
+1547,Print Reporter
+1548,Internet Reporter
+1549,Columnist/Commentator
+1551,Publisher/Owner
+1553,Publisher/Owner
+1554,Print Reporter
+1555,Broadcast Reporter
+1555,Columnist/Commentator
+1556,Print Reporter
+1557,Publisher/Owner
+1558,Broadcast Reporter
+1559,Photographer
+1560,Broadcast Reporter
+1561,Print Reporter
+1562,Editor
+1562,Publisher/Owner
+1563,Editor
+1563,Internet Reporter
+1563,Print Reporter
+1564,Broadcast Reporter
+1565,Editor
+1566,Publisher/Owner
+1567,Broadcast Reporter
+1568,Print Reporter
+1569,Editor
+1570,Editor
+1571,Broadcast Reporter
+1571,Camera Operator
+1571,Internet Reporter
+1572,Publisher/Owner
+1573,Photographer
+1574,Photographer
+1576,Print Reporter
+1577,Broadcast Reporter
+1578,Photographer
+1580,Editor
+1581,Editor
+1582,Broadcast Reporter
+1585,Publisher/Owner
+1587,Print Reporter
+1589,Broadcast Reporter
+1590,Broadcast Reporter
+1591,Columnist/Commentator
+1592,Broadcast Reporter
+1593,Camera Operator
+1593,Internet Reporter
+1595,Broadcast Reporter
+1595,Print Reporter
+1595,Publisher/Owner
+1598,Columnist/Commentator
+1599,Print Reporter
+1602,Broadcast Reporter
+1603,Columnist/Commentator
+1604,Camera Operator
+1605,Broadcast Reporter
+1606,Broadcast Reporter
+1606,Editor
+1608,Columnist/Commentator
+1610,Broadcast Reporter
+1611,Publisher/Owner
+1614,Photographer
+1615,Publisher/Owner
+1617,Print Reporter
+1618,Editor
+1622,Internet Reporter
+1622,Print Reporter
+1622,Publisher/Owner
+1625,Publisher/Owner
+1626,Print Reporter
+1627,Broadcast Reporter
+1627,Print Reporter
+1627,Producer
+1629,Editor
+1629,Internet Reporter
+1631,Columnist/Commentator
+1632,Internet Reporter
+1633,Producer
+1635,Broadcast Reporter
+1636,Print Reporter
+1637,Print Reporter
+1639,Print Reporter
+1640,Print Reporter
+1642,Broadcast Reporter
+1644,Print Reporter
+1647,Publisher/Owner
+1648,Print Reporter
+1649,Photographer
+1652,Print Reporter
+1653,Print Reporter
+1654,Broadcast Reporter
+1656,Print Reporter
+1657,Technician
+1658,Editor
+1659,Print Reporter
+1660,Internet Reporter
+1661,Print Reporter
+1662,Broadcast Reporter
+1663,Print Reporter
+1664,Columnist/Commentator
+1665,Print Reporter
+1666,Columnist/Commentator
+1667,Print Reporter
+1668,Print Reporter
+1669,Print Reporter
+1670,Photographer
+1672,Photographer
+1673,Broadcast Reporter
+1674,Columnist/Commentator
+1675,Photographer
+1676,Camera Operator
+1677,Broadcast Reporter
+1678,Publisher/Owner
+1679,Columnist/Commentator
+1679,Internet Reporter
+1679,Print Reporter
+1680,Columnist/Commentator
+1681,Print Reporter
+1682,Print Reporter
+1683,Print Reporter
+1684,Print Reporter
+1685,Internet Reporter
+1686,Producer
+1688,Camera Operator
+1689,Editor
+1689,Print Reporter
+1690,Editor
+1691,Publisher/Owner
+1692,Broadcast Reporter
+1693,Editor
+1693,Internet Reporter
+1694,Print Reporter
+1695,Publisher/Owner
+1696,Editor
+1697,Photographer
+1698,Print Reporter
+1699,Editor
+1700,Internet Reporter
+1701,Camera Operator
+1701,Photographer
+1701,Internet Reporter
+1702,Camera Operator
+1702,Photographer
+1703,Producer
+1704,Producer
+1705,Print Reporter
+1706,Columnist/Commentator
+1708,Camera Operator
+1709,Producer
+1710,Columnist/Commentator
+1710,Internet Reporter
+1711,Camera Operator
+1711,Photographer
+1712,Producer
+1713,Camera Operator
+1714,Camera Operator
+1714,Photographer
+1715,Columnist/Commentator
+1715,Producer
+1716,Broadcast Reporter
+1716,Camera Operator
+1717,Broadcast Reporter
+1718,Photographer
+1719,Camera Operator
+1720,Editor
+1721,Print Reporter
+1722,Broadcast Reporter
+1724,Broadcast Reporter
+1725,Print Reporter
+1726,Editor
+1727,Editor
+1728,Print Reporter
+1729,Broadcast Reporter
+1730,Broadcast Reporter
+1731,Columnist/Commentator
+1732,Print Reporter
+1733,Camera Operator
+1734,Editor
+1737,Print Reporter
+1739,Columnist/Commentator
+1741,Editor
+1742,Columnist/Commentator
+1743,Print Reporter
+1744,Internet Reporter
+1745,Editor
+1746,Broadcast Reporter
+1747,Internet Reporter
+1747,Publisher/Owner
+1748,Columnist/Commentator
+1749,Editor
+1750,Print Reporter
+1751,Columnist/Commentator
+1752,Editor
+1752,Internet Reporter
+1752,Photographer
+1752,Print Reporter
+1753,Publisher/Owner
+1754,Internet Reporter
+1754,Photographer
+1754,Print Reporter
+1755,Print Reporter
+1756,Print Reporter
+1759,Editor
+1760,Broadcast Reporter
+1762,Columnist/Commentator
+1764,Print Reporter
+1765,Editor
+1767,Columnist/Commentator
+1767,Publisher/Owner
+1768,Editor
+1769,Editor
+1770,Camera Operator
+1773,Camera Operator
+1774,Print Reporter
+1775,Photographer
+1776,Publisher/Owner
+1777,Internet Reporter
+1778,Columnist/Commentator
+1778,Internet Reporter
+1781,Internet Reporter
+1782,Print Reporter
+1783,Internet Reporter
+1784,Internet Reporter
+1785,Print Reporter
+1786,Editor
+1787,Print Reporter
+1789,Internet Reporter
+1790,Columnist/Commentator
+1790,Broadcast Reporter
+1791,Broadcast Reporter
+1793,Internet Reporter
+1794,Internet Reporter
+1794,Columnist/Commentator
+1795,Editor
+1796,Print Reporter
+1797,Broadcast Reporter
+1799,Publisher/Owner
+1800,Print Reporter
+1801,Columnist/Commentator
+1802,Editor
+1803,Internet Reporter
+1804,Internet Reporter
+1806,Internet Reporter
+1807,Columnist/Commentator
+1807,Print Reporter
+1808,Internet Reporter
+1809,Editor
+1810,Broadcast Reporter
+1811,Editor
+1812,Broadcast Reporter
+1814,Print Reporter
+1814,Publisher/Owner
+1815,Print Reporter
+1816,Camera Operator
+1818,Editor
+1819,Print Reporter
+1820,Editor
+1821,Columnist/Commentator
+1822,Editor
+1822,Publisher/Owner
+1823,Editor
+1824,Columnist/Commentator
+1825,Columnist/Commentator
+1825,Print Reporter
+1826,Columnist/Commentator
+1827,Columnist/Commentator
+1828,Internet Reporter
+1829,Columnist/Commentator
+1830,Internet Reporter
+1831,Columnist/Commentator
+1832,Columnist/Commentator
+1833,Camera Operator
+1834,Internet Reporter
+1835,Editor
+1837,Internet Reporter
+1838,Columnist/Commentator
+1839,Photographer
+1839,Camera Operator
+1840,Photographer
+1841,Print Reporter
+1842,Internet Reporter
+1843,Columnist/Commentator
+1844,Internet Reporter
+1845,Photographer
+1847,Columnist/Commentator
+1849,Broadcast Reporter
+1849,Producer
+1849,Publisher/Owner
+1852,Photographer
+1854,Broadcast Reporter
+1854,Print Reporter
+1856,Photographer
+1859,Print Reporter
+1862,Photographer
+1863,Columnist/Commentator
+1864,Photographer
+1864,Editor
+1865,Print Reporter
+1866,Columnist/Commentator
+1867,Columnist/Commentator
+1868,Internet Reporter
+1868,Technician
+1870,Internet Reporter
+1871,Print Reporter
+1871,Internet Reporter
+1872,Print Reporter
+1873,Columnist/Commentator
+1873,Internet Reporter
+1874,Columnist/Commentator
+1875,Producer
+1876,Print Reporter
+1877,Print Reporter
+1878,Photographer
+1879,Editor
+1880,Broadcast Reporter
+1881,Print Reporter
+1882,Photographer
+1883,Print Reporter
+1884,Broadcast Reporter
+1885,Broadcast Reporter
+1885,Publisher/Owner
+1886,Editor
+1887,Publisher/Owner
+1888,Print Reporter
+1889,Producer
+1890,Columnist/Commentator
+1890,Editor
+1890,Producer
+1891,Broadcast Reporter
+1892,Broadcast Reporter
+1893,Internet Reporter
+1893,Producer
+1894,Print Reporter
+1895,Print Reporter
+1896,Internet Reporter
+1897,Camera Operator
+1897,Internet Reporter
+1897,Photographer
+1898,Photographer
+1899,Camera Operator
+1901,Broadcast Reporter
+1901,Producer
+1902,Broadcast Reporter
+1903,Columnist/Commentator
+1904,Camera Operator
+1905,Editor
+1906,Broadcast Reporter
+1907,Internet Reporter
+1908,Print Reporter
+1909,Camera Operator
+1910,Editor
+1910,Publisher/Owner
+1911,Publisher/Owner
+1912,Internet Reporter
+1913,Print Reporter
+1914,Internet Reporter
+1915,Broadcast Reporter
+1915,Internet Reporter
+1916,Print Reporter
+1917,Camera Operator
+1917,Internet Reporter
+1919,Editor
+1920,Internet Reporter
+1921,Print Reporter
+1922,Columnist/Commentator
+1923,Camera Operator
+1925,Print Reporter
+1926,Publisher/Owner
+1927,Publisher/Owner
+1928,Editor
+1929,Print Reporter
+1930,Broadcast Reporter
+1931,Print Reporter
+1932,Editor
+1933,Editor
+1934,Columnist/Commentator
+1935,Internet Reporter
+1936,Internet Reporter
+1936,Print Reporter
+1937,Publisher/Owner
+1939,Broadcast Reporter
+1939,Columnist/Commentator
+1941,Print Reporter
+1942,Editor
+1943,Columnist/Commentator
+1944,Print Reporter
+1946,Editor
+1947,Camera Operator
+1953,Broadcast Reporter
+1954,Publisher/Owner
+1955,Broadcast Reporter
+1955,Print Reporter
+1956,Internet Reporter
+1957,Editor
+1958,Internet Reporter
+1959,Print Reporter
+1961,Columnist/Commentator
+1962,Print Reporter
+1963,Broadcast Reporter
+1963,Print Reporter
+1965,Publisher/Owner
+1966,Print Reporter
+1966,Internet Reporter
+1968,Internet Reporter
+1970,Photographer
+1973,Broadcast Reporter
+1973,Print Reporter
+1974,Editor
+1975,Camera Operator
+1976,Columnist/Commentator
+1977,Photographer
+1978,Editor
+1978,Publisher/Owner
+1980,Publisher/Owner
+1981,Print Reporter
+1982,Columnist/Commentator
+1983,Internet Reporter
+1983,Print Reporter
+1984,Columnist/Commentator
+1984,Publisher/Owner
+1985,Technician
+1985,Print Reporter
+1987,Internet Reporter
+1988,Internet Reporter
+1989,Editor
+1989,Internet Reporter
+1990,Broadcast Reporter
+1991,Broadcast Reporter
+1994,Print Reporter
+1995,Print Reporter
+1996,Editor
+1997,Editor
+1999,Editor
+1999,Print Reporter
+2000,Internet Reporter
+2000,Print Reporter
+2001,Broadcast Reporter
+2001,Print Reporter
+2001,Editor
+2003,Editor
+2003,Print Reporter
+2003,Publisher/Owner
+2004,Publisher/Owner
+2005,Print Reporter
+2006,Internet Reporter
+2006,Print Reporter
+2007,Internet Reporter
+2010,Documentary Filmmaker
+2014,Columnist/Commentator
+2014,Internet Reporter
+2015,Broadcast Reporter
+2016,Broadcast Reporter
+2017,Internet Reporter
+2017,Print Reporter
+2018,Editor
+2019,Camera Operator
+2020,Publisher/Owner
+2022,Broadcast Reporter
+2023,Camera Operator
+2024,Internet Reporter
+2025,Internet Reporter
+2026,Print Reporter
+2027,Broadcast Reporter
+2027,Publisher/Owner
+2028,Technician
+2029,Editor
+2031,Columnist/Commentator
+2031,Editor
+2031,Print Reporter
+2031,Publisher/Owner
+2032,Photographer
+2033,Columnist/Commentator
+2034,Columnist/Commentator
+2035,Columnist/Commentator
+2037,Internet Reporter
+2038,Print Reporter
+2039,Editor
+2040,Print Reporter
+2041,Columnist/Commentator
+2041,Internet Reporter
+2041,Print Reporter
+2042,Print Reporter
+2043,Editor
+2044,Internet Reporter
+2044,Photographer
+2045,Broadcast Reporter
+2045,Columnist/Commentator
+2046,Print Reporter
+2047,Editor
+2048,Print Reporter
+2049,Editor
+2050,Editor
+2053,Camera Operator
+2054,Print Reporter
+2055,Editor
+2056,Broadcast Reporter
+2057,Print Reporter
+2058,Broadcast Reporter
+2059,Editor
+2061,Internet Reporter
+2061,Photographer
+2062,Editor
+2062,Internet Reporter
+2063,Editor
+2064,Editor
+2065,Editor
+2066,Print Reporter
+2068,Editor
+2069,Print Reporter
+2070,Editor
+2071,Print Reporter
+2073,Print Reporter
+2074,Columnist/Commentator
+2075,Broadcast Reporter
+2076,Broadcast Reporter
+2077,Columnist/Commentator
+2077,Editor
+2078,Editor
+2079,Broadcast Reporter
+2079,Photographer
+2080,Photographer
+2081,Internet Reporter
+2081,Publisher/Owner
+2082,Editor
+2083,Editor
+2084,Editor
+2085,Publisher/Owner
+2086,Print Reporter
+2087,Camera Operator
+2090,Print Reporter
+2091,Camera Operator
+2092,Columnist/Commentator
+2094,Print Reporter
+2095,Camera Operator
+2095,Photographer
+2096,Editor
+2096,Print Reporter
+2097,Editor
+2098,Print Reporter
+2099,Broadcast Reporter
+2102,Print Reporter
+2103,Columnist/Commentator
+2103,Editor
+2104,Camera Operator
+2105,Publisher/Owner
+2106,Editor
+2107,Print Reporter
+2107,Internet Reporter
+2108,Broadcast Reporter
+2109,Photographer
+2112,Print Reporter
+2113,Internet Reporter
+2114,Editor
+2116,Broadcast Reporter
+2117,Columnist/Commentator
+2119,Photographer
+2120,Editor
+2121,Broadcast Reporter
+2122,Photographer
+2123,Editor
+2123,Internet Reporter
+2124,Camera Operator
+2125,Broadcast Reporter
+2126,Internet Reporter
+2127,Photographer
+2128,Broadcast Reporter
+2129,Print Reporter
+2129,Publisher/Owner
+2130,Photographer
+2131,Publisher/Owner
+2132,Internet Reporter
+2133,Print Reporter
+2134,Broadcast Reporter
+2134,Editor
+2135,Columnist/Commentator
+2136,Photographer
+2137,Camera Operator
+2137,Editor
+2137,Internet Reporter
+2137,Photographer
+2139,Broadcast Reporter
+2139,Producer
+2140,Camera Operator
+2141,Print Reporter
+2142,Print Reporter
+2143,Print Reporter
+2144,Broadcast Reporter
+2145,Broadcast Reporter
+2145,Editor
+2146,Publisher/Owner
+2147,Print Reporter
+2148,Broadcast Reporter
+2149,Print Reporter
+2150,Print Reporter
+2151,Broadcast Reporter
+2151,Camera Operator
+2152,Broadcast Reporter
+2153,Internet Reporter
+2154,Print Reporter
+2155,Broadcast Reporter
+2156,Internet Reporter
+2157,Camera Operator
+2158,Internet Reporter
+2159,Camera Operator
+2161,Editor
+2161,Internet Reporter
+2161,Publisher/Owner
+2162,Internet Reporter
+2162,Producer
+2162,Publisher/Owner
+2163,Internet Reporter
+2164,Broadcast Reporter
+2165,Camera Operator
+2165,Internet Reporter
+2165,Photographer
+2165,Print Reporter
+2166,Camera Operator
+2167,Broadcast Reporter
+2168,Columnist/Commentator
+2168,Internet Reporter
+2168,Print Reporter
+2169,Editor
+2170,Editor
+2171,Camera Operator
+2172,Editor
+2173,Broadcast Reporter
+2174,Broadcast Reporter
+2175,Internet Reporter
+2176,Camera Operator
+2178,Camera Operator
+2179,Internet Reporter
+2180,Editor
+2181,Documentary Filmmaker
+2181,Internet Reporter
+2182,Columnist/Commentator
+2183,Print Reporter
+2184,Editor
+2185,Columnist/Commentator
+2186,Broadcast Reporter
+2187,Camera Operator
+2189,Editor
+2190,Technician
+2191,Internet Reporter
+2194,Photographer
+2195,Broadcast Reporter
+2196,Internet Reporter
+2197,Internet Reporter
+2197,Print Reporter
+2198,Print Reporter
+2199,Internet Reporter
+2199,Broadcast Reporter
+2200,Editor
+2201,Broadcast Reporter
+2202,Photographer
+2202,Internet Reporter
+2203,Camera Operator
+2203,Photographer
+2203,Internet Reporter
+2204,Camera Operator
+2205,Editor
+2206,Print Reporter
+2207,Broadcast Reporter
+2207,Camera Operator
+2208,Broadcast Reporter
+2209,Broadcast Reporter
+2210,Internet Reporter
+2211,Broadcast Reporter
+2212,Broadcast Reporter
+2213,Print Reporter
+2214,Editor
+2215,Broadcast Reporter
+2216,Editor
+2217,Photographer
+2217,Editor
+2217,Internet Reporter
+2218,Editor
+2219,Editor
+2221,Camera Operator
+2222,Camera Operator
+2223,Editor
+2224,Camera Operator
+2224,Internet Reporter
+2224,Publisher/Owner
+2225,Broadcast Reporter
+2226,Columnist/Commentator
+2227,Publisher/Owner
+2228,Broadcast Reporter
+2229,Editor
+2230,Broadcast Reporter
+2231,Print Reporter
+2232,Broadcast Reporter
+2233,Producer
+2235,Columnist/Commentator
+2236,Documentary Filmmaker
+2237,Internet Reporter
+2238,Broadcast Reporter
+2239,Photographer
+2240,Camera Operator
+2240,Photographer
+2240,Producer
+2241,Editor
+2242,Editor
+2242,Print Reporter
+2243,Broadcast Reporter
+2244,Print Reporter
+2245,Editor
+2246,Columnist/Commentator
+2247,Internet Reporter
+2247,Print Reporter
+2248,Photographer
+2249,Editor
+2250,Internet Reporter
+2251,Publisher/Owner
+2252,Internet Reporter
+2252,Editor
+2253,Publisher/Owner
+2254,Internet Reporter
+2254,Producer
+2255,Broadcast Reporter
+2255,Photographer
+2255,Internet Reporter
+2256,Camera Operator
+2257,Broadcast Reporter
+2258,Broadcast Reporter
+2259,Print Reporter
+2260,Broadcast Reporter
+2261,Editor
+2262,Print Reporter
+2263,Columnist/Commentator
+2264,Broadcast Reporter
+2264,Camera Operator
+2264,Photographer
+2264,Producer
+2266,Editor
+2267,Broadcast Reporter
+2267,Editor
+2267,Producer
+2268,Camera Operator
+2269,Editor
+2270,Internet Reporter
+2271,Camera Operator
+2271,Editor
+2271,Internet Reporter
+2273,Camera Operator
+2273,Internet Reporter
+2274,Print Reporter
+2275,Print Reporter
+2277,Internet Reporter
+2279,Broadcast Reporter
+2279,Camera Operator
+2280,Print Reporter
+2281,Print Reporter
+2282,Publisher/Owner
+2283,Broadcast Reporter
+2283,Camera Operator
+2283,Photographer
+2284,Broadcast Reporter
+2284,Producer
+2285,Editor
+2286,Internet Reporter
+2286,Print Reporter
+2287,Broadcast Reporter
+2288,Broadcast Reporter
+2289,Editor
+2290,Photographer
+2291,Broadcast Reporter
+2292,Broadcast Reporter
+2293,Editor
+2295,Camera Operator
+2296,Broadcast Reporter
+2296,Print Reporter
+2297,Broadcast Reporter
+2298,Columnist/Commentator
+2299,Columnist/Commentator
+2299,Editor
+2299,Publisher/Owner
+2300,Print Reporter
+2301,Editor
+2302,Editor
+2303,Photographer
+2303,Editor
+2304,Columnist/Commentator
+2305,Columnist/Commentator
+2306,Broadcast Reporter
+2306,Print Reporter
+2307,Print Reporter
+2308,Editor
+2309,Broadcast Reporter
+2310,Camera Operator
+2310,Photographer
+2311,Broadcast Reporter
+2311,Print Reporter
+2312,Broadcast Reporter
+2313,Camera Operator
+2313,Photographer
+2314,Producer
+2315,Internet Reporter
+2316,Print Reporter
+2317,Columnist/Commentator
+2318,Editor
+2318,Publisher/Owner
+2319,Editor
+2320,Editor
+2320,Internet Reporter
+2320,Print Reporter
+2321,Editor
+2322,Print Reporter
+2323,Columnist/Commentator
+2324,Print Reporter
+2325,Publisher/Owner
+2326,Print Reporter
+2327,Camera Operator
+2328,Broadcast Reporter
+2329,Broadcast Reporter
+2330,Internet Reporter
+2330,Print Reporter
+2331,Print Reporter
+2332,Internet Reporter
+2333,Camera Operator
+2334,Editor
+2335,Internet Reporter
+2335,Print Reporter
+2336,Internet Reporter
+2338,Producer
+2339,Broadcast Reporter
+2339,Print Reporter
+2340,Editor
+2342,Columnist/Commentator
+2344,Editor
+2345,Editor
+2346,Producer
+2347,Editor
+2347,Internet Reporter
+2348,Print Reporter
+2349,Columnist/Commentator
+2350,Broadcast Reporter
+2351,Print Reporter
+2352,Producer
+2352,Broadcast Reporter
+2353,Columnist/Commentator
+2354,Internet Reporter
+2355,Print Reporter
+2356,Editor
+2357,Broadcast Reporter
+2358,Internet Reporter
+2359,Editor
+2360,Broadcast Reporter
+2361,Print Reporter
+2362,Print Reporter
+2363,Editor
+2364,Editor
+2364,Producer
+2365,Print Reporter
+2366,Photographer
+2367,Broadcast Reporter
+2370,Broadcast Reporter
+2371,Editor
+2372,Editor
+2373,Internet Reporter
+2374,Editor
+2375,Publisher/Owner
+2376,Broadcast Reporter
+2376,Print Reporter
+2377,Print Reporter
+2378,Columnist/Commentator
+2379,Editor
+2379,Internet Reporter
+2380,Broadcast Reporter
+2380,Print Reporter
+2381,Broadcast Reporter
+2381,Print Reporter
+2382,Print Reporter
+2383,Print Reporter
+2385,Editor
+2386,Internet Reporter
+2387,Editor
+2388,Print Reporter
+2389,Broadcast Reporter
+2389,Camera Operator
+2390,Internet Reporter
+2391,Print Reporter
+2392,Technician
+2394,Broadcast Reporter
+2396,Internet Reporter
+2397,Editor
+2398,Columnist/Commentator
+2399,Broadcast Reporter
+2399,Print Reporter
+2400,Camera Operator
+2401,Print Reporter
+2402,Editor
+2403,Print Reporter
+2404,Broadcast Reporter
+2405,Broadcast Reporter
+2406,Editor
+2407,Print Reporter
+2408,Publisher/Owner
+2409,Internet Reporter
+2409,Photographer
+2410,Print Reporter
+2411,Print Reporter
+2412,Columnist/Commentator
+2413,Broadcast Reporter
+2421,Editor
+2421,Print Reporter
+2422,Internet Reporter
+2422,Camera Operator
+2423,Print Reporter
+2424,Publisher/Owner
+2425,Print Reporter
+2426,Columnist/Commentator
+2426,Print Reporter
+2426,Publisher/Owner
+2427,Internet Reporter
+2428,Editor
+2429,Internet Reporter
+2430,Internet Reporter
+2431,Internet Reporter
+2432,Columnist/Commentator
+2433,Editor
+2434,Internet Reporter
+2434,Print Reporter
+2436,Internet Reporter
+2437,Columnist/Commentator
+2437,Internet Reporter
+2438,Camera Operator
+2438,Internet Reporter
+2439,Print Reporter
+2441,Print Reporter
+2442,Print Reporter
+2444,Editor
+2445,Columnist/Commentator
+2446,Camera Operator
+2447,Columnist/Commentator
+2447,Publisher/Owner
+2450,Broadcast Reporter
+2451,Publisher/Owner
+2453,Editor
+2454,Internet Reporter
+2455,Editor
+2455,Publisher/Owner
+2455,Internet Reporter
+2455,Print Reporter
+2456,Broadcast Reporter
+2457,Internet Reporter
+2459,Internet Reporter
+2460,Broadcast Reporter
+2461,Print Reporter
+2462,Editor
+2463,Photographer
+2464,Internet Reporter
+2465,Editor
+2467,Columnist/Commentator
+2467,Photographer
+2468,Broadcast Reporter
+2468,Print Reporter
+2469,Internet Reporter
+2471,Print Reporter
+2472,Camera Operator
+2473,Editor
+2474,Internet Reporter
+2475,Print Reporter
+2475,Internet Reporter
+2477,Publisher/Owner
+2478,Producer
+2479,Broadcast Reporter
+2480,Print Reporter
+2481,Columnist/Commentator
+2481,Editor
+2482,Producer
+2483,Camera Operator
+2483,Producer
+2483,Technician
+2484,Print Reporter
+2485,Broadcast Reporter
+2485,Photographer
+2485,Internet Reporter
+2486,Editor
+2487,Camera Operator
+2488,Print Reporter
+2489,Editor
+2490,Editor
+2490,Internet Reporter
+2491,Broadcast Reporter
+2492,Print Reporter
+2493,Print Reporter
+2494,Publisher/Owner
+2495,Columnist/Commentator
+2495,Editor
+2497,Editor
+2498,Columnist/Commentator
+2499,Editor
+2500,Broadcast Reporter
+2500,Columnist/Commentator
+2502,Camera Operator
+2502,Photographer
+2502,Internet Reporter
+2503,Print Reporter
+2504,Camera Operator
+2504,Broadcast Reporter
+2505,Internet Reporter
+2506,Editor
+2507,Print Reporter
+2508,Broadcast Reporter
+2509,Print Reporter
+2510,Publisher/Owner
+2511,Internet Reporter
+2514,Publisher/Owner
+2514,Columnist/Commentator
+2516,Producer
+2517,Editor
+2518,Columnist/Commentator
+2519,Broadcast Reporter
+2520,Camera Operator
+2521,Photographer
+2522,Publisher/Owner
+2523,Editor
+2524,Photographer
+2525,Camera Operator
+2526,Technician
+2527,Broadcast Reporter
+2527,Internet Reporter
+2528,Columnist/Commentator
+2528,Editor
+2529,Editor
+2530,Broadcast Reporter
+2531,Publisher/Owner
+2532,Print Reporter
+2533,Editor
+2533,Internet Reporter
+2533,Publisher/Owner
+2534,Editor
+2535,Photographer
+2536,Internet Reporter
+2537,Editor
+2538,Publisher/Owner
+2539,Columnist/Commentator
+2540,Camera Operator
+2542,Broadcast Reporter
+2543,Columnist/Commentator
+2543,Editor
+2545,Editor
+2545,Print Reporter
+2546,Camera Operator
+2547,Camera Operator
+2547,Photographer
+2548,Broadcast Reporter
+2548,Camera Operator
+2550,Photographer
+2551,Camera Operator
+2551,Photographer
+2553,Print Reporter
+2554,Print Reporter
+2556,Internet Reporter
+2556,Print Reporter
+2558,Internet Reporter
+2558,Print Reporter
+2559,Internet Reporter
+2560,Internet Reporter
+2560,Photographer
+2560,Print Reporter
+2561,Editor
+2561,Publisher/Owner
+2562,Print Reporter
+2564,Internet Reporter
+2565,Publisher/Owner
+2566,Editor
+2567,Editor
+2568,Print Reporter
+2569,Camera Operator
+2570,Camera Operator
+2572,Print Reporter
+2573,Print Reporter
+2575,Publisher/Owner
+2576,Columnist/Commentator
+2577,Print Reporter
+2581,Editor
+2582,Print Reporter
+2583,Broadcast Reporter
+2585,Internet Reporter
+2585,Print Reporter
+2587,Producer
+2588,Editor
+2589,Columnist/Commentator
+2589,Editor
+2590,Columnist/Commentator
+2592,Publisher/Owner
+2594,Publisher/Owner
+2596,Internet Reporter
+2596,Publisher/Owner
+2597,Camera Operator
+2598,Photographer
+2599,Editor
+2600,Broadcast Reporter
+2601,Editor
+2602,Editor
+2603,Camera Operator
+2604,Columnist/Commentator
+2604,Internet Reporter
+2607,Broadcast Reporter
+2608,Internet Reporter
+2609,Print Reporter
+2610,Camera Operator
+2611,Broadcast Reporter
+2611,Internet Reporter
+2612,Photographer
+2613,Columnist/Commentator
+2614,Publisher/Owner
+2615,Broadcast Reporter
+2616,Internet Reporter
+2616,Print Reporter
+2617,Publisher/Owner
+2619,Producer
+2620,Producer
+2621,Producer
+2622,Internet Reporter
+2623,Broadcast Reporter
+2623,Camera Operator
+2624,Broadcast Reporter
+2626,Broadcast Reporter
+2626,Producer
+2628,Broadcast Reporter
+2629,Internet Reporter
+2631,Internet Reporter
+2632,Internet Reporter
+2633,Internet Reporter
+2634,Columnist/Commentator
+2636,Columnist/Commentator
+2637,Internet Reporter
+2638,Print Reporter
+2639,Internet Reporter
+2640,Internet Reporter
+2641,Editor
+2642,Print Reporter
+2643,Columnist/Commentator
+2644,Broadcast Reporter
+2644,Internet Reporter
+2644,Print Reporter
+2645,Broadcast Reporter
+2646,Broadcast Reporter
+2648,Print Reporter
+2649,Editor
+2650,Print Reporter
+2651,Editor
+2652,Editor
+2655,Editor
+2656,Internet Reporter
+2656,Print Reporter
+2658,Photographer
+2659,Print Reporter
+2660,Print Reporter
+2661,Broadcast Reporter
+2662,Print Reporter
+2663,Broadcast Reporter
+2665,Internet Reporter
+2666,Camera Operator
+2666,Editor
+2666,Broadcast Reporter
+2667,Print Reporter
+2669,Columnist/Commentator
+2669,Editor
+2669,Internet Reporter
+2670,Internet Reporter
+2670,Print Reporter
+2671,Columnist/Commentator
+2672,Publisher/Owner
+2673,Editor
+2674,Columnist/Commentator
+2675,Broadcast Reporter
+2676,Editor
+2677,Editor
+2678,Broadcast Reporter
+2681,Broadcast Reporter
+2681,Editor
+2683,Camera Operator
+2684,Broadcast Reporter
+2685,Broadcast Reporter
+2686,Print Reporter
+2686,Publisher/Owner
+2688,Publisher/Owner
+2689,Broadcast Reporter
+2689,Producer
+2690,Photographer
+2691,Columnist/Commentator
+2691,Internet Reporter
+2693,Print Reporter
+2695,Editor
+2696,Internet Reporter
+2698,Print Reporter
+2699,Print Reporter
+2700,Broadcast Reporter
+2700,Camera Operator
+2701,Print Reporter
+2702,Editor
+2703,Print Reporter
+2704,Print Reporter
+2705,Editor
+2706,Editor
+2707,Broadcast Reporter
+2708,Photographer
+2709,Camera Operator
+2710,Camera Operator
+2711,Producer
+2712,Camera Operator
+2713,Broadcast Reporter
+2713,Internet Reporter
+2714,Broadcast Reporter
+2715,Broadcast Reporter
+2717,Editor
+2718,Camera Operator
+2719,Internet Reporter
+2720,Broadcast Reporter
+2722,Editor
+2723,Columnist/Commentator
+2724,Publisher/Owner
+2725,Editor
+2726,Broadcast Reporter
+2728,Editor
+2728,Internet Reporter
+2728,Print Reporter
+2729,Print Reporter
+2730,Columnist/Commentator
+2730,Internet Reporter
+2731,Print Reporter
+2732,Print Reporter
+2733,Broadcast Reporter
+2733,Camera Operator
+2733,Print Reporter
+2734,Print Reporter
+2736,Columnist/Commentator
+2737,Internet Reporter
+2738,Print Reporter
+2739,Print Reporter
+2740,Internet Reporter
+2741,Columnist/Commentator
+2742,Print Reporter
+2743,Editor
+2744,Editor
+2745,Photographer
+2747,Columnist/Commentator
+2748,Publisher/Owner
+2748,Camera Operator
+2748,Documentary Filmmaker
+2748,Internet Reporter
+2748,Producer
+2749,Editor
+2750,Editor
+2750,Internet Reporter
+2751,Broadcast Reporter
+2753,Editor
+2753,Publisher/Owner
+2754,Print Reporter
+2756,Broadcast Reporter
+2757,Editor
+2759,Editor
+2761,Publisher/Owner
+2762,Camera Operator
+2763,Broadcast Reporter
+2764,Editor
+2765,Broadcast Reporter
+2766,Print Reporter
+2768,Print Reporter
+2769,Columnist/Commentator
+2769,Editor
+2770,Broadcast Reporter
+2773,Editor
+2775,Columnist/Commentator
+2776,Print Reporter
+2777,Photographer
+2780,Broadcast Reporter
+2780,Camera Operator
+2781,Broadcast Reporter
+2783,Print Reporter
+2784,Broadcast Reporter
+2784,Print Reporter
+2785,Columnist/Commentator
+2788,Broadcast Reporter
+2789,Internet Reporter
+2791,Editor
+2791,Print Reporter
+2792,Columnist/Commentator
+2793,Broadcast Reporter
+2794,Columnist/Commentator
+2797,Internet Reporter
+2798,Print Reporter
+2799,Print Reporter
+2800,Publisher/Owner
+2801,Broadcast Reporter
+2801,Columnist/Commentator
+2802,Internet Reporter
+2803,Print Reporter
+2804,Columnist/Commentator
+2804,Editor
+2804,Internet Reporter
+2804,Publisher/Owner
+2805,Camera Operator
+2807,Print Reporter
+2808,Editor
+2809,Columnist/Commentator
+2811,Print Reporter
+2812,Broadcast Reporter
+2812,Print Reporter
+2813,Photographer
+2815,Print Reporter
+2816,Editor
+2817,Print Reporter
+2818,Internet Reporter
+2819,Print Reporter
+2820,Photographer
+2822,Camera Operator
+2823,Camera Operator
+2825,Internet Reporter
+2826,Print Reporter
+2827,Broadcast Reporter
+2827,Editor
+2827,Internet Reporter
+2828,Broadcast Reporter
+2829,Producer
+2830,Print Reporter
+2831,Internet Reporter
+2831,Print Reporter
+2832,Photographer
+2832,Print Reporter
+2833,Publisher/Owner
+2834,Editor
+2835,Photographer
+2835,Internet Reporter
+2836,Print Reporter
+2837,Publisher/Owner
+2838,Internet Reporter
+2838,Photographer
+2839,Print Reporter
+2840,Camera Operator
+2841,Internet Reporter
+2842,Editor
+2843,Editor
+2844,Editor
+2844,Internet Reporter
+2845,Columnist/Commentator
+2846,Internet Reporter
+2847,Internet Reporter
+2847,Print Reporter
+2848,Photographer
+2849,Broadcast Reporter
+2850,Camera Operator
+2851,Camera Operator
+2852,Broadcast Reporter
+2853,Print Reporter
+2855,Print Reporter
+2857,Columnist/Commentator
+2858,Print Reporter
+2859,Editor
+2859,Print Reporter
+2859,Publisher/Owner
+2860,Broadcast Reporter
+2860,Internet Reporter
+2860,Print Reporter
+2861,Print Reporter
+2862,Editor
+2863,Editor
+2864,Publisher/Owner
+2865,Broadcast Reporter
+2866,Editor
+2866,Publisher/Owner
+2867,Broadcast Reporter
+2869,Editor
+2869,Publisher/Owner
+2871,Technician
+2872,Broadcast Reporter
+2873,Broadcast Reporter
+2874,Editor
+2874,Publisher/Owner
+2875,Internet Reporter
+2876,Print Reporter
+2877,Print Reporter
+2878,Editor
+2879,Columnist/Commentator
+2880,Publisher/Owner
+2881,Editor
+2882,Internet Reporter
+2883,Editor
+2884,Print Reporter
+2885,Internet Reporter
+2885,Print Reporter
+2886,Columnist/Commentator
+2886,Internet Reporter
+2887,Broadcast Reporter
+2888,Broadcast Reporter
+2888,Print Reporter
+2889,Photographer
+2890,Camera Operator
+2891,Camera Operator
+2892,Columnist/Commentator
+2893,Editor
+2893,Producer
+2894,Broadcast Reporter
+2895,Internet Reporter
+2896,Publisher/Owner
+2897,Editor
+2898,Print Reporter
+2899,Print Reporter
+2900,Photographer
+2901,Print Reporter
+2902,Broadcast Reporter
+2902,Publisher/Owner
+2903,Producer
+2905,Print Reporter
+2906,Broadcast Reporter
+2907,Print Reporter
+2908,Camera Operator
+2908,Photographer
+2909,Broadcast Reporter
+2909,Internet Reporter
+2910,Internet Reporter
+2911,Broadcast Reporter
+2912,Photographer
+2912,Internet Reporter
+2913,Camera Operator
+2914,Internet Reporter
+2916,Broadcast Reporter
+2917,Camera Operator
+2918,Columnist/Commentator
+2919,Columnist/Commentator
+2920,Editor
+2921,Editor
+2924,Photographer
+2925,Editor
+2928,Columnist/Commentator
+2928,Publisher/Owner
+2929,Broadcast Reporter
+2931,Broadcast Reporter
+2932,Print Reporter
+2933,Print Reporter
+2935,Broadcast Reporter
+2936,Camera Operator
+2937,Broadcast Reporter
+2938,Photographer
+2938,Print Reporter
+2939,Print Reporter
+2940,Broadcast Reporter
+2940,Internet Reporter
+2941,Photographer
+2942,Editor
+2942,Columnist/Commentator
+2943,Internet Reporter
+2943,Print Reporter
+2944,Broadcast Reporter
+2945,Internet Reporter
+2947,Columnist/Commentator
+2947,Editor
+2948,Internet Reporter
+2948,Print Reporter
+2949,Print Reporter
+2950,Internet Reporter
+2951,Columnist/Commentator
+2951,Photographer
+2952,Photographer
+2954,Internet Reporter
+2955,Print Reporter
+2955,Internet Reporter
+2956,Print Reporter
+2957,Print Reporter
+2958,Broadcast Reporter
+2959,Editor
+2960,Print Reporter
+2963,Internet Reporter
+2964,Internet Reporter
+2965,Editor
+2966,Editor
+2966,Print Reporter
+2967,Publisher/Owner
+2968,Publisher/Owner
+2969,Editor
+2970,Print Reporter
+2971,Print Reporter
+2972,Editor
+2973,Editor
+2974,Camera Operator
+2976,Columnist/Commentator
+2977,Publisher/Owner
+2978,Broadcast Reporter
+2978,Editor
+2979,Editor
+2981,Editor
+2981,Internet Reporter
+2984,Technician
+2985,Internet Reporter
+2988,Print Reporter
+2989,Photographer
+2990,Publisher/Owner
+2991,Editor
+2991,Publisher/Owner
+2993,Print Reporter
+2994,Columnist/Commentator
+2995,Technician
+2996,Internet Reporter
+2996,Print Reporter
+2997,Internet Reporter
+2997,Print Reporter
+2998,Columnist/Commentator
+2999,Broadcast Reporter
+2999,Photographer
+2999,Print Reporter
+3000,Publisher/Owner
+3001,Internet Reporter
+3001,Print Reporter
+3002,Camera Operator
+3002,Editor
+3002,Internet Reporter
+3002,Photographer
+3003,Internet Reporter
+3005,Photographer
+3006,Print Reporter
+3008,Photographer
+3009,Print Reporter
+3010,Photographer
+3010,Internet Reporter
+3011,Columnist/Commentator
+3011,Publisher/Owner
+3013,Camera Operator
+3014,Print Reporter
+3015,Broadcast Reporter
+3015,Print Reporter
+3016,Broadcast Reporter
+3017,Publisher/Owner
+3019,Broadcast Reporter
+3020,Print Reporter
+3022,Broadcast Reporter
+3025,Editor
+3026,Camera Operator
+3027,Print Reporter
+3028,Producer
+3029,Publisher/Owner
+3030,Editor
+3031,Print Reporter
+3032,Print Reporter
+3033,Broadcast Reporter
+3034,Editor
+3035,Print Reporter
+3036,Broadcast Reporter
+3037,Internet Reporter
+3038,Editor
+3040,Broadcast Reporter
+3041,Broadcast Reporter
+3041,Print Reporter
+3042,Internet Reporter
+3043,Photographer
+3044,Editor
+3044,Print Reporter
+3047,Print Reporter
+3048,Internet Reporter
+3048,Print Reporter
+3049,Editor
+3051,Print Reporter
+3052,Camera Operator
+3053,Broadcast Reporter
+3054,Camera Operator
+3054,Photographer
+3055,Publisher/Owner
+3056,Editor
+3056,Internet Reporter
+3057,Publisher/Owner
+3058,Editor
+3060,Print Reporter
+3061,Print Reporter
+3062,Publisher/Owner
+3064,Print Reporter
+3065,Print Reporter
+3066,Camera Operator
+3066,Internet Reporter
+3067,Publisher/Owner
+3068,Internet Reporter
+3069,Print Reporter
+3070,Producer
+3071,Broadcast Reporter
+3072,Print Reporter
+3073,Print Reporter
+3074,Broadcast Reporter
+3074,Internet Reporter
+3075,Print Reporter
+3076,Editor
+3077,Broadcast Reporter
+3077,Internet Reporter
+3078,Broadcast Reporter
+3078,Camera Operator
+3078,Documentary Filmmaker
+3078,Internet Reporter
+3078,Producer
+3079,Broadcast Reporter
+3080,Publisher/Owner
+3081,Print Reporter
+3082,Editor
+3083,Editor
+3084,Print Reporter
+3085,Print Reporter
+3086,Editor
+3087,Publisher/Owner
+3088,Internet Reporter
+3088,Photographer
+3089,Columnist/Commentator
+3089,Publisher/Owner
+3090,Print Reporter
+3092,Broadcast Reporter
+3092,Editor
+3093,Columnist/Commentator
+3093,Internet Reporter
+3094,Print Reporter
+3095,Publisher/Owner
+3096,Camera Operator
+3097,Broadcast Reporter
+3097,Columnist/Commentator
+3098,Editor
+3099,Camera Operator
+3101,Editor
+3103,Internet Reporter
+3103,Print Reporter
+3104,Print Reporter
+3105,Publisher/Owner
+3106,Print Reporter
+3107,Print Reporter
+3109,Camera Operator
+3109,Producer
+3110,Editor
+3110,Print Reporter
+3110,Publisher/Owner
+3111,Print Reporter
+3112,Print Reporter
+3113,Camera Operator
+3114,Broadcast Reporter
+3115,Broadcast Reporter
+3115,Editor
+3116,Editor
+3117,Print Reporter
+3119,Print Reporter
+3120,Columnist/Commentator
+3120,Editor
+3122,Columnist/Commentator
+3123,Print Reporter
+3125,Distributor
+3126,Print Reporter
+3128,Technician
+3129,Internet Reporter
+3132,Broadcast Reporter
+3132,Editor
+3133,Technician
+3134,Internet Reporter
+3135,Editor
+3137,Photographer
+3137,Internet Reporter
+3138,Editor
+3138,Publisher/Owner
+3139,Print Reporter
+3140,Print Reporter
+3141,Camera Operator
+3142,Camera Operator
+3144,Camera Operator
+3144,Photographer
+3145,Internet Reporter
+3146,Editor
+3147,Print Reporter
+3148,Camera Operator
+3149,Editor
+3149,Publisher/Owner
+3150,Print Reporter
+3151,Editor
+3152,Internet Reporter
+3153,Columnist/Commentator
+3154,Columnist/Commentator
+3155,Columnist/Commentator
+3155,Publisher/Owner
+3156,Editor
+3157,Camera Operator
+3158,Broadcast Reporter
+3159,Camera Operator
+3161,Broadcast Reporter
+3161,Print Reporter
+3162,Print Reporter
+3163,Editor
+3164,Print Reporter
+3165,Editor
+3166,Broadcast Reporter
+3167,Columnist/Commentator
+3167,Editor
+3168,Print Reporter
+3169,Editor
+3170,Editor
+3171,Print Reporter
+3172,Columnist/Commentator
+3173,Broadcast Reporter
+3174,Editor
+3174,Print Reporter
+3175,Broadcast Reporter
+3176,Publisher/Owner
+3178,Print Reporter
+3179,Print Reporter
+3179,Editor
+3181,Broadcast Reporter
+3182,Print Reporter
+3182,Editor
+3183,Editor
+3184,Internet Reporter
+3185,Publisher/Owner
+3186,Broadcast Reporter
+3187,Columnist/Commentator
+3187,Print Reporter
+3188,Editor
+3190,Editor
+3191,Print Reporter
+3192,Editor
+3193,Editor
+3194,Broadcast Reporter
+3194,Camera Operator
+3194,Print Reporter
+3195,Broadcast Reporter
+3196,Print Reporter
+3196,Broadcast Reporter
+3197,Columnist/Commentator
+3197,Publisher/Owner
+3198,Camera Operator
+3199,Editor
+3200,Broadcast Reporter
+3201,Editor
+3202,Camera Operator
+3202,Photographer
+3203,Editor
+3203,Publisher/Owner
+3204,Print Reporter
+3205,Editor
+3206,Broadcast Reporter
+3206,Print Reporter
+3206,Publisher/Owner
+3208,Columnist/Commentator
+3208,Internet Reporter
+3209,Print Reporter
+3211,Camera Operator
+3212,Print Reporter
+3213,Editor
+3214,Photographer
+3215,Broadcast Reporter
+3216,Publisher/Owner
+3218,Broadcast Reporter
+3220,Columnist/Commentator
+3222,Editor
+3223,Print Reporter
+3224,Editor
+3225,Print Reporter
+3226,Editor
+3226,Internet Reporter
+3227,Columnist/Commentator
+3228,Internet Reporter
+3228,Print Reporter
+3228,Publisher/Owner
+3229,Internet Reporter
+3231,Editor
+3232,Columnist/Commentator
+3232,Internet Reporter
+3233,Publisher/Owner
+3234,Broadcast Reporter
+3234,Camera Operator
+3234,Internet Reporter
+3234,Photographer
+3236,Editor
+3236,Internet Reporter
+3236,Print Reporter
+3237,Editor
+3238,Internet Reporter
+3238,Print Reporter
+3239,Print Reporter
+3240,Editor
+3241,Editor
+3242,Camera Operator
+3242,Photographer
+3242,Publisher/Owner
+3243,Editor
+3244,Editor
+3245,Columnist/Commentator
+3246,Editor
+3247,Photographer
+3248,Print Reporter
+3249,Columnist/Commentator
+3250,Print Reporter
+3251,Internet Reporter
+3251,Publisher/Owner
+3251,Editor
+3252,Editor
+3253,Internet Reporter
+3253,Print Reporter
+3254,Print Reporter
+3255,Camera Operator
+3256,Editor
+3257,Broadcast Reporter
+3258,Print Reporter
+3259,Camera Operator
+3259,Photographer
+3260,Print Reporter
+3261,Publisher/Owner
+3262,Internet Reporter
+3262,Photographer
+3264,Print Reporter
+3266,Editor
+3267,Print Reporter
+3268,Columnist/Commentator
+3268,Print Reporter
+3269,Internet Reporter
+3269,Print Reporter
+3272,Print Reporter
+3273,Editor
+3275,Columnist/Commentator
+3277,Print Reporter
+3279,Internet Reporter
+3281,Editor
+3282,Columnist/Commentator
+3283,Camera Operator
+3283,Photographer
+3284,Editor
+3285,Print Reporter
+3286,Print Reporter
+3287,Columnist/Commentator
+3287,Publisher/Owner
+3288,Producer
+3288,Publisher/Owner
+3290,Print Reporter
+3292,Camera Operator
+3292,Photographer
+3293,Publisher/Owner
+3294,Print Reporter
+3294,Editor
+3295,Editor
+3296,Print Reporter
+3297,Producer
+3298,Broadcast Reporter
+3300,Print Reporter
+3301,Print Reporter
+3303,Print Reporter
+3304,Broadcast Reporter
+3305,Camera Operator
+3307,Internet Reporter
+3308,Broadcast Reporter
+3308,Editor
+3309,Broadcast Reporter
+3310,Editor
+3312,Columnist/Commentator
+3312,Internet Reporter
+3313,Print Reporter
+3314,Editor
+3314,Print Reporter
+3315,Print Reporter
+3316,Editor
+3317,Photographer
+3318,Photographer
+3319,Print Reporter
+3321,Print Reporter
+3322,Print Reporter
+3323,Photographer
+3324,Publisher/Owner
+3326,Internet Reporter
+3326,Print Reporter
+3328,Camera Operator
+3329,Print Reporter
+3331,Print Reporter
+3333,Internet Reporter
+3333,Photographer
+3333,Print Reporter
+3334,Editor
+3335,Broadcast Reporter
+3336,Internet Reporter
+3336,Photographer
+3337,Camera Operator
+3338,Camera Operator
+3338,Photographer
+3340,Editor
+3342,Broadcast Reporter
+3342,Publisher/Owner
+3343,Broadcast Reporter
+3344,Technician
+3345,Publisher/Owner
+3346,Photographer
+3347,Broadcast Reporter
+3349,Camera Operator
+3349,Photographer
+3350,Publisher/Owner
+3351,Editor
+3351,Print Reporter
+3352,Columnist/Commentator
+3353,Editor
+3355,Editor
+3355,Publisher/Owner
+3356,Internet Reporter
+3357,Internet Reporter
+3358,Print Reporter
+3359,Editor
+3360,Columnist/Commentator
+3361,Editor
+3362,Internet Reporter
+3363,Print Reporter
+3364,Columnist/Commentator
+3365,Columnist/Commentator
+3366,Camera Operator
+3366,Photographer
+3366,Internet Reporter
+3367,Internet Reporter
+3369,Broadcast Reporter
+3370,Broadcast Reporter
+3370,Internet Reporter
+3371,Editor
+3371,Columnist/Commentator
+3372,Editor
+3372,Internet Reporter
+3373,Internet Reporter
+3374,Editor
+3375,Internet Reporter
+3375,Print Reporter
+3378,Photographer
+3379,Broadcast Reporter
+3381,Broadcast Reporter
+3382,Internet Reporter
+3383,Photographer
+3384,Editor
+3385,Editor
+3386,Camera Operator
+3387,Publisher/Owner
+3388,Broadcast Reporter
+3390,Editor
+3392,Editor
+3393,Editor
+3394,Editor
+3395,Editor
+3396,Editor
+3397,Columnist/Commentator
+3397,Editor
+3398,Print Reporter
+3399,Columnist/Commentator
+3399,Editor
+3400,Columnist/Commentator
+3401,Publisher/Owner
+3402,Editor
+3403,Print Reporter
+3404,Publisher/Owner
+3406,Internet Reporter
+3406,Print Reporter
+3407,Editor
+3407,Print Reporter
+3408,Editor
+3409,Print Reporter
+3410,Internet Reporter
+3410,Print Reporter
+3411,Columnist/Commentator
+3413,Columnist/Commentator
+3413,Publisher/Owner
+3414,Print Reporter
+3415,Columnist/Commentator
+3416,Columnist/Commentator
+3417,Print Reporter
+3418,Publisher/Owner
+3419,Columnist/Commentator
+3420,Columnist/Commentator
+3421,Internet Reporter
+3422,Editor
+3422,Internet Reporter
+3423,Columnist/Commentator
+3424,Publisher/Owner
+3426,Camera Operator
+3427,Broadcast Reporter
+3428,Print Reporter
+3430,Camera Operator
+3430,Photographer
+3430,Producer
+3431,Print Reporter
+3433,Broadcast Reporter
+3434,Broadcast Reporter
+3435,Editor
+3436,Camera Operator
+3437,Columnist/Commentator
+3437,Internet Reporter
+3437,Print Reporter
+3438,Print Reporter
+3439,Print Reporter
+3440,Columnist/Commentator
+3441,Editor
+3442,Print Reporter
+3445,Editor
+3447,Print Reporter
+3448,Publisher/Owner
+3449,Broadcast Reporter
+3450,Broadcast Reporter
+3451,Editor
+3453,Print Reporter
+3454,Broadcast Reporter
+3455,Print Reporter
+3456,Broadcast Reporter
+3456,Camera Operator
+3457,Editor
+3457,Internet Reporter
+3458,Broadcast Reporter
+3458,Camera Operator
+3459,Broadcast Reporter
+3460,Publisher/Owner
+3461,Editor
+3462,Print Reporter
+3463,Publisher/Owner
+3465,Editor
+3465,Print Reporter
+3466,Print Reporter
+3467,Camera Operator
+3468,Broadcast Reporter
+3468,Editor
+3469,Editor
+3470,Technician
+3471,Editor
+3472,Editor
+3472,Publisher/Owner
+3473,Print Reporter
+3474,Editor
+3475,Camera Operator
+3476,Internet Reporter
+3477,Columnist/Commentator
+3478,Photographer
+3479,Producer
+3480,Publisher/Owner
+3482,Camera Operator
+3482,Internet Reporter
+3483,Broadcast Reporter
+3484,Print Reporter
+3485,Print Reporter
+3486,Photographer
+3487,Camera Operator
+3488,Broadcast Reporter
+3489,Camera Operator
+3490,Editor
+3490,Internet Reporter
+3495,Print Reporter
+3496,Editor
+3497,Editor
+3498,Editor
+3498,Camera Operator
+3499,Print Reporter
+3500,Print Reporter
+3501,Print Reporter
+3502,Internet Reporter
+3502,Photographer
+3503,Print Reporter
+3504,Photographer
+3506,Publisher/Owner
+3507,Internet Reporter
+3508,Internet Reporter
+3510,Editor
+3511,Publisher/Owner
+3512,Editor
+3513,Internet Reporter
+3514,Photographer
+3514,Print Reporter
+3515,Internet Reporter
+3516,Broadcast Reporter
+3517,Internet Reporter
+3518,Columnist/Commentator
+3519,Internet Reporter
+3520,Columnist/Commentator
+3520,Internet Reporter
+3521,Editor
+3521,Publisher/Owner
+3522,Columnist/Commentator
+3523,Print Reporter
+3524,Columnist/Commentator
+3525,Editor
+3526,Editor
+3528,Internet Reporter
+3528,Print Reporter
+3529,Columnist/Commentator
+3530,Editor
+3531,Publisher/Owner
+3532,Editor
+3533,Print Reporter
+3534,Columnist/Commentator
+3534,Editor
+3535,Print Reporter
+3536,Broadcast Reporter
+3539,Print Reporter
+3541,Internet Reporter
+3542,Editor
+3542,Publisher/Owner
+3543,Photographer
+3544,Editor
+3544,Internet Reporter
+3545,Print Reporter
+3546,Camera Operator
+3547,Internet Reporter
+3548,Columnist/Commentator
+3549,Columnist/Commentator
+3550,Publisher/Owner
+3551,Print Reporter
+3555,Broadcast Reporter
+3555,Internet Reporter
+3555,Producer
+3556,Internet Reporter
+3557,Print Reporter
+3558,Photographer
+3559,Print Reporter
+3560,Broadcast Reporter
+3560,Columnist/Commentator
+3561,Internet Reporter
+3562,Internet Reporter
+3563,Editor
+3564,Internet Reporter
+3565,Print Reporter
+3566,Publisher/Owner
+3567,Editor
+3568,Print Reporter
+3569,Editor
+3570,Internet Reporter
+3570,Photographer
+3571,Internet Reporter
+3572,Editor
+3573,Print Reporter
+3574,Editor
+3575,Broadcast Reporter
+3575,Internet Reporter
+3575,Photographer
+3576,Internet Reporter
+3576,Editor
+3577,Publisher/Owner
+3578,Editor
+3579,Editor
+3580,Internet Reporter
+3581,Editor
+3582,Editor
+3582,Internet Reporter
+3583,Editor
+3583,Internet Reporter
+3584,Print Reporter
+3585,Print Reporter
+3586,Columnist/Commentator
+3587,Internet Reporter
+3588,Columnist/Commentator
+3588,Editor

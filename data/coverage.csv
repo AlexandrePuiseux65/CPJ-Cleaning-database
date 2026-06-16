@@ -1,0 +1,4879 @@
+J_Id,coverage
+1,Human Rights
+1,Politics
+1,War
+2,Crime
+2,Politics
+2,War
+3,Human Rights
+3,Politics
+5,Politics
+6,War
+7,Human Rights
+7,Politics
+9,Politics
+11,Human Rights
+11,Politics
+11,War
+12,Corruption
+12,Human Rights
+12,War
+13,Human Rights
+13,Politics
+14,Human Rights
+14,War
+16,Politics
+17,Human Rights
+17,War
+18,War
+20,Human Rights
+20,Politics
+21,Politics
+22,Culture
+22,Sports
+23,Politics
+24,Politics
+25,War
+26,War
+27,Human Rights
+27,Politics
+28,Politics
+29,Politics
+30,Corruption
+30,Culture
+30,Human Rights
+30,Politics
+31,War
+32,Culture
+32,Politics
+33,Politics
+34,Human Rights
+35,Politics
+36,Corruption
+36,Human Rights
+36,War
+37,Culture
+37,Politics
+38,Crime
+39,War
+40,Business
+40,Corruption
+40,Crime
+40,Culture
+40,Human Rights
+40,Politics
+40,Sports
+40,War
+42,Culture
+42,Human Rights
+42,Politics
+43,Corruption
+44,Politics
+44,War
+46,Politics
+48,Human Rights
+48,Politics
+49,Culture
+49,Human Rights
+49,Politics
+50,Human Rights
+50,Politics
+53,Corruption
+53,Politics
+54,War
+55,Politics
+55,War
+56,Politics
+57,Politics
+58,Human Rights
+58,War
+58,Politics
+58,Sports
+59,Crime
+59,Politics
+59,War
+60,Politics
+60,War
+61,Politics
+61,War
+62,War
+63,Human Rights
+63,Politics
+63,War
+65,War
+67,Crime
+68,War
+69,Crime
+70,Human Rights
+70,Politics
+71,Politics
+71,War
+74,Human Rights
+74,Politics
+74,War
+75,War
+76,Politics
+78,Human Rights
+78,Politics
+79,Politics
+80,Politics
+81,Culture
+81,War
+82,Corruption
+82,Crime
+82,Culture
+82,Human Rights
+82,Politics
+82,War
+83,Politics
+84,Culture
+84,Crime
+84,Business
+85,Human Rights
+85,War
+86,Politics
+87,Politics
+87,War
+88,Politics
+89,Politics
+91,Politics
+92,Culture
+92,Politics
+93,Corruption
+93,Crime
+93,Human Rights
+93,Politics
+94,War
+94,Human Rights
+94,Culture
+94,Politics
+95,War
+96,Politics
+97,Human Rights
+97,Politics
+98,Politics
+99,Politics
+101,Politics
+102,Politics
+103,Culture
+104,Politics
+105,Politics
+106,Politics
+107,Culture
+107,Human Rights
+107,Politics
+108,Business
+108,Corruption
+108,Crime
+108,Culture
+108,Human Rights
+108,Politics
+108,War
+109,Corruption
+109,Crime
+109,Culture
+109,Human Rights
+109,Politics
+109,War
+110,Human Rights
+110,Politics
+112,Human Rights
+112,Politics
+116,Culture
+117,Culture
+118,Politics
+120,Politics
+121,Politics
+121,War
+122,Corruption
+123,Politics
+124,Politics
+125,Human Rights
+125,Politics
+126,Politics
+127,Politics
+127,War
+129,Business
+129,Corruption
+129,Crime
+129,Culture
+129,Human Rights
+129,Politics
+129,Sports
+130,Human Rights
+132,Business
+132,Corruption
+132,Culture
+132,Human Rights
+132,Politics
+133,Culture
+133,Politics
+134,Culture
+135,War
+136,Human Rights
+136,Politics
+136,Sports
+137,Politics
+137,War
+138,Human Rights
+138,Politics
+139,Human Rights
+140,Culture
+140,Politics
+141,War
+143,Human Rights
+143,Politics
+144,War
+147,Politics
+147,War
+148,Politics
+150,Politics
+151,Politics
+152,War
+153,War
+154,Culture
+154,Politics
+155,Crime
+157,Politics
+158,Crime
+159,Politics
+160,Corruption
+161,Corruption
+161,Human Rights
+162,Culture
+162,Human Rights
+163,Business
+163,Corruption
+163,Politics
+164,Politics
+165,Human Rights
+165,Politics
+166,War
+168,Culture
+169,War
+171,War
+172,Politics
+173,War
+174,Human Rights
+174,Politics
+174,War
+178,Politics
+179,Human Rights
+179,Politics
+182,War
+183,Human Rights
+183,War
+184,Human Rights
+184,Politics
+185,Politics
+185,War
+186,Human Rights
+186,Politics
+186,War
+187,War
+188,War
+189,Politics
+190,Human Rights
+190,War
+191,Human Rights
+191,Politics
+192,War
+193,Corruption
+194,Politics
+194,War
+195,Politics
+196,Culture
+196,Politics
+197,Business
+197,Corruption
+197,Human Rights
+197,Politics
+198,Culture
+198,Politics
+199,Politics
+200,War
+201,War
+202,Human Rights
+202,Politics
+202,War
+203,Politics
+204,Human Rights
+204,Politics
+205,Politics
+206,Corruption
+206,Crime
+206,Human Rights
+206,Sports
+206,Politics
+208,Human Rights
+208,Politics
+209,War
+210,War
+212,Culture
+212,Human Rights
+212,Politics
+213,Human Rights
+213,Politics
+213,War
+214,Crime
+214,War
+215,Politics
+215,War
+216,Corruption
+216,Human Rights
+216,Politics
+217,Corruption
+217,Crime
+217,Culture
+217,Human Rights
+217,Politics
+218,Human Rights
+218,War
+219,Culture
+220,Politics
+221,Politics
+221,War
+222,Human Rights
+222,Politics
+223,Corruption
+223,Human Rights
+223,Politics
+223,War
+224,Politics
+224,War
+225,Human Rights
+225,War
+226,War
+227,Politics
+228,War
+229,Culture
+230,Politics
+231,Politics
+231,War
+232,Corruption
+232,Crime
+232,Human Rights
+232,Politics
+232,War
+234,Business
+234,Corruption
+234,Crime
+234,Culture
+234,Human Rights
+234,Politics
+234,Sports
+234,War
+235,Politics
+237,Politics
+238,Corruption
+238,Crime
+238,Politics
+239,Politics
+239,Corruption
+241,Culture
+241,Politics
+242,Crime
+243,Politics
+244,Corruption
+244,Human Rights
+244,Politics
+245,War
+246,Culture
+247,Politics
+248,Culture
+248,Human Rights
+248,Politics
+251,Corruption
+251,Human Rights
+251,Politics
+253,Politics
+255,Politics
+256,Politics
+257,Politics
+259,Corruption
+259,Crime
+259,Culture
+259,Human Rights
+259,Politics
+260,Business
+260,Corruption
+260,Crime
+260,Culture
+260,Human Rights
+260,Politics
+260,Sports
+260,War
+261,Human Rights
+261,Politics
+262,Human Rights
+262,Politics
+262,War
+263,Sports
+264,Culture
+264,Human Rights
+264,Politics
+265,War
+266,Crime
+266,Human Rights
+266,Politics
+266,War
+268,War
+268,Human Rights
+269,War
+271,War
+272,Human Rights
+273,Politics
+274,Politics
+275,Politics
+278,Politics
+280,Corruption
+280,Politics
+284,Corruption
+284,Politics
+287,Human Rights
+287,War
+288,Politics
+289,Crime
+290,Politics
+290,War
+291,Business
+291,Corruption
+291,Crime
+291,Human Rights
+291,Politics
+291,War
+292,Politics
+293,Politics
+294,Corruption
+294,Politics
+294,War
+295,Corruption
+295,Politics
+296,War
+297,Business
+297,Corruption
+297,Crime
+297,Politics
+298,War
+299,Culture
+300,Politics
+303,War
+305,Business
+305,Culture
+305,Politics
+307,Human Rights
+310,Corruption
+310,Human Rights
+310,Politics
+311,Crime
+314,Crime
+315,Politics
+315,War
+316,War
+317,War
+318,Culture
+318,Human Rights
+318,Politics
+319,Human Rights
+319,Politics
+319,War
+320,Culture
+321,Politics
+322,Human Rights
+322,Politics
+324,Culture
+324,War
+325,Corruption
+325,Crime
+325,Politics
+326,Business
+326,Politics
+327,Corruption
+327,Politics
+328,Corruption
+328,Crime
+328,Politics
+329,War
+330,War
+331,Sports
+336,Corruption
+336,Culture
+336,Human Rights
+336,Politics
+337,Human Rights
+337,War
+338,War
+339,Politics
+340,Politics
+341,Politics
+343,Culture
+344,Human Rights
+344,Politics
+344,War
+345,Culture
+345,Politics
+346,Politics
+346,Culture
+346,Human Rights
+346,Sports
+346,Business
+348,War
+349,Politics
+349,War
+350,War
+352,War
+356,Politics
+357,War
+358,War
+359,Culture
+359,Politics
+360,Politics
+361,Politics
+362,Corruption
+362,Politics
+363,Politics
+364,Politics
+365,Human Rights
+365,Politics
+366,Human Rights
+366,Politics
+367,Business
+367,Corruption
+367,Crime
+367,Culture
+367,Human Rights
+367,Politics
+367,Sports
+369,War
+371,War
+372,Culture
+372,Human Rights
+372,Politics
+372,War
+373,Politics
+374,Culture
+374,Sports
+375,Politics
+378,Politics
+379,Crime
+379,Culture
+379,Politics
+380,Business
+380,Corruption
+380,Crime
+380,Culture
+380,Human Rights
+380,Politics
+380,Sports
+380,War
+382,Corruption
+382,Human Rights
+382,Politics
+383,Culture
+383,Politics
+385,Human Rights
+385,Politics
+386,Human Rights
+386,War
+388,War
+389,Politics
+390,Business
+390,Culture
+390,Politics
+391,Politics
+392,Culture
+392,Human Rights
+393,War
+394,War
+395,War
+396,Culture
+396,Politics
+397,Politics
+398,Human Rights
+398,War
+399,Human Rights
+399,Politics
+399,War
+400,Human Rights
+401,Human Rights
+401,Politics
+401,War
+402,Corruption
+403,Corruption
+405,Corruption
+405,Politics
+406,Human Rights
+406,Politics
+407,Culture
+407,Human Rights
+407,Politics
+408,Human Rights
+409,Politics
+410,Human Rights
+410,War
+411,Human Rights
+411,War
+413,Human Rights
+414,Politics
+414,War
+415,Corruption
+415,Politics
+416,Corruption
+416,Politics
+417,Politics
+419,Politics
+420,Politics
+421,Human Rights
+421,War
+423,War
+424,Human Rights
+424,War
+426,Politics
+428,Politics
+429,Business
+429,Corruption
+429,Crime
+429,Culture
+429,Human Rights
+429,Politics
+429,War
+430,Corruption
+431,Human Rights
+431,War
+432,Corruption
+432,Human Rights
+432,War
+435,War
+436,Human Rights
+437,War
+438,Culture
+438,Politics
+440,Crime
+440,Politics
+441,Politics
+445,Corruption
+445,Crime
+449,Culture
+449,Human Rights
+449,Politics
+451,Business
+451,Corruption
+451,Politics
+453,War
+455,Corruption
+455,Culture
+456,Politics
+457,Corruption
+458,Politics
+458,War
+459,Politics
+460,Politics
+461,Politics
+462,Crime
+463,Corruption
+463,Politics
+467,War
+468,Politics
+471,War
+474,Corruption
+474,Human Rights
+474,Politics
+475,Crime
+475,Politics
+477,Politics
+478,Human Rights
+480,Politics
+482,Politics
+482,War
+483,Politics
+484,Business
+484,Culture
+484,Human Rights
+484,Politics
+485,Human Rights
+485,Politics
+486,War
+487,War
+488,Human Rights
+488,Politics
+488,War
+490,Corruption
+491,Culture
+491,Human Rights
+491,Politics
+492,Corruption
+492,Politics
+493,Politics
+494,Politics
+495,Politics
+496,Human Rights
+496,Politics
+498,Human Rights
+499,War
+501,Human Rights
+501,Politics
+502,Human Rights
+502,War
+503,Human Rights
+503,Politics
+504,Politics
+505,Human Rights
+505,Politics
+506,Politics
+510,Business
+510,Politics
+511,Culture
+511,Human Rights
+511,Politics
+512,Politics
+512,War
+513,Politics
+514,Human Rights
+514,Politics
+515,Human Rights
+515,War
+516,Business
+516,Corruption
+516,Crime
+516,Culture
+516,Human Rights
+516,Politics
+516,Sports
+516,War
+517,Politics
+518,Culture
+518,Human Rights
+518,Politics
+519,Culture
+519,Sports
+521,Politics
+522,Human Rights
+522,Politics
+523,Culture
+523,Human Rights
+523,Politics
+525,Crime
+526,Corruption
+526,Politics
+527,Corruption
+527,Crime
+527,Human Rights
+527,Politics
+527,War
+528,Human Rights
+528,Politics
+529,Crime
+532,Human Rights
+534,Human Rights
+535,Human Rights
+535,Politics
+537,War
+538,Culture
+538,Politics
+538,War
+539,Business
+539,Corruption
+539,Crime
+539,Human Rights
+539,Politics
+539,Sports
+539,War
+541,Culture
+541,Politics
+542,Politics
+544,Politics
+546,Culture
+548,Human Rights
+548,Politics
+552,Business
+554,Politics
+556,Human Rights
+556,Politics
+557,Politics
+560,Politics
+562,Culture
+562,War
+563,Business
+563,Human Rights
+563,Politics
+564,Politics
+564,War
+565,War
+566,Corruption
+566,Culture
+566,Politics
+566,War
+567,War
+568,Politics
+568,War
+569,Human Rights
+569,Politics
+572,Human Rights
+572,War
+573,Human Rights
+573,Politics
+574,Politics
+574,War
+575,Politics
+576,Corruption
+576,Crime
+576,Human Rights
+576,Politics
+576,War
+577,Politics
+578,Culture
+578,Politics
+579,Human Rights
+579,Politics
+579,Corruption
+583,Politics
+586,Corruption
+586,Crime
+589,Business
+589,Corruption
+589,Crime
+589,Culture
+589,Human Rights
+589,Politics
+589,War
+590,Corruption
+590,Crime
+591,Business
+592,Culture
+592,Human Rights
+592,Politics
+594,Corruption
+594,Politics
+596,Politics
+596,War
+597,Politics
+598,Corruption
+598,Crime
+599,Politics
+600,Business
+600,Culture
+600,Politics
+601,Politics
+603,Corruption
+603,Politics
+604,Human Rights
+604,Politics
+604,War
+605,War
+606,Politics
+606,War
+607,Culture
+607,Human Rights
+607,Politics
+607,War
+608,Culture
+608,Politics
+608,War
+611,Crime
+615,Politics
+616,Corruption
+616,Crime
+618,Corruption
+618,Culture
+618,Politics
+619,Corruption
+619,Politics
+621,Corruption
+623,Politics
+623,War
+624,Politics
+626,Politics
+626,War
+627,Human Rights
+628,Politics
+629,Business
+629,Human Rights
+629,Politics
+630,War
+631,Sports
+632,Human Rights
+632,Politics
+635,Politics
+637,Politics
+638,Politics
+639,Politics
+640,Business
+640,Corruption
+640,Crime
+640,Culture
+640,Human Rights
+640,Politics
+640,Sports
+640,War
+641,Politics
+642,War
+643,Crime
+648,Politics
+649,Politics
+650,Human Rights
+650,Politics
+652,Human Rights
+653,Human Rights
+653,War
+654,Corruption
+654,Politics
+654,War
+655,Human Rights
+655,Politics
+655,War
+656,Crime
+658,Business
+658,Corruption
+658,Crime
+659,Corruption
+659,Crime
+659,Politics
+660,Business
+660,Crime
+661,Politics
+663,Corruption
+663,Politics
+667,Politics
+668,Corruption
+672,Politics
+672,War
+673,Crime
+673,Corruption
+674,Politics
+678,Human Rights
+678,Politics
+679,Corruption
+679,Politics
+681,Politics
+683,War
+684,Corruption
+685,Politics
+686,Corruption
+686,Crime
+686,Politics
+687,Politics
+689,Human Rights
+689,Politics
+691,Human Rights
+691,Politics
+692,Business
+692,Human Rights
+692,Politics
+693,Business
+693,Corruption
+693,Crime
+693,Culture
+693,Politics
+694,Politics
+695,Politics
+696,Business
+696,Corruption
+696,Politics
+697,Politics
+698,Business
+698,Human Rights
+698,Politics
+699,Human Rights
+699,Politics
+700,Politics
+701,Human Rights
+701,Politics
+702,Politics
+703,Corruption
+704,Politics
+706,Politics
+707,Corruption
+707,Human Rights
+707,Politics
+709,Politics
+710,Human Rights
+710,War
+711,Corruption
+711,Politics
+711,War
+712,Politics
+713,Culture
+713,Politics
+714,Human Rights
+715,Politics
+716,War
+718,Crime
+719,War
+720,Politics
+720,War
+722,Politics
+724,War
+724,Corruption
+724,Politics
+725,Business
+725,Politics
+726,Corruption
+726,Politics
+728,Politics
+729,Corruption
+730,Politics
+731,Human Rights
+731,Politics
+731,War
+732,Corruption
+732,Crime
+732,Human Rights
+732,Politics
+733,Politics
+734,Politics
+734,Culture
+736,Corruption
+738,Politics
+739,Business
+739,Corruption
+739,Crime
+739,Human Rights
+739,Politics
+739,War
+740,War
+741,Crime
+742,Corruption
+742,Politics
+743,Human Rights
+743,Politics
+744,Business
+744,Corruption
+744,Crime
+744,Culture
+744,Human Rights
+744,Politics
+744,Sports
+744,War
+745,Politics
+747,Corruption
+747,Politics
+748,Politics
+748,War
+749,Business
+749,Culture
+749,Politics
+749,Sports
+750,War
+751,Culture
+751,Human Rights
+756,Politics
+757,Corruption
+757,Crime
+757,Politics
+758,Corruption
+758,Crime
+759,Corruption
+759,Crime
+761,Business
+761,Corruption
+761,Crime
+761,Human Rights
+761,Politics
+762,War
+763,Politics
+764,Corruption
+764,Politics
+765,Culture
+765,Politics
+766,Politics
+767,Politics
+768,War
+770,Politics
+770,War
+771,Politics
+771,War
+772,Corruption
+772,Crime
+772,Politics
+774,Politics
+775,Politics
+777,Culture
+778,Human Rights
+778,Politics
+779,Culture
+779,Human Rights
+779,Politics
+780,Culture
+780,Human Rights
+780,Politics
+781,Politics
+782,Culture
+782,Politics
+783,Corruption
+783,Politics
+784,Politics
+785,Culture
+787,Politics
+788,Human Rights
+788,Politics
+789,Politics
+789,War
+790,Politics
+791,Politics
+792,Politics
+795,Politics
+796,Corruption
+797,Politics
+803,Politics
+803,War
+804,War
+805,Culture
+805,Human Rights
+805,Politics
+809,Corruption
+809,Politics
+811,Politics
+813,Corruption
+813,Human Rights
+813,Politics
+814,War
+815,Culture
+816,Culture
+816,Politics
+816,War
+818,Human Rights
+818,Politics
+819,Corruption
+819,Politics
+820,Human Rights
+822,Politics
+823,Politics
+826,Corruption
+826,Crime
+827,War
+828,War
+829,War
+830,War
+831,Politics
+832,War
+833,Corruption
+833,Crime
+834,Corruption
+835,Corruption
+835,Politics
+837,War
+838,Corruption
+838,Human Rights
+838,Politics
+842,Culture
+842,Politics
+843,Crime
+844,Corruption
+844,Crime
+844,Politics
+845,War
+846,Human Rights
+846,Politics
+847,Human Rights
+847,Politics
+848,Business
+848,Corruption
+848,Crime
+848,Politics
+849,Politics
+850,Culture
+850,Human Rights
+850,Politics
+851,Culture
+851,Politics
+852,Human Rights
+853,War
+854,Crime
+854,Politics
+856,Politics
+858,Corruption
+858,Politics
+860,Corruption
+860,Politics
+861,Business
+861,Culture
+861,Human Rights
+861,Politics
+862,Corruption
+862,Politics
+862,War
+863,Business
+863,Crime
+863,Culture
+863,Politics
+865,Business
+865,Culture
+865,Politics
+867,Corruption
+867,Crime
+868,Crime
+868,Culture
+870,Politics
+871,Crime
+871,Human Rights
+872,Corruption
+872,Crime
+872,Politics
+874,Politics
+877,Corruption
+878,Human Rights
+878,Politics
+879,Corruption
+879,Politics
+880,Corruption
+880,Crime
+881,Corruption
+881,Politics
+886,Politics
+887,War
+889,Human Rights
+890,Politics
+891,Culture
+892,Politics
+893,Human Rights
+893,Politics
+895,Politics
+896,War
+897,Human Rights
+897,Politics
+898,Politics
+898,War
+900,Corruption
+900,Politics
+901,Politics
+902,Human Rights
+903,Crime
+904,Human Rights
+904,Politics
+905,Corruption
+906,Crime
+907,Crime
+908,Corruption
+908,Politics
+909,Corruption
+909,Politics
+910,War
+911,Culture
+913,Culture
+913,Human Rights
+913,Politics
+914,Crime
+914,Politics
+915,Culture
+915,Human Rights
+915,Politics
+919,Politics
+925,Business
+925,Corruption
+925,Politics
+925,War
+926,Human Rights
+926,Politics
+927,Politics
+927,War
+928,Human Rights
+928,Politics
+928,War
+931,Business
+931,Corruption
+931,Politics
+932,War
+933,Corruption
+933,Politics
+934,Corruption
+934,Crime
+934,Culture
+934,Human Rights
+934,Politics
+934,War
+935,Politics
+936,Culture
+936,Politics
+937,Corruption
+937,Politics
+937,War
+938,Corruption
+938,Crime
+938,Culture
+938,Human Rights
+938,Politics
+938,War
+939,Business
+939,Corruption
+939,Crime
+939,Culture
+939,Human Rights
+939,Politics
+939,Sports
+939,War
+941,Corruption
+942,Business
+942,Corruption
+942,Human Rights
+942,Politics
+944,Culture
+944,Human Rights
+944,Politics
+946,Business
+946,Corruption
+947,Politics
+948,Politics
+950,Politics
+951,War
+952,Human Rights
+952,Politics
+953,Culture
+954,Politics
+954,Corruption
+954,Human Rights
+955,Culture
+957,Corruption
+957,Culture
+957,Human Rights
+957,Politics
+958,Business
+959,Politics
+960,Corruption
+960,Politics
+961,Corruption
+961,Crime
+965,Crime
+966,Human Rights
+966,Politics
+968,Politics
+969,Culture
+969,War
+970,Human Rights
+971,Human Rights
+972,War
+973,Corruption
+973,Human Rights
+973,Politics
+973,War
+974,War
+975,Human Rights
+976,Corruption
+976,Politics
+977,Culture
+978,Politics
+979,Politics
+980,Politics
+982,Human Rights
+982,Politics
+982,Sports
+983,Politics
+984,Corruption
+984,War
+985,War
+987,Politics
+988,Politics
+989,Corruption
+989,Politics
+990,Politics
+992,Politics
+992,Corruption
+993,Corruption
+993,Human Rights
+993,Politics
+993,War
+994,Human Rights
+994,Politics
+995,Politics
+995,War
+996,Crime
+996,Culture
+998,Culture
+998,Politics
+998,War
+1001,War
+1002,Culture
+1002,Human Rights
+1003,Business
+1003,Corruption
+1003,Crime
+1003,Culture
+1003,Human Rights
+1003,Politics
+1003,Sports
+1003,War
+1005,Culture
+1005,Politics
+1006,Politics
+1009,Politics
+1010,Politics
+1012,Human Rights
+1012,Politics
+1013,Crime
+1014,War
+1016,Politics
+1017,Politics
+1019,Politics
+1020,Politics
+1022,Crime
+1024,Corruption
+1024,Crime
+1026,Corruption
+1026,Human Rights
+1027,Politics
+1028,Human Rights
+1029,War
+1031,Corruption
+1033,Politics
+1035,Politics
+1036,Corruption
+1036,Politics
+1037,Politics
+1038,Politics
+1039,Business
+1039,Corruption
+1039,Crime
+1039,Culture
+1039,Human Rights
+1039,Politics
+1039,Sports
+1039,War
+1042,Business
+1042,Corruption
+1042,Crime
+1042,Culture
+1042,Human Rights
+1042,Politics
+1042,Sports
+1042,War
+1043,Human Rights
+1043,War
+1044,Human Rights
+1045,Human Rights
+1045,Politics
+1046,Corruption
+1046,Crime
+1047,Politics
+1048,Politics
+1050,Politics
+1050,War
+1051,Politics
+1051,War
+1052,Politics
+1054,Human Rights
+1054,Politics
+1055,Crime
+1056,Corruption
+1057,Corruption
+1058,War
+1059,Politics
+1060,Corruption
+1060,Crime
+1061,Human Rights
+1061,Politics
+1062,Corruption
+1062,Crime
+1062,Politics
+1063,Crime
+1065,Politics
+1066,Crime
+1066,Politics
+1069,Corruption
+1069,Politics
+1070,Human Rights
+1071,Politics
+1073,Politics
+1075,Politics
+1076,Politics
+1077,Corruption
+1077,Politics
+1078,Politics
+1078,War
+1079,Politics
+1080,Business
+1080,Culture
+1082,Human Rights
+1082,Politics
+1082,War
+1084,War
+1086,Politics
+1086,War
+1088,Corruption
+1088,Human Rights
+1088,Politics
+1089,Politics
+1090,Corruption
+1091,Corruption
+1091,Politics
+1092,Politics
+1094,Crime
+1094,Culture
+1094,Human Rights
+1094,Politics
+1095,Politics
+1095,War
+1096,Corruption
+1096,Human Rights
+1096,Politics
+1097,Corruption
+1097,Crime
+1097,Politics
+1098,Politics
+1099,Politics
+1100,Crime
+1101,Corruption
+1101,Politics
+1102,Politics
+1103,Corruption
+1105,War
+1106,Politics
+1111,Corruption
+1111,Human Rights
+1112,Culture
+1112,Human Rights
+1112,Politics
+1114,War
+1115,Corruption
+1116,Corruption
+1116,Politics
+1117,Business
+1117,Crime
+1117,Culture
+1117,Politics
+1119,Crime
+1119,Politics
+1120,Politics
+1122,Business
+1122,Corruption
+1122,Politics
+1123,Corruption
+1123,Politics
+1124,Politics
+1124,War
+1126,Corruption
+1126,Human Rights
+1126,Politics
+1127,Corruption
+1130,Human Rights
+1130,Politics
+1130,War
+1131,Culture
+1131,Sports
+1134,Crime
+1134,Politics
+1134,War
+1136,Politics
+1137,Culture
+1137,Human Rights
+1137,Politics
+1139,Human Rights
+1139,Politics
+1139,War
+1140,Human Rights
+1140,Politics
+1141,Crime
+1141,Culture
+1141,Politics
+1142,Culture
+1143,Human Rights
+1144,Corruption
+1144,Politics
+1145,Politics
+1146,Human Rights
+1146,Politics
+1148,Politics
+1150,Corruption
+1150,Crime
+1155,Politics
+1156,Politics
+1158,Crime
+1159,Crime
+1159,Sports
+1161,War
+1162,Politics
+1162,War
+1163,Human Rights
+1163,War
+1164,Culture
+1165,Corruption
+1165,Crime
+1166,Politics
+1169,Politics
+1170,Culture
+1170,Human Rights
+1170,Politics
+1171,Crime
+1172,Corruption
+1172,Human Rights
+1172,Politics
+1173,Corruption
+1173,Politics
+1174,Corruption
+1174,Politics
+1175,Politics
+1176,Culture
+1178,Politics
+1179,Crime
+1179,Politics
+1180,Corruption
+1180,Culture
+1180,Sports
+1181,Politics
+1182,Corruption
+1182,Crime
+1182,Human Rights
+1182,Politics
+1186,Crime
+1186,Politics
+1191,Culture
+1191,Human Rights
+1191,Politics
+1192,Politics
+1193,Human Rights
+1193,Politics
+1193,War
+1194,War
+1197,Business
+1199,Culture
+1200,Corruption
+1200,Politics
+1201,Corruption
+1201,Human Rights
+1201,Politics
+1202,Human Rights
+1202,Politics
+1205,Politics
+1205,War
+1206,Politics
+1206,War
+1207,Politics
+1210,Politics
+1211,Business
+1213,Corruption
+1213,Human Rights
+1213,Politics
+1216,Politics
+1217,Politics
+1218,Politics
+1219,Corruption
+1219,Culture
+1219,Politics
+1220,Politics
+1221,Culture
+1222,War
+1223,Politics
+1223,Sports
+1224,Culture
+1224,Human Rights
+1225,Politics
+1226,Corruption
+1226,Human Rights
+1226,Politics
+1227,Human Rights
+1227,War
+1229,Culture
+1230,Politics
+1231,Corruption
+1231,Politics
+1232,Corruption
+1233,Business
+1233,Corruption
+1233,Crime
+1233,Politics
+1234,Politics
+1235,Culture
+1235,Politics
+1236,Politics
+1237,Human Rights
+1237,Politics
+1238,Politics
+1239,War
+1240,Politics
+1241,Crime
+1241,Politics
+1242,Culture
+1242,Human Rights
+1242,Politics
+1242,War
+1242,Sports
+1243,War
+1244,Politics
+1245,Corruption
+1245,Crime
+1247,Politics
+1248,Culture
+1249,War
+1250,War
+1251,Human Rights
+1251,Politics
+1253,Politics
+1253,War
+1254,Human Rights
+1254,War
+1255,Business
+1255,Corruption
+1255,Human Rights
+1255,Politics
+1255,War
+1256,Human Rights
+1256,Politics
+1257,Politics
+1257,War
+1260,Culture
+1260,Politics
+1261,Crime
+1261,Culture
+1261,Politics
+1262,Culture
+1262,War
+1263,War
+1264,Politics
+1265,Corruption
+1265,Politics
+1267,Politics
+1268,Human Rights
+1268,Politics
+1269,Politics
+1269,War
+1270,Business
+1270,Corruption
+1270,Crime
+1270,Culture
+1270,Human Rights
+1270,Politics
+1270,Sports
+1270,War
+1272,Culture
+1272,Human Rights
+1273,Human Rights
+1273,Politics
+1273,War
+1275,War
+1276,Corruption
+1276,War
+1278,Culture
+1278,Sports
+1279,Business
+1279,Culture
+1282,Politics
+1285,Human Rights
+1287,Human Rights
+1287,Politics
+1288,Politics
+1292,Corruption
+1293,Politics
+1295,Corruption
+1299,Corruption
+1299,Crime
+1300,Politics
+1301,Business
+1301,Corruption
+1301,Crime
+1301,Culture
+1301,Human Rights
+1301,Politics
+1301,Sports
+1301,War
+1304,Human Rights
+1307,Politics
+1307,War
+1308,Politics
+1308,War
+1309,Politics
+1310,Politics
+1310,Crime
+1311,Corruption
+1311,Human Rights
+1311,Politics
+1312,Corruption
+1312,Human Rights
+1312,Politics
+1314,Human Rights
+1314,Politics
+1315,Human Rights
+1315,Politics
+1316,Corruption
+1316,Politics
+1319,Politics
+1319,War
+1320,Politics
+1321,War
+1322,Corruption
+1322,Culture
+1322,Human Rights
+1322,Politics
+1323,Corruption
+1323,Human Rights
+1323,Politics
+1325,War
+1326,Human Rights
+1326,Politics
+1327,Corruption
+1327,Human Rights
+1327,Politics
+1329,Corruption
+1330,Politics
+1330,War
+1331,Culture
+1331,Politics
+1332,Corruption
+1332,Human Rights
+1332,Politics
+1333,Politics
+1336,Human Rights
+1336,War
+1337,Corruption
+1337,Crime
+1340,Corruption
+1340,Politics
+1341,Politics
+1342,Politics
+1343,War
+1344,War
+1345,Human Rights
+1345,Politics
+1345,War
+1346,Human Rights
+1346,Politics
+1347,Human Rights
+1348,Human Rights
+1348,Politics
+1351,Politics
+1352,Human Rights
+1353,Politics
+1353,War
+1354,Human Rights
+1354,Politics
+1358,Business
+1358,Culture
+1358,Human Rights
+1358,Politics
+1359,Politics
+1360,War
+1361,Politics
+1362,Politics
+1365,Politics
+1366,Corruption
+1366,Human Rights
+1366,Politics
+1366,War
+1369,War
+1371,Human Rights
+1371,Politics
+1371,War
+1372,War
+1373,Corruption
+1373,Politics
+1374,Politics
+1375,Human Rights
+1376,Human Rights
+1376,Politics
+1377,War
+1379,War
+1380,Human Rights
+1380,War
+1382,War
+1383,Culture
+1383,Politics
+1384,Culture
+1384,Politics
+1387,Corruption
+1387,Crime
+1388,Politics
+1389,Business
+1389,Corruption
+1389,Culture
+1390,Corruption
+1391,War
+1392,Business
+1392,Corruption
+1392,Crime
+1392,Politics
+1393,Culture
+1394,Politics
+1394,War
+1398,Corruption
+1399,War
+1401,Human Rights
+1401,Politics
+1402,Business
+1402,Corruption
+1402,Crime
+1402,Culture
+1402,Human Rights
+1402,Politics
+1402,Sports
+1402,War
+1407,War
+1408,Crime
+1408,Human Rights
+1408,Politics
+1409,Politics
+1411,Business
+1411,Politics
+1413,Human Rights
+1413,Politics
+1413,War
+1417,War
+1418,War
+1421,Culture
+1421,Sports
+1422,Human Rights
+1425,Human Rights
+1425,Politics
+1426,Politics
+1426,War
+1427,Politics
+1429,Culture
+1429,Human Rights
+1429,Politics
+1430,Corruption
+1435,Politics
+1437,Human Rights
+1437,War
+1438,Human Rights
+1441,Business
+1441,Corruption
+1441,Politics
+1443,Corruption
+1443,Crime
+1443,Politics
+1444,War
+1445,Politics
+1447,Politics
+1449,War
+1450,Culture
+1450,Politics
+1450,War
+1454,Human Rights
+1455,Business
+1455,Culture
+1457,Corruption
+1457,Crime
+1457,Politics
+1459,Politics
+1461,Politics
+1463,Corruption
+1463,Human Rights
+1464,Corruption
+1465,Corruption
+1465,Business
+1465,Politics
+1466,Human Rights
+1466,Politics
+1466,War
+1467,Human Rights
+1467,Politics
+1468,Culture
+1468,Politics
+1469,War
+1470,Corruption
+1470,Culture
+1470,Human Rights
+1470,Politics
+1470,War
+1471,Politics
+1472,Crime
+1473,Politics
+1474,Business
+1475,War
+1477,Human Rights
+1477,War
+1478,Human Rights
+1478,War
+1479,Politics
+1480,War
+1481,War
+1483,Business
+1483,Human Rights
+1483,Politics
+1485,Politics
+1486,Politics
+1487,Politics
+1487,War
+1488,Politics
+1489,Corruption
+1490,Business
+1490,Culture
+1490,Human Rights
+1490,Politics
+1490,War
+1491,Politics
+1491,War
+1492,Human Rights
+1492,Politics
+1493,Politics
+1494,Politics
+1495,Politics
+1496,Crime
+1496,Human Rights
+1496,Politics
+1500,Corruption
+1500,Crime
+1500,Politics
+1503,Business
+1503,Culture
+1503,Politics
+1503,Sports
+1504,Culture
+1504,Human Rights
+1504,Politics
+1505,Corruption
+1505,Politics
+1506,Human Rights
+1507,Corruption
+1507,Politics
+1508,Politics
+1510,Human Rights
+1510,Politics
+1510,War
+1511,War
+1512,Corruption
+1512,Politics
+1513,Politics
+1514,Politics
+1516,Crime
+1518,Corruption
+1518,Crime
+1518,Politics
+1519,Culture
+1519,Human Rights
+1521,War
+1522,Human Rights
+1523,Politics
+1524,War
+1525,Politics
+1525,War
+1526,Politics
+1526,War
+1527,Culture
+1527,Human Rights
+1528,Corruption
+1530,Politics
+1532,Politics
+1534,Politics
+1535,Business
+1535,Culture
+1535,Politics
+1536,Business
+1536,Corruption
+1536,Crime
+1536,Human Rights
+1538,Politics
+1539,Politics
+1540,Politics
+1541,Corruption
+1542,Corruption
+1542,Human Rights
+1542,Politics
+1543,Culture
+1543,Human Rights
+1543,Politics
+1544,Human Rights
+1544,Politics
+1546,Human Rights
+1547,Sports
+1548,Politics
+1549,Politics
+1550,Politics
+1553,Corruption
+1553,Politics
+1554,Crime
+1554,Politics
+1555,Corruption
+1555,Politics
+1556,War
+1557,Politics
+1558,Politics
+1559,Human Rights
+1559,Politics
+1559,War
+1560,War
+1561,Politics
+1562,Politics
+1563,Sports
+1564,War
+1565,Corruption
+1565,Politics
+1566,Politics
+1568,Crime
+1569,Culture
+1569,Politics
+1570,Politics
+1571,War
+1572,Politics
+1573,War
+1574,Human Rights
+1576,Crime
+1576,Politics
+1577,Crime
+1578,Human Rights
+1580,Corruption
+1580,Politics
+1581,Corruption
+1582,Corruption
+1585,Politics
+1589,War
+1590,War
+1591,Corruption
+1591,Politics
+1592,Culture
+1593,Crime
+1593,Politics
+1595,Corruption
+1595,Crime
+1598,Business
+1598,Corruption
+1598,Politics
+1599,Crime
+1602,Corruption
+1602,Crime
+1602,Human Rights
+1603,Corruption
+1603,Politics
+1604,War
+1605,Corruption
+1605,Politics
+1606,Corruption
+1608,Corruption
+1608,Politics
+1610,Corruption
+1611,Politics
+1614,Crime
+1615,Politics
+1617,Politics
+1618,Corruption
+1618,Crime
+1622,Corruption
+1622,Crime
+1622,Politics
+1625,Corruption
+1625,Crime
+1626,Politics
+1627,Corruption
+1627,Crime
+1627,War
+1629,Corruption
+1629,Crime
+1629,Politics
+1631,Corruption
+1631,Politics
+1632,Politics
+1633,Corruption
+1635,Politics
+1636,Human Rights
+1639,Politics
+1640,Culture
+1640,Sports
+1642,Crime
+1644,Corruption
+1644,Crime
+1644,Politics
+1644,Human Rights
+1647,Corruption
+1647,Politics
+1648,War
+1649,Human Rights
+1649,Politics
+1651,Corruption
+1653,War
+1654,Corruption
+1656,Politics
+1657,Human Rights
+1657,Politics
+1658,Business
+1658,Corruption
+1658,Crime
+1658,Culture
+1658,Human Rights
+1658,Politics
+1658,Sports
+1658,War
+1659,Corruption
+1660,Business
+1660,Corruption
+1660,Crime
+1660,Politics
+1661,Human Rights
+1661,Politics
+1664,Politics
+1666,Politics
+1667,Crime
+1668,War
+1670,War
+1672,Human Rights
+1673,Politics
+1674,Politics
+1675,War
+1676,War
+1676,Culture
+1677,Politics
+1677,War
+1678,Human Rights
+1678,Politics
+1679,Corruption
+1679,Culture
+1679,Politics
+1679,Sports
+1680,Human Rights
+1680,Politics
+1681,War
+1682,Corruption
+1682,Crime
+1682,Politics
+1683,Corruption
+1684,Corruption
+1684,Crime
+1685,Culture
+1685,Human Rights
+1685,Politics
+1686,Politics
+1686,War
+1688,War
+1689,Corruption
+1689,Crime
+1689,Politics
+1690,Politics
+1692,Culture
+1693,Human Rights
+1694,Human Rights
+1695,Business
+1695,Corruption
+1695,Crime
+1695,Culture
+1695,Human Rights
+1695,Politics
+1695,Sports
+1695,War
+1697,War
+1698,Business
+1698,Crime
+1698,Culture
+1698,Politics
+1699,Human Rights
+1699,Politics
+1699,War
+1700,Human Rights
+1700,Politics
+1701,Culture
+1701,Human Rights
+1701,Politics
+1701,War
+1702,Human Rights
+1702,Politics
+1703,War
+1704,Culture
+1704,Politics
+1705,War
+1706,Corruption
+1706,Politics
+1708,Politics
+1709,Politics
+1710,Corruption
+1710,Human Rights
+1710,Politics
+1711,Human Rights
+1711,War
+1712,Culture
+1712,Sports
+1713,War
+1714,Human Rights
+1714,Politics
+1714,War
+1715,War
+1716,War
+1717,Human Rights
+1717,Politics
+1717,War
+1718,War
+1719,War
+1720,Politics
+1721,War
+1722,Culture
+1725,Politics
+1726,Politics
+1727,Human Rights
+1728,Corruption
+1728,Crime
+1728,Culture
+1728,Human Rights
+1728,Politics
+1731,Corruption
+1731,Crime
+1732,Culture
+1732,Human Rights
+1732,Politics
+1733,Human Rights
+1733,Business
+1733,Corruption
+1733,Crime
+1733,War
+1733,Politics
+1734,Politics
+1734,War
+1737,War
+1739,Corruption
+1739,Crime
+1741,Politics
+1742,Politics
+1743,War
+1744,Human Rights
+1745,Politics
+1746,War
+1747,Human Rights
+1747,Politics
+1748,Corruption
+1748,Human Rights
+1748,Politics
+1750,War
+1751,Corruption
+1751,Crime
+1752,Human Rights
+1752,Politics
+1753,Politics
+1754,Business
+1754,Human Rights
+1754,Politics
+1754,War
+1755,Human Rights
+1755,Politics
+1756,Politics
+1759,Politics
+1760,War
+1762,Human Rights
+1762,Politics
+1764,Culture
+1764,Sports
+1765,Corruption
+1767,Corruption
+1767,Crime
+1767,Politics
+1768,Human Rights
+1768,Politics
+1768,War
+1769,Human Rights
+1770,Politics
+1773,Human Rights
+1773,War
+1774,Corruption
+1774,Politics
+1775,War
+1776,Human Rights
+1776,Politics
+1777,Business
+1777,Politics
+1778,Politics
+1781,Politics
+1783,Politics
+1784,Politics
+1785,Politics
+1786,Politics
+1787,Culture
+1787,Human Rights
+1787,Politics
+1789,Corruption
+1789,Crime
+1789,Politics
+1790,Politics
+1791,Politics
+1791,Crime
+1791,Corruption
+1792,Politics
+1793,Human Rights
+1793,Politics
+1794,Politics
+1794,Culture
+1795,Politics
+1797,Human Rights
+1797,Politics
+1797,War
+1799,Corruption
+1801,Politics
+1802,Politics
+1803,Human Rights
+1803,Politics
+1804,Business
+1804,Corruption
+1804,Crime
+1804,Human Rights
+1804,Politics
+1806,Business
+1806,Corruption
+1806,Human Rights
+1807,Politics
+1808,Corruption
+1808,Human Rights
+1808,Politics
+1810,Politics
+1811,Culture
+1811,Human Rights
+1811,Politics
+1814,Politics
+1815,Politics
+1816,Human Rights
+1816,Politics
+1818,Corruption
+1818,Politics
+1819,War
+1820,Politics
+1821,Politics
+1822,Human Rights
+1822,Politics
+1823,Politics
+1824,Politics
+1825,Business
+1825,Corruption
+1825,Politics
+1826,Politics
+1827,Politics
+1828,Business
+1828,Corruption
+1829,Corruption
+1829,Politics
+1830,Human Rights
+1830,Politics
+1831,Politics
+1832,Corruption
+1832,Human Rights
+1832,Politics
+1833,Human Rights
+1833,War
+1834,Human Rights
+1834,Politics
+1835,Corruption
+1838,Politics
+1839,War
+1840,Human Rights
+1841,Politics
+1842,Politics
+1843,Corruption
+1843,Politics
+1844,Corruption
+1844,Crime
+1844,Culture
+1844,Human Rights
+1844,Politics
+1845,Politics
+1847,Crime
+1849,Business
+1849,Corruption
+1849,Politics
+1852,Crime
+1852,Culture
+1852,Human Rights
+1852,Politics
+1854,Corruption
+1854,Human Rights
+1854,Politics
+1854,War
+1856,Culture
+1859,Corruption
+1859,Crime
+1862,Human Rights
+1863,Corruption
+1864,Culture
+1864,Human Rights
+1864,Politics
+1865,War
+1866,Politics
+1867,Politics
+1868,Culture
+1868,Human Rights
+1868,Politics
+1870,Corruption
+1870,Crime
+1871,War
+1871,Crime
+1871,Politics
+1871,Human Rights
+1873,Corruption
+1873,Human Rights
+1873,Politics
+1873,Crime
+1874,Politics
+1875,Politics
+1876,Corruption
+1877,Human Rights
+1877,Politics
+1878,Corruption
+1878,Politics
+1879,Politics
+1881,War
+1882,Corruption
+1882,Politics
+1883,Corruption
+1883,Politics
+1884,Crime
+1885,Culture
+1885,Sports
+1886,Corruption
+1886,Politics
+1887,Corruption
+1887,Human Rights
+1887,Politics
+1887,War
+1888,Politics
+1888,War
+1889,Politics
+1889,War
+1890,War
+1891,War
+1892,Politics
+1893,Politics
+1893,War
+1894,Business
+1895,Politics
+1895,War
+1896,Human Rights
+1896,Politics
+1897,Politics
+1898,Politics
+1899,War
+1901,Human Rights
+1901,Politics
+1902,Human Rights
+1902,Politics
+1903,Culture
+1904,War
+1905,Politics
+1906,War
+1907,Politics
+1908,Politics
+1909,War
+1910,Politics
+1911,Human Rights
+1912,Human Rights
+1912,Politics
+1912,War
+1913,Politics
+1914,Politics
+1915,War
+1916,Culture
+1916,War
+1917,War
+1919,Culture
+1919,Politics
+1920,Politics
+1920,War
+1920,Crime
+1920,Human Rights
+1921,Corruption
+1921,Crime
+1922,Culture
+1925,Culture
+1926,Politics
+1927,Corruption
+1927,Politics
+1928,Culture
+1930,Business
+1930,Culture
+1930,Human Rights
+1930,Politics
+1931,Crime
+1931,Politics
+1933,Corruption
+1935,Human Rights
+1935,Politics
+1936,Human Rights
+1936,Politics
+1937,Corruption
+1937,Politics
+1939,Corruption
+1939,Crime
+1941,Politics
+1942,Crime
+1943,Politics
+1944,War
+1946,Politics
+1947,War
+1953,War
+1954,Corruption
+1954,Human Rights
+1955,Corruption
+1955,Politics
+1956,Corruption
+1956,Politics
+1957,Human Rights
+1958,Crime
+1959,War
+1961,Human Rights
+1962,Human Rights
+1962,War
+1963,Politics
+1966,Business
+1966,Corruption
+1966,Crime
+1966,Politics
+1966,Culture
+1968,Corruption
+1968,Crime
+1968,Politics
+1970,Crime
+1973,Politics
+1974,Culture
+1974,Politics
+1974,Sports
+1975,Politics
+1976,Corruption
+1977,Human Rights
+1977,Politics
+1978,Politics
+1980,Crime
+1980,Politics
+1981,Corruption
+1981,Crime
+1981,War
+1982,Politics
+1983,Human Rights
+1983,Politics
+1983,War
+1984,Politics
+1987,Business
+1987,Culture
+1988,Human Rights
+1989,Corruption
+1989,Politics
+1990,Corruption
+1990,Human Rights
+1991,Culture
+1994,Politics
+1995,Politics
+1997,Culture
+1997,Human Rights
+1997,Politics
+1999,Business
+1999,Corruption
+1999,Culture
+1999,Politics
+2000,Culture
+2000,Human Rights
+2000,Politics
+2001,Human Rights
+2003,Human Rights
+2003,Politics
+2003,War
+2004,Corruption
+2004,Politics
+2005,Politics
+2006,Human Rights
+2006,Politics
+2007,Human Rights
+2007,Politics
+2010,Human Rights
+2014,Corruption
+2014,Crime
+2014,Politics
+2016,Politics
+2016,War
+2017,Human Rights
+2017,Politics
+2018,Culture
+2018,Human Rights
+2019,War
+2020,Human Rights
+2020,Politics
+2022,War
+2023,Human Rights
+2023,Politics
+2024,War
+2025,Politics
+2026,Politics
+2028,Politics
+2029,Politics
+2031,Human Rights
+2031,Politics
+2031,Sports
+2032,Politics
+2033,Politics
+2034,Politics
+2035,Politics
+2037,Corruption
+2039,Business
+2039,Corruption
+2039,Crime
+2039,Culture
+2039,Human Rights
+2039,Politics
+2039,Sports
+2039,War
+2041,Corruption
+2041,Crime
+2041,Politics
+2041,War
+2043,Politics
+2044,Corruption
+2044,Crime
+2044,Culture
+2044,Human Rights
+2044,Politics
+2044,War
+2045,Business
+2045,Corruption
+2045,Crime
+2045,Culture
+2045,Human Rights
+2045,Politics
+2045,Sports
+2045,War
+2046,Politics
+2047,Business
+2047,Corruption
+2047,Crime
+2047,Culture
+2047,Human Rights
+2047,Politics
+2047,Sports
+2047,War
+2050,Business
+2050,Corruption
+2050,Crime
+2050,Culture
+2050,Human Rights
+2050,Politics
+2050,Sports
+2050,War
+2053,Business
+2053,Corruption
+2053,Crime
+2053,Culture
+2053,Human Rights
+2053,Politics
+2053,Sports
+2054,Politics
+2055,Corruption
+2056,Sports
+2059,Politics
+2059,War
+2061,Human Rights
+2061,Politics
+2061,War
+2062,Culture
+2062,Human Rights
+2062,Politics
+2063,Culture
+2063,Politics
+2064,Politics
+2065,Business
+2065,Corruption
+2065,Crime
+2065,Culture
+2065,Human Rights
+2065,Politics
+2065,Sports
+2065,War
+2066,Human Rights
+2066,Politics
+2068,Politics
+2070,Politics
+2074,Corruption
+2074,Culture
+2074,Politics
+2075,Politics
+2076,Sports
+2077,War
+2078,Corruption
+2078,Politics
+2079,Politics
+2080,Corruption
+2080,Human Rights
+2081,Business
+2081,Corruption
+2081,Crime
+2081,Human Rights
+2081,Politics
+2081,War
+2082,Politics
+2082,Corruption
+2083,Corruption
+2083,Politics
+2086,War
+2087,Human Rights
+2087,Politics
+2087,War
+2090,Politics
+2091,War
+2092,Corruption
+2092,Crime
+2095,War
+2096,Politics
+2097,Politics
+2098,Business
+2098,Corruption
+2098,Crime
+2103,Politics
+2106,Business
+2106,Corruption
+2106,Crime
+2106,Culture
+2106,Human Rights
+2106,Politics
+2106,Sports
+2106,War
+2107,Crime
+2107,Politics
+2108,Politics
+2108,War
+2109,Crime
+2109,Human Rights
+2109,Politics
+2112,Culture
+2112,Politics
+2112,War
+2113,Human Rights
+2113,Politics
+2116,War
+2117,Human Rights
+2119,Culture
+2119,Human Rights
+2119,Politics
+2120,Culture
+2120,Politics
+2121,Human Rights
+2122,Crime
+2122,Culture
+2122,Politics
+2123,Corruption
+2123,Politics
+2124,Politics
+2124,War
+2125,Corruption
+2125,Human Rights
+2125,Politics
+2126,Politics
+2127,Politics
+2128,Culture
+2128,War
+2129,Crime
+2129,Politics
+2129,War
+2130,War
+2131,Politics
+2132,Culture
+2132,Human Rights
+2133,War
+2134,Human Rights
+2134,Politics
+2135,Politics
+2136,Politics
+2137,Human Rights
+2137,Politics
+2139,Politics
+2140,Culture
+2140,Politics
+2141,Politics
+2141,War
+2142,Politics
+2142,War
+2143,Politics
+2143,War
+2144,Politics
+2144,War
+2145,Culture
+2145,Politics
+2146,Corruption
+2147,Politics
+2148,Corruption
+2148,Human Rights
+2148,Politics
+2148,War
+2149,War
+2151,Human Rights
+2151,War
+2152,Human Rights
+2152,Politics
+2153,Corruption
+2153,Culture
+2153,Human Rights
+2153,Politics
+2154,Politics
+2154,War
+2155,Culture
+2155,Human Rights
+2155,Politics
+2155,War
+2156,Politics
+2157,Human Rights
+2157,Politics
+2157,War
+2158,Corruption
+2158,Human Rights
+2158,Politics
+2159,Politics
+2159,War
+2161,Corruption
+2161,Politics
+2162,Corruption
+2162,Human Rights
+2162,Politics
+2163,Corruption
+2163,Politics
+2164,Culture
+2165,Corruption
+2165,Culture
+2166,Human Rights
+2166,Politics
+2166,War
+2167,War
+2168,Human Rights
+2168,Politics
+2169,Politics
+2170,Politics
+2170,War
+2171,Politics
+2172,Human Rights
+2173,War
+2174,Human Rights
+2174,Politics
+2175,Human Rights
+2176,War
+2178,War
+2179,Business
+2179,Corruption
+2179,Politics
+2181,Human Rights
+2181,Politics
+2182,Politics
+2183,Politics
+2184,Human Rights
+2185,Politics
+2186,Politics
+2186,War
+2187,Politics
+2187,War
+2189,Human Rights
+2190,Politics
+2191,Culture
+2191,Human Rights
+2191,Politics
+2194,War
+2195,Politics
+2196,Politics
+2197,Politics
+2199,Human Rights
+2199,Culture
+2199,Politics
+2200,Human Rights
+2200,Politics
+2202,War
+2203,Human Rights
+2203,Politics
+2203,War
+2204,Culture
+2205,Politics
+2205,War
+2206,War
+2207,Politics
+2207,War
+2208,Politics
+2209,Politics
+2209,War
+2210,Politics
+2210,War
+2211,Politics
+2212,Culture
+2213,Crime
+2216,Politics
+2217,War
+2219,Culture
+2219,Human Rights
+2219,Politics
+2221,War
+2222,Politics
+2222,War
+2223,Politics
+2224,War
+2225,Human Rights
+2225,Politics
+2225,War
+2226,Business
+2226,Culture
+2226,Politics
+2227,Politics
+2227,War
+2228,Politics
+2229,Politics
+2230,Politics
+2230,War
+2232,War
+2233,Business
+2233,Culture
+2233,Politics
+2236,Human Rights
+2237,Politics
+2238,Politics
+2239,Human Rights
+2239,Politics
+2239,War
+2240,Human Rights
+2240,Politics
+2241,Business
+2241,Crime
+2241,Culture
+2241,Politics
+2241,Sports
+2242,Politics
+2242,War
+2243,Politics
+2243,War
+2244,Business
+2244,Corruption
+2246,Culture
+2247,Culture
+2247,Politics
+2247,Sports
+2247,War
+2248,Human Rights
+2248,Politics
+2249,Culture
+2249,Politics
+2250,Culture
+2250,Politics
+2252,Culture
+2252,Human Rights
+2252,Politics
+2253,Culture
+2253,Human Rights
+2254,Human Rights
+2254,Politics
+2255,Human Rights
+2255,Politics
+2255,War
+2256,Culture
+2256,Politics
+2257,War
+2258,War
+2260,Politics
+2260,War
+2261,Culture
+2261,Human Rights
+2261,Politics
+2262,Politics
+2263,Culture
+2263,Politics
+2264,Politics
+2264,War
+2266,Politics
+2266,War
+2267,War
+2268,Politics
+2269,Corruption
+2269,Human Rights
+2269,Politics
+2270,Politics
+2271,Human Rights
+2271,War
+2273,Corruption
+2273,Crime
+2273,Human Rights
+2273,Politics
+2274,Corruption
+2279,Human Rights
+2279,War
+2280,Politics
+2281,Corruption
+2282,Business
+2282,Corruption
+2282,Crime
+2282,Culture
+2282,Human Rights
+2282,Politics
+2282,Sports
+2282,War
+2283,Human Rights
+2283,War
+2284,Culture
+2285,War
+2286,Business
+2286,Corruption
+2286,Crime
+2286,Culture
+2286,Human Rights
+2286,Politics
+2286,Sports
+2286,War
+2288,Politics
+2288,War
+2289,Politics
+2293,Culture
+2295,Human Rights
+2296,War
+2297,Culture
+2298,Politics
+2299,Business
+2299,Corruption
+2299,Crime
+2299,Culture
+2299,Human Rights
+2299,Politics
+2299,Sports
+2299,War
+2301,Politics
+2303,Crime
+2303,Human Rights
+2303,War
+2304,Corruption
+2304,Human Rights
+2305,Politics
+2306,Politics
+2306,War
+2308,Politics
+2308,War
+2309,Culture
+2311,Crime
+2311,Politics
+2311,War
+2312,Corruption
+2312,Politics
+2313,Politics
+2313,War
+2314,Business
+2314,Culture
+2314,Politics
+2315,War
+2317,Politics
+2318,Politics
+2320,Politics
+2321,Politics
+2322,Politics
+2323,Politics
+2327,War
+2328,War
+2329,Politics
+2330,Politics
+2332,Culture
+2332,Human Rights
+2332,Politics
+2333,Politics
+2334,Business
+2334,Corruption
+2334,Crime
+2334,Culture
+2334,Human Rights
+2334,Politics
+2334,Sports
+2334,War
+2335,Business
+2335,Corruption
+2335,Crime
+2335,Culture
+2335,Human Rights
+2335,Politics
+2336,Human Rights
+2336,Politics
+2338,War
+2339,Corruption
+2340,Human Rights
+2340,Politics
+2342,Politics
+2344,Politics
+2345,Human Rights
+2345,Politics
+2345,War
+2346,War
+2347,Politics
+2348,War
+2349,Culture
+2349,Human Rights
+2349,Politics
+2350,War
+2352,Culture
+2353,Politics
+2354,Politics
+2355,Business
+2355,Corruption
+2355,Crime
+2356,Politics
+2357,Corruption
+2357,Crime
+2357,Politics
+2358,Culture
+2358,Politics
+2360,Culture
+2360,Politics
+2360,War
+2361,Corruption
+2362,War
+2363,War
+2364,Human Rights
+2364,Politics
+2365,Corruption
+2365,Human Rights
+2365,Politics
+2366,War
+2367,Human Rights
+2367,Politics
+2369,Politics
+2370,Culture
+2370,Human Rights
+2370,Politics
+2370,Sports
+2370,War
+2371,Politics
+2372,Culture
+2372,Politics
+2373,Human Rights
+2377,War
+2378,Human Rights
+2379,Culture
+2379,Human Rights
+2379,Politics
+2380,Politics
+2381,War
+2382,Human Rights
+2383,Business
+2383,Corruption
+2385,Culture
+2385,Politics
+2386,Human Rights
+2386,Politics
+2387,Culture
+2387,Human Rights
+2387,Politics
+2387,War
+2388,Corruption
+2389,Crime
+2389,Human Rights
+2390,Culture
+2390,Human Rights
+2391,Politics
+2392,Human Rights
+2394,Corruption
+2394,Culture
+2394,Politics
+2394,War
+2396,Human Rights
+2396,Politics
+2398,Politics
+2399,War
+2400,Human Rights
+2400,War
+2401,Culture
+2401,Politics
+2402,Politics
+2403,Culture
+2404,Human Rights
+2404,Politics
+2405,Corruption
+2405,Human Rights
+2405,Politics
+2405,War
+2408,Culture
+2408,Human Rights
+2408,Politics
+2408,War
+2409,Corruption
+2409,Crime
+2409,Culture
+2409,Human Rights
+2409,Politics
+2409,War
+2410,Crime
+2410,Human Rights
+2412,Politics
+2413,Corruption
+2421,Politics
+2422,Crime
+2422,Politics
+2424,Culture
+2424,Sports
+2426,Politics
+2427,Human Rights
+2427,Politics
+2428,Business
+2429,Corruption
+2429,Human Rights
+2429,Politics
+2430,Politics
+2431,Business
+2431,Corruption
+2431,Human Rights
+2431,Politics
+2432,Human Rights
+2432,Politics
+2433,Business
+2433,Human Rights
+2433,Politics
+2434,Politics
+2436,Human Rights
+2436,Politics
+2437,Politics
+2438,Human Rights
+2438,Politics
+2439,Corruption
+2441,Corruption
+2441,Politics
+2442,Human Rights
+2442,Politics
+2444,Politics
+2445,Politics
+2446,Human Rights
+2446,Politics
+2447,Corruption
+2450,Politics
+2450,War
+2451,Culture
+2451,Politics
+2453,Culture
+2453,Politics
+2454,Culture
+2454,Human Rights
+2454,Politics
+2455,Crime
+2455,Politics
+2455,Corruption
+2456,Corruption
+2456,Crime
+2457,Human Rights
+2457,Politics
+2459,Culture
+2459,Human Rights
+2459,Politics
+2460,Politics
+2460,War
+2461,Crime
+2463,Human Rights
+2463,War
+2464,Culture
+2464,Politics
+2465,Human Rights
+2466,Politics
+2467,Crime
+2468,Corruption
+2468,Crime
+2469,Culture
+2469,Politics
+2471,Politics
+2471,War
+2472,Human Rights
+2472,War
+2474,Corruption
+2474,Crime
+2475,Crime
+2475,Politics
+2477,Business
+2477,Culture
+2477,Politics
+2478,Crime
+2478,Human Rights
+2479,Politics
+2481,Culture
+2481,Human Rights
+2481,Politics
+2482,Human Rights
+2482,Politics
+2482,War
+2483,War
+2484,Human Rights
+2484,Politics
+2485,War
+2486,Culture
+2486,Politics
+2487,Crime
+2487,Politics
+2487,War
+2488,Politics
+2489,Corruption
+2490,Politics
+2491,Politics
+2491,War
+2494,Culture
+2495,Politics
+2497,Politics
+2499,Culture
+2499,Politics
+2500,Corruption
+2500,Crime
+2500,Politics
+2502,War
+2503,Human Rights
+2503,Politics
+2504,War
+2505,War
+2507,Corruption
+2507,Crime
+2508,Human Rights
+2509,Human Rights
+2509,Politics
+2510,Business
+2510,Politics
+2511,Corruption
+2514,Politics
+2517,Politics
+2518,Corruption
+2518,Crime
+2520,War
+2521,Human Rights
+2521,Politics
+2521,War
+2523,Politics
+2524,Human Rights
+2524,Politics
+2525,War
+2526,Politics
+2526,War
+2527,Sports
+2528,Human Rights
+2528,Politics
+2529,War
+2530,Culture
+2530,Sports
+2531,Politics
+2532,Politics
+2533,Culture
+2533,Human Rights
+2533,Politics
+2534,Culture
+2534,Human Rights
+2536,Culture
+2536,Politics
+2538,Politics
+2539,Corruption
+2539,Crime
+2540,Culture
+2542,Business
+2542,Crime
+2542,Corruption
+2542,Human Rights
+2542,Politics
+2542,War
+2543,Crime
+2545,Corruption
+2545,Politics
+2547,War
+2548,War
+2550,Politics
+2551,Human Rights
+2551,Politics
+2551,War
+2554,Crime
+2554,Sports
+2556,Politics
+2558,Corruption
+2558,Politics
+2559,Human Rights
+2560,Business
+2560,Corruption
+2560,Crime
+2560,Culture
+2560,Human Rights
+2560,Politics
+2561,Culture
+2562,Human Rights
+2562,Politics
+2562,War
+2564,Politics
+2565,Corruption
+2565,Politics
+2566,Politics
+2568,Politics
+2569,Business
+2569,Culture
+2570,War
+2572,Crime
+2573,Business
+2573,Culture
+2573,Politics
+2576,Human Rights
+2576,Politics
+2577,Politics
+2581,Human Rights
+2582,Human Rights
+2582,War
+2583,Politics
+2583,War
+2585,Politics
+2587,Corruption
+2588,Politics
+2589,Culture
+2590,Culture
+2592,Corruption
+2592,Politics
+2594,Politics
+2596,Corruption
+2596,Crime
+2596,Human Rights
+2596,Politics
+2597,War
+2598,War
+2599,Corruption
+2599,Politics
+2600,Crime
+2601,Business
+2601,Corruption
+2601,Crime
+2603,War
+2604,Sports
+2607,Sports
+2607,Culture
+2608,Human Rights
+2608,Politics
+2609,Politics
+2610,Crime
+2611,Corruption
+2611,Crime
+2611,Politics
+2612,Culture
+2612,Human Rights
+2612,Politics
+2612,Sports
+2613,Corruption
+2613,Politics
+2614,Business
+2614,Culture
+2614,Politics
+2616,Business
+2616,Human Rights
+2617,Corruption
+2617,Politics
+2620,Human Rights
+2620,War
+2621,Politics
+2621,War
+2622,Culture
+2622,Human Rights
+2622,Politics
+2623,Politics
+2623,War
+2624,Human Rights
+2624,Politics
+2626,Business
+2626,Corruption
+2626,Crime
+2626,Human Rights
+2626,Politics
+2626,War
+2629,Business
+2629,Politics
+2631,Politics
+2632,Corruption
+2632,Politics
+2633,Politics
+2634,Politics
+2636,Corruption
+2636,Human Rights
+2636,Politics
+2637,Politics
+2638,Crime
+2639,Corruption
+2640,Corruption
+2640,Politics
+2641,Corruption
+2641,Crime
+2642,Culture
+2643,Culture
+2643,Human Rights
+2643,Politics
+2644,Crime
+2644,Culture
+2644,Human Rights
+2644,Politics
+2645,Human Rights
+2646,War
+2648,Human Rights
+2649,Politics
+2650,Politics
+2651,Corruption
+2652,Politics
+2652,Corruption
+2655,Politics
+2656,Culture
+2656,Politics
+2658,War
+2659,Corruption
+2660,Politics
+2661,Business
+2661,Culture
+2661,Human Rights
+2661,Politics
+2663,Politics
+2663,War
+2665,Politics
+2666,War
+2669,Human Rights
+2669,Politics
+2669,War
+2670,Corruption
+2671,Politics
+2672,War
+2673,Culture
+2673,Politics
+2674,Culture
+2674,Politics
+2675,Politics
+2676,Corruption
+2676,Politics
+2677,Politics
+2678,Corruption
+2678,Human Rights
+2678,Politics
+2681,Human Rights
+2681,Politics
+2681,War
+2683,Culture
+2684,Human Rights
+2684,Politics
+2684,War
+2685,Politics
+2685,War
+2686,Corruption
+2686,Crime
+2686,Politics
+2688,Business
+2688,Corruption
+2688,Crime
+2688,Politics
+2688,Sports
+2689,Culture
+2689,Sports
+2689,War
+2690,War
+2691,Politics
+2691,Culture
+2695,Politics
+2696,Human Rights
+2696,Politics
+2698,Corruption
+2698,Crime
+2698,Politics
+2699,Corruption
+2699,Crime
+2700,Crime
+2700,Politics
+2701,Corruption
+2701,Crime
+2701,Politics
+2702,Crime
+2703,Corruption
+2703,Human Rights
+2703,Politics
+2705,Politics
+2706,Corruption
+2706,Politics
+2707,Human Rights
+2707,Politics
+2707,War
+2708,Human Rights
+2708,Politics
+2708,War
+2709,Human Rights
+2709,War
+2710,War
+2711,War
+2712,War
+2713,Corruption
+2713,Human Rights
+2713,Politics
+2714,Politics
+2714,War
+2715,Culture
+2715,Human Rights
+2715,Politics
+2718,War
+2719,Corruption
+2719,Human Rights
+2720,Politics
+2720,War
+2722,Politics
+2723,Politics
+2724,Politics
+2725,Crime
+2725,Human Rights
+2725,Politics
+2726,Politics
+2726,War
+2728,Human Rights
+2728,Politics
+2730,Politics
+2731,Corruption
+2731,Politics
+2732,Crime
+2732,Politics
+2733,Business
+2733,Corruption
+2733,Crime
+2733,Human Rights
+2733,Politics
+2733,War
+2734,Politics
+2735,Corruption
+2736,Human Rights
+2736,Politics
+2737,Human Rights
+2738,Politics
+2740,Business
+2740,Crime
+2740,Politics
+2741,Corruption
+2741,Crime
+2742,Politics
+2743,Business
+2743,Corruption
+2743,Crime
+2743,Culture
+2743,Human Rights
+2743,Politics
+2743,Sports
+2743,War
+2744,Business
+2744,Corruption
+2744,Crime
+2744,Culture
+2744,Human Rights
+2744,Politics
+2744,Sports
+2744,War
+2745,Politics
+2747,Culture
+2747,Politics
+2748,Culture
+2748,Human Rights
+2748,Politics
+2749,Politics
+2750,Politics
+2751,Culture
+2753,Business
+2753,Corruption
+2753,Crime
+2754,Human Rights
+2756,Human Rights
+2757,Politics
+2757,War
+2759,Politics
+2761,Politics
+2762,War
+2763,Corruption
+2763,Crime
+2765,Culture
+2766,Corruption
+2768,Politics
+2768,War
+2769,Business
+2769,Culture
+2769,Politics
+2769,Sports
+2770,War
+2773,Culture
+2775,Human Rights
+2775,Politics
+2776,Crime
+2777,Human Rights
+2780,War
+2781,Crime
+2781,Politics
+2783,Crime
+2784,Crime
+2785,Corruption
+2785,Crime
+2788,Politics
+2789,Corruption
+2789,Politics
+2791,Politics
+2791,War
+2792,Politics
+2793,Corruption
+2793,Crime
+2794,Crime
+2797,Culture
+2797,Politics
+2798,Corruption
+2799,Politics
+2800,Corruption
+2801,Corruption
+2801,Politics
+2803,Politics
+2804,Business
+2804,Corruption
+2804,Crime
+2804,Culture
+2804,Human Rights
+2804,Politics
+2805,Politics
+2807,Politics
+2808,Politics
+2809,Crime
+2809,Politics
+2811,Politics
+2812,Corruption
+2812,Crime
+2813,Culture
+2813,Human Rights
+2813,Politics
+2815,War
+2817,Human Rights
+2818,Human Rights
+2820,Human Rights
+2820,War
+2822,Business
+2822,Culture
+2823,Business
+2823,Culture
+2825,Politics
+2825,Human Rights
+2825,War
+2826,Politics
+2827,Politics
+2828,Politics
+2829,Culture
+2829,Politics
+2829,War
+2831,Corruption
+2832,Culture
+2832,Human Rights
+2832,Politics
+2835,Business
+2835,Corruption
+2835,Crime
+2835,Culture
+2835,Human Rights
+2835,Politics
+2835,War
+2836,Crime
+2837,Politics
+2838,Politics
+2838,Business
+2838,Corruption
+2838,Crime
+2838,Culture
+2838,Human Rights
+2838,War
+2839,War
+2840,Culture
+2840,Politics
+2841,Politics
+2842,Business
+2842,Politics
+2843,Politics
+2844,Human Rights
+2844,Politics
+2845,Culture
+2845,Politics
+2846,Culture
+2846,Politics
+2847,Politics
+2848,War
+2849,Culture
+2850,Politics
+2850,Sports
+2851,Culture
+2851,Sports
+2852,Culture
+2855,War
+2857,Politics
+2858,Corruption
+2858,Culture
+2858,Politics
+2859,Politics
+2860,Corruption
+2860,Culture
+2860,Human Rights
+2860,Politics
+2861,Corruption
+2862,Business
+2862,Culture
+2862,Politics
+2862,War
+2863,Culture
+2864,Human Rights
+2864,War
+2865,Politics
+2866,Human Rights
+2866,Politics
+2871,War
+2872,War
+2873,Crime
+2873,Human Rights
+2873,Politics
+2874,Corruption
+2874,Crime
+2874,Human Rights
+2875,Business
+2875,Corruption
+2875,Crime
+2875,Culture
+2875,Human Rights
+2875,Politics
+2876,Corruption
+2879,Politics
+2881,Corruption
+2881,Crime
+2881,Culture
+2881,Human Rights
+2881,Politics
+2882,Human Rights
+2882,Politics
+2883,Politics
+2883,War
+2885,Corruption
+2885,Crime
+2885,Politics
+2886,Business
+2886,Corruption
+2886,Politics
+2886,War
+2887,Politics
+2887,War
+2888,Politics
+2889,Culture
+2889,Politics
+2890,War
+2891,Corruption
+2891,Human Rights
+2891,Politics
+2892,Business
+2892,Corruption
+2892,Human Rights
+2893,Corruption
+2893,Human Rights
+2893,Politics
+2894,Human Rights
+2894,Politics
+2894,War
+2895,Corruption
+2895,Human Rights
+2896,Corruption
+2896,Politics
+2898,Politics
+2898,War
+2900,War
+2902,Corruption
+2902,Politics
+2903,Corruption
+2903,Crime
+2905,Human Rights
+2906,War
+2907,Politics
+2908,Human Rights
+2908,Politics
+2908,War
+2909,War
+2910,Corruption
+2910,Human Rights
+2910,Politics
+2911,Politics
+2912,War
+2913,Politics
+2913,War
+2914,Corruption
+2914,Crime
+2914,Culture
+2916,Corruption
+2916,Politics
+2916,War
+2917,War
+2918,Corruption
+2918,Human Rights
+2918,Politics
+2919,Politics
+2920,Politics
+2924,Politics
+2928,Corruption
+2928,Crime
+2928,Politics
+2929,Human Rights
+2929,Politics
+2931,Corruption
+2932,War
+2933,Politics
+2935,Crime
+2935,Politics
+2936,Politics
+2937,Politics
+2938,Human Rights
+2939,Human Rights
+2940,Corruption
+2940,Crime
+2941,Business
+2941,Corruption
+2942,Politics
+2942,Human Rights
+2943,Corruption
+2944,War
+2945,Politics
+2945,War
+2947,Culture
+2947,Politics
+2948,Politics
+2949,Crime
+2950,Corruption
+2950,Human Rights
+2950,Politics
+2951,Corruption
+2951,Politics
+2952,Culture
+2952,Human Rights
+2952,Politics
+2954,Culture
+2955,Culture
+2956,Culture
+2956,Politics
+2957,Corruption
+2958,War
+2959,War
+2960,War
+2963,Politics
+2963,War
+2964,Corruption
+2964,Crime
+2964,Culture
+2964,Human Rights
+2964,Politics
+2964,War
+2966,Politics
+2967,Human Rights
+2967,Politics
+2968,Human Rights
+2968,Politics
+2969,Politics
+2971,Politics
+2971,War
+2972,Politics
+2973,Politics
+2974,Culture
+2976,Politics
+2977,Politics
+2978,War
+2979,Human Rights
+2979,Politics
+2981,Politics
+2984,Politics
+2985,Corruption
+2985,Politics
+2989,Human Rights
+2989,War
+2990,Politics
+2994,Politics
+2995,Business
+2995,Corruption
+2995,Crime
+2995,Culture
+2995,Human Rights
+2995,Politics
+2995,Sports
+2995,War
+2996,Human Rights
+2996,Politics
+2996,War
+2997,Corruption
+2997,Human Rights
+2997,Politics
+2998,Corruption
+2998,Human Rights
+2998,Politics
+2999,Human Rights
+2999,Politics
+2999,War
+3000,Corruption
+3000,Human Rights
+3000,Politics
+3001,Politics
+3002,Human Rights
+3002,Politics
+3003,Business
+3003,Culture
+3003,Politics
+3003,Sports
+3005,Culture
+3005,Human Rights
+3006,Crime
+3006,Politics
+3008,War
+3009,Human Rights
+3010,War
+3011,Human Rights
+3011,Politics
+3013,War
+3014,War
+3015,Crime
+3016,Corruption
+3016,Crime
+3016,Politics
+3017,Politics
+3019,Politics
+3020,War
+3022,Human Rights
+3022,Politics
+3025,Politics
+3026,Business
+3026,Corruption
+3026,Crime
+3026,Culture
+3026,Human Rights
+3026,Politics
+3026,Sports
+3028,Culture
+3028,War
+3029,Politics
+3030,Politics
+3031,Politics
+3032,Politics
+3033,War
+3034,Politics
+3034,War
+3035,War
+3037,Politics
+3038,Politics
+3040,War
+3041,Politics
+3042,Culture
+3042,Human Rights
+3042,Politics
+3043,Culture
+3043,Politics
+3044,Human Rights
+3044,Politics
+3047,Corruption
+3047,Crime
+3048,Politics
+3049,Politics
+3051,Corruption
+3051,Politics
+3052,Politics
+3054,Politics
+3054,War
+3055,Human Rights
+3055,Politics
+3056,Culture
+3056,Human Rights
+3056,Politics
+3057,Politics
+3058,Politics
+3062,Politics
+3065,Politics
+3066,Human Rights
+3066,Politics
+3067,Corruption
+3067,Human Rights
+3067,Politics
+3068,Politics
+3069,Politics
+3069,War
+3070,Human Rights
+3071,Corruption
+3071,Human Rights
+3071,War
+3072,Crime
+3072,Culture
+3072,Human Rights
+3072,Politics
+3073,Corruption
+3073,Crime
+3074,Politics
+3075,Corruption
+3075,Crime
+3077,Corruption
+3078,Corruption
+3078,Culture
+3078,Human Rights
+3078,Politics
+3079,Culture
+3079,Politics
+3080,Politics
+3082,Culture
+3082,Politics
+3084,Politics
+3084,War
+3085,Business
+3085,Human Rights
+3086,Politics
+3088,Human Rights
+3088,Politics
+3089,Politics
+3092,Corruption
+3093,Corruption
+3093,Culture
+3093,Human Rights
+3093,Politics
+3094,Corruption
+3094,Crime
+3094,Human Rights
+3095,Politics
+3096,War
+3097,Sports
+3098,Culture
+3099,War
+3101,Culture
+3101,Human Rights
+3101,Politics
+3103,Human Rights
+3103,Politics
+3103,War
+3104,Corruption
+3104,Crime
+3104,War
+3105,Culture
+3105,Sports
+3107,Corruption
+3107,Politics
+3109,Corruption
+3109,Culture
+3109,Human Rights
+3109,War
+3110,Human Rights
+3111,Politics
+3111,Corruption
+3112,Crime
+3113,Politics
+3113,War
+3114,Politics
+3114,War
+3114,Human Rights
+3114,Culture
+3115,War
+3116,Politics
+3119,Human Rights
+3119,War
+3120,Human Rights
+3120,Politics
+3122,Politics
+3123,Culture
+3123,Politics
+3126,War
+3128,War
+3129,Corruption
+3129,Human Rights
+3129,Politics
+3132,Politics
+3133,War
+3134,Corruption
+3134,Human Rights
+3135,Business
+3135,Crime
+3135,Human Rights
+3135,Politics
+3137,War
+3138,Corruption
+3138,Politics
+3139,Politics
+3140,War
+3141,Culture
+3141,Politics
+3141,War
+3142,Crime
+3142,Politics
+3144,War
+3145,Human Rights
+3145,Politics
+3147,Business
+3147,Corruption
+3147,Crime
+3147,Human Rights
+3147,Politics
+3148,Human Rights
+3148,Politics
+3148,War
+3149,Corruption
+3149,Politics
+3150,Politics
+3150,War
+3152,Human Rights
+3152,Politics
+3153,Politics
+3154,Politics
+3155,Corruption
+3155,Politics
+3156,Politics
+3157,War
+3158,War
+3159,Politics
+3161,Corruption
+3161,Crime
+3161,Human Rights
+3162,War
+3163,Politics
+3164,Culture
+3164,Politics
+3166,Politics
+3166,War
+3167,Politics
+3169,Politics
+3170,Politics
+3171,Politics
+3172,Culture
+3174,Sports
+3176,Corruption
+3176,Human Rights
+3176,Politics
+3181,War
+3182,Politics
+3184,Business
+3184,Politics
+3185,Corruption
+3185,Human Rights
+3185,Politics
+3186,Sports
+3187,Politics
+3188,Politics
+3188,War
+3190,Politics
+3191,Human Rights
+3191,Politics
+3192,Politics
+3193,Corruption
+3193,Crime
+3193,Culture
+3193,Human Rights
+3193,Politics
+3193,War
+3194,War
+3195,Human Rights
+3195,Politics
+3195,War
+3197,Politics
+3198,Human Rights
+3198,Politics
+3199,Human Rights
+3199,Politics
+3200,Politics
+3201,Politics
+3202,Human Rights
+3202,Politics
+3203,Human Rights
+3203,Politics
+3204,Human Rights
+3204,Politics
+3205,Human Rights
+3205,Politics
+3206,Culture
+3206,Human Rights
+3206,Politics
+3208,Culture
+3208,Politics
+3209,Politics
+3211,War
+3214,War
+3215,Crime
+3216,Politics
+3218,Corruption
+3218,Crime
+3220,Human Rights
+3220,Politics
+3223,Crime
+3224,Corruption
+3225,Politics
+3226,Business
+3226,Human Rights
+3226,Politics
+3227,Politics
+3228,Politics
+3229,Corruption
+3229,Politics
+3232,Human Rights
+3232,Politics
+3232,Corruption
+3233,Politics
+3234,Culture
+3234,Human Rights
+3234,Politics
+3236,Corruption
+3236,Politics
+3238,Business
+3238,Corruption
+3238,Crime
+3238,Culture
+3238,Human Rights
+3238,Politics
+3239,Politics
+3241,Politics
+3242,Human Rights
+3242,Politics
+3242,War
+3243,Culture
+3244,Politics
+3245,Corruption
+3245,Culture
+3245,Politics
+3246,Human Rights
+3246,Politics
+3247,Politics
+3248,Corruption
+3250,Corruption
+3253,Business
+3253,Politics
+3254,Crime
+3254,Human Rights
+3254,Politics
+3255,War
+3256,Politics
+3257,Human Rights
+3257,Politics
+3258,Corruption
+3258,Human Rights
+3258,Politics
+3259,Business
+3259,Human Rights
+3259,Politics
+3261,Culture
+3262,Human Rights
+3262,Politics
+3262,Sports
+3262,War
+3264,Business
+3264,Crime
+3266,Culture
+3266,Politics
+3267,Corruption
+3267,Crime
+3268,Business
+3268,Culture
+3268,Politics
+3269,Business
+3269,Corruption
+3269,Crime
+3269,Culture
+3269,Human Rights
+3269,Politics
+3269,Sports
+3269,War
+3272,Corruption
+3272,Crime
+3272,Politics
+3273,Corruption
+3273,Crime
+3275,Sports
+3277,Crime
+3279,Politics
+3279,War
+3281,Politics
+3282,Politics
+3283,Human Rights
+3283,Politics
+3283,War
+3284,Politics
+3285,Corruption
+3285,Crime
+3287,Culture
+3287,Human Rights
+3287,Politics
+3288,Culture
+3288,Human Rights
+3288,Politics
+3290,Crime
+3292,War
+3292,Human Rights
+3293,Culture
+3293,Politics
+3293,War
+3294,Politics
+3296,Corruption
+3296,Crime
+3298,Politics
+3300,Business
+3300,Politics
+3301,Corruption
+3303,Crime
+3304,Business
+3304,Culture
+3304,Politics
+3305,War
+3307,Human Rights
+3307,Politics
+3308,Culture
+3308,Politics
+3309,Human Rights
+3309,Politics
+3310,Politics
+3312,Politics
+3313,Politics
+3313,War
+3314,Corruption
+3314,Crime
+3315,Politics
+3316,Business
+3316,Crime
+3317,Business
+3317,Corruption
+3317,Politics
+3318,War
+3319,War
+3320,Business
+3320,Crime
+3320,Culture
+3320,Politics
+3321,Corruption
+3321,Crime
+3322,War
+3323,War
+3324,Politics
+3326,Politics
+3329,Crime
+3331,Politics
+3333,Business
+3333,Human Rights
+3333,Politics
+3333,War
+3334,War
+3335,Corruption
+3335,Crime
+3335,Culture
+3335,Politics
+3335,War
+3336,Human Rights
+3336,Politics
+3337,Culture
+3337,Politics
+3338,War
+3338,Human Rights
+3340,Politics
+3342,Corruption
+3342,Politics
+3343,War
+3344,War
+3345,Corruption
+3345,Human Rights
+3345,Politics
+3346,Crime
+3347,Corruption
+3347,Crime
+3347,Human Rights
+3347,Politics
+3349,Human Rights
+3349,Politics
+3349,War
+3350,Culture
+3350,Human Rights
+3350,Politics
+3351,Politics
+3351,War
+3352,Politics
+3352,Human Rights
+3353,Politics
+3354,Politics
+3355,Corruption
+3355,Politics
+3356,Politics
+3357,Corruption
+3357,Human Rights
+3357,Politics
+3360,Politics
+3362,Corruption
+3362,Human Rights
+3362,Politics
+3363,Business
+3364,Politics
+3365,Politics
+3366,Human Rights
+3366,Politics
+3366,War
+3367,Culture
+3367,Human Rights
+3367,Politics
+3369,Culture
+3369,Politics
+3370,Corruption
+3370,Crime
+3370,Human Rights
+3370,Politics
+3371,Politics
+3372,Human Rights
+3373,Corruption
+3373,Human Rights
+3374,Politics
+3375,Business
+3375,Culture
+3375,Sports
+3378,Crime
+3382,Human Rights
+3382,Politics
+3383,Human Rights
+3383,Politics
+3384,Politics
+3385,Culture
+3385,Politics
+3386,War
+3387,Business
+3388,Business
+3388,Corruption
+3392,Politics
+3393,Corruption
+3393,Politics
+3393,Human Rights
+3394,Politics
+3395,Corruption
+3396,Politics
+3397,Politics
+3399,Politics
+3400,Politics
+3401,Politics
+3402,Culture
+3403,War
+3404,Human Rights
+3404,Politics
+3406,Politics
+3407,Politics
+3408,Corruption
+3408,Crime
+3408,Human Rights
+3408,Politics
+3409,Politics
+3410,Crime
+3411,Politics
+3413,Corruption
+3413,Politics
+3414,Politics
+3415,Politics
+3416,Business
+3416,Corruption
+3416,Culture
+3416,Human Rights
+3416,Politics
+3417,Politics
+3417,Corruption
+3418,Culture
+3418,Politics
+3419,Corruption
+3419,Politics
+3420,Corruption
+3420,Human Rights
+3420,Politics
+3421,Corruption
+3421,Human Rights
+3421,Politics
+3422,Human Rights
+3423,Politics
+3424,Politics
+3426,Politics
+3426,War
+3427,War
+3428,Politics
+3430,Human Rights
+3430,Politics
+3431,Politics
+3433,Sports
+3434,Culture
+3434,Sports
+3435,War
+3436,Politics
+3436,War
+3437,Corruption
+3437,Crime
+3437,Culture
+3437,Human Rights
+3439,Human Rights
+3440,Politics
+3441,Business
+3441,Human Rights
+3441,Politics
+3442,Human Rights
+3442,Politics
+3445,Politics
+3448,Politics
+3450,Politics
+3450,Human Rights
+3453,Corruption
+3453,Human Rights
+3453,Politics
+3454,Human Rights
+3454,Politics
+3454,War
+3455,Politics
+3456,Human Rights
+3456,War
+3457,Politics
+3458,Human Rights
+3458,Politics
+3458,War
+3459,Politics
+3459,War
+3460,Politics
+3461,Politics
+3462,Politics
+3463,Corruption
+3463,Politics
+3465,Corruption
+3465,Human Rights
+3465,War
+3466,Corruption
+3466,Crime
+3467,War
+3468,Human Rights
+3468,Politics
+3469,Human Rights
+3469,Politics
+3469,War
+3470,Business
+3470,Corruption
+3470,Crime
+3470,Culture
+3470,Human Rights
+3470,Politics
+3470,Sports
+3470,War
+3471,Politics
+3472,Politics
+3473,Politics
+3475,Politics
+3476,War
+3477,Politics
+3478,Politics
+3479,Culture
+3479,Human Rights
+3479,Politics
+3479,War
+3480,Corruption
+3482,Human Rights
+3482,Politics
+3482,War
+3483,War
+3485,Culture
+3485,Politics
+3486,Human Rights
+3487,War
+3488,Human Rights
+3490,Business
+3490,Culture
+3490,Human Rights
+3490,Politics
+3493,Human Rights
+3493,Politics
+3495,Human Rights
+3495,Politics
+3496,Business
+3497,Politics
+3498,Corruption
+3498,Politics
+3498,Human Rights
+3499,Politics
+3502,Human Rights
+3502,Politics
+3502,War
+3504,Business
+3504,Culture
+3506,Politics
+3507,Human Rights
+3507,Politics
+3508,Corruption
+3508,Politics
+3513,Politics
+3514,Human Rights
+3514,Politics
+3515,Human Rights
+3516,Corruption
+3517,Corruption
+3517,Human Rights
+3517,Politics
+3518,Politics
+3519,Culture
+3520,Human Rights
+3521,Human Rights
+3521,Politics
+3522,Politics
+3523,Culture
+3523,Politics
+3524,Politics
+3525,Politics
+3526,Politics
+3528,Politics
+3529,Politics
+3530,Human Rights
+3530,Politics
+3531,Politics
+3532,Politics
+3533,War
+3534,Politics
+3535,Business
+3536,Business
+3539,Corruption
+3539,Politics
+3541,Corruption
+3542,Politics
+3543,Politics
+3544,Politics
+3545,Corruption
+3545,Crime
+3546,Human Rights
+3546,Politics
+3546,War
+3547,Human Rights
+3547,Politics
+3548,Human Rights
+3548,Politics
+3548,Corruption
+3548,Culture
+3549,Business
+3550,Politics
+3551,Business
+3551,Culture
+3555,Business
+3555,Crime
+3555,Culture
+3555,Politics
+3556,Politics
+3557,Corruption
+3558,Culture
+3558,Human Rights
+3558,Politics
+3558,War
+3559,Human Rights
+3559,Politics
+3560,Corruption
+3560,Politics
+3561,Politics
+3562,Politics
+3563,Business
+3563,Corruption
+3563,Crime
+3563,Culture
+3563,Human Rights
+3563,Politics
+3563,Sports
+3563,War
+3564,Politics
+3565,Business
+3565,Crime
+3565,Politics
+3570,Sports
+3571,Human Rights
+3571,Politics
+3572,Business
+3572,Corruption
+3572,Crime
+3572,Culture
+3572,Human Rights
+3572,Politics
+3572,Sports
+3572,War
+3574,Corruption
+3574,Crime
+3574,Human Rights
+3574,Politics
+3574,War
+3575,Human Rights
+3575,Politics
+3575,War
+3576,Human Rights
+3576,Politics
+3576,War
+3576,Corruption
+3576,Crime
+3577,Business
+3577,Corruption
+3577,Crime
+3577,Culture
+3577,Human Rights
+3577,Politics
+3577,Sports
+3577,War
+3578,Culture
+3578,Human Rights
+3578,Politics
+3578,War
+3579,Business
+3579,Corruption
+3579,Crime
+3579,Culture
+3579,Human Rights
+3579,Politics
+3579,Sports
+3579,War
+3580,Politics
+3581,Business
+3581,Corruption
+3581,Crime
+3581,Culture
+3581,Human Rights
+3581,Politics
+3581,Sports
+3581,War
+3582,Human Rights
+3582,Politics
+3582,War
+3583,Corruption
+3583,Crime
+3586,Politics
+3587,Business
+3587,Corruption
+3587,Crime
+3587,Culture
+3587,Human Rights
+3587,Politics
+3587,Sports
+3587,War
